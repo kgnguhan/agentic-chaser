@@ -1,6 +1,7 @@
 sqlalchemy
 psycopg2-binary
 python-dotenv
+joblib
 altair
 langgraph
 langchain-core
