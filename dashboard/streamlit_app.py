@@ -49,9 +49,23 @@ from dashboard.components import (
     run_workflow_with_steps,
 )
 
-st.set_page_config(page_title="Agentic Chaser", layout="wide", initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Agentic Chaser", layout="wide", initial_sidebar_state="expanded")
 st.title("Agentic Chaser")
 st.caption("LOA and document chaser for advisors. Use the tabs below to switch views.")
+
+# Sidebar: load test data (for empty DB, e.g. on first deploy)
+with st.sidebar:
+    st.subheader("Data")
+    if st.button("Load test data", help="Load sample LOAs and clients from data/test (replaces existing data)"):
+        try:
+            from scripts.load_test_data import load_test_data
+            load_test_data()
+            st.success("Test data loaded. Refreshing…")
+            st.rerun()
+        except FileNotFoundError as e:
+            st.error(f"Test data not found: {e}")
+        except Exception as e:
+            st.error(f"Failed to load test data: {e}")
 
 # Ensure we can load priority queue (DB + models); fetch all active for KPIs/charts
 try:
@@ -60,7 +74,7 @@ except FileNotFoundError:
     st.error("ML models not found. Run: **python main.py train**")
     st.stop()
 except Exception:
-    st.error("Database not initialized or connection failed. Run: **python main.py init-db** then **python main.py seed**.")
+    st.error("Database not initialized or connection failed. Run: **python main.py init-db** then load test data from the sidebar.")
     st.stop()
 
 table_items = items[:20] if items else []
@@ -96,7 +110,7 @@ with tab_actions:
 
     def _run_workflow_section(table_items: list, suffix: str) -> None:
         if not table_items:
-            st.info("No LOAs in this view. Load test data with **python main.py seed** or select the other tab.")
+            st.info("No LOAs in this view. Click **Load test data** in the sidebar to load sample data, or select the other tab.")
             return
         wf_col1, wf_col2, wf_col3 = st.columns([2, 1, 1])
         with wf_col1:
@@ -388,7 +402,7 @@ with tab_clients:
     client_list = get_client_list()
     st.markdown("**Clients** — select a row for details")
     if not client_list:
-        st.info("No clients. Run **python main.py seed** to load test data.")
+        st.info("No clients. Click **Load test data** in the sidebar to load sample data.")
     else:
         c_rows, c_config = build_client_table_data(client_list)
         c_event = st.dataframe(

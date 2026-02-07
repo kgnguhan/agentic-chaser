@@ -267,7 +267,7 @@ def build_priority_queue_table(items: list[dict[str, Any]]) -> tuple[list[dict[s
 def render_priority_queue(items: list[dict[str, Any]]) -> None:
     """Render the priority queue table with descriptive headers. Handles empty list with a message."""
     if not items:
-        st.info("No LOAs needing action. Run **python main.py seed** to load test data.")
+        st.info("No LOAs needing action. Use **Load test data** in the sidebar to load sample data.")
         return
     rows, column_config = build_priority_queue_table(items)
     st.dataframe(
