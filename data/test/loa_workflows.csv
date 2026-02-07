@@ -1,0 +1,13 @@
+loa_id,client_id,provider,case_type,current_state,priority_score,days_in_current_state,sla_days,sla_days_remaining,document_quality_score,signature_verified,reference_number,needs_advisor_intervention,sla_overdue
+L001,C001,Aviva,Pension Consolidation,Prepared,2.1,1,15,14,70.0,False,,False,False
+L002,C001,Standard Life,Pension Consolidation,Client Signed,3.5,3,15,12,85.0,True,,False,False
+L003,C001,Legal & General,Pension Consolidation,Provider Submitted,4.2,5,15,10,88.0,True,REF_LG_10234,False,False
+L004,C002,Scottish Widows,Pension Consolidation,Provider Processing,5.8,9,15,6,90.0,True,REF_SW_55821,False,False
+L005,C002,Royal London,Pension Consolidation,Provider Processing,8.9,18,15,-3,82.0,True,REF_RL_88410,True,True
+L006,C003,Aviva,Pension Consolidation,Info Received,6.0,2,15,0,93.0,True,REF_AV_33421,False,False
+L007,C003,Standard Life,Pension Consolidation,Incomplete Info,7.5,4,15,-1,75.0,True,REF_SL_99871,True,True
+L008,C004,Legal & General,Pension Consolidation,Prepared,3.0,2,20,18,60.0,False,,False,False
+L009,C004,Royal London,Pension Consolidation,Client Signed,4.0,5,20,15,72.0,True,,False,False
+L010,C005,Scottish Widows,Pension Consolidation,Provider Submitted,6.3,7,10,3,89.0,True,REF_SW_22011,False,False
+L011,C005,Aviva,Pension Consolidation,Complete,1.2,0,15,0,95.0,True,REF_AV_11990,False,False
+L012,C005,Standard Life,Pension Consolidation,Provider Processing,9.5,21,10,-11,68.0,True,REF_SL_77102,True,True

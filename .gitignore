@@ -1,0 +1,41 @@
+# Virtual environments
+venv/
+venv311/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.egg-info/
+dist/
+build/
+*.egg
+
+# Environment and secrets
+.env
+.env.local
+*.env
+
+# IDE and editor
+.idea/
+.vscode/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+data/uploads/
+data/documents/
+data/evidence/
+*.log
+.cursor/debug.log
+
+# Keep trained models if you want to track them; uncomment to ignore:
+# data/trained_models/*.pkl

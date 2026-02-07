@@ -1,0 +1,11 @@
+message_id,client_id,direction,channel,message_text,sentiment_label,sentiment_score,message_length_words,contains_question,response_time_hours
+M001,C001,Client to Advisor,Email,"Hi, just checking if my pension providers have responded yet?",Neutral,0.55,12,True,24.0
+M002,C001,Advisor to Client,Email,"Thanks Alice, Aviva is still processing your LOA. We expect an update next week.",Positive,0.78,18,False,4.0
+M003,C002,Client to Advisor,Phone,I've sent these forms twice already. Why is this still not sorted?,Frustrated,0.15,15,True,36.0
+M004,C002,Advisor to Client,Phone,"I completely understand, Ben. Royal London are delayed, and we're escalating this for you.",Positive,0.82,20,False,1.0
+M005,C003,Client to Advisor,WhatsApp,Not sure which document you mean by proof of address. Can you clarify?,Confused,0.3,16,True,5.0
+M006,C003,Advisor to Client,WhatsApp,Any recent utility bill or bank statement with your address will work.,Positive,0.8,13,False,2.0
+M007,C004,Client to Advisor,SMS,"Sorry, been really busy. I'll try to upload the payslip this weekend.",Neutral,0.6,16,False,48.0
+M008,C004,Advisor to Client,SMS,"No problem David, thanks for letting us know. A reminder will come through on Monday.",Positive,0.75,19,False,3.0
+M009,C005,Client to Advisor,Email,Do I really need to complete the risk questionnaire again?,Frustrated,0.25,11,True,12.0
+M010,C005,Advisor to Client,Email,"Yes Emma, regulations require an updated questionnaire, but it should only take 5–10 minutes.",Positive,0.77,21,False,6.0

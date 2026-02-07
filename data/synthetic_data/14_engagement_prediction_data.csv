@@ -1,0 +1,201 @@
+item_type,days_outstanding,current_state,completion_percentage,sent_via,opened,days_since_last_interaction,client_responsiveness,client_communication_pref,days_until_deadline,is_overdue,likely_to_complete,needs_escalation
+Investment Confirmation,10,Partially Completed,6,Portal,True,2,Very High,WhatsApp,3,False,1,0
+Pension Transfer Authority,4,Completed,100,Email,False,9,Medium,SMS,9,False,1,0
+Investment Confirmation,29,Partially Completed,90,WhatsApp,False,6,Very High,SMS,0,False,1,1
+Terms & Conditions,29,Resubmitted,0,Portal,True,4,Very High,Phone,0,False,0,1
+AML Verification,12,Partially Completed,96,Portal,True,4,Low,Email,1,False,1,1
+Pension Transfer Authority,3,Sent,0,SMS,False,6,Medium,Phone,10,False,0,0
+Anti-Money Laundering Document,16,Rejected,0,SMS,True,4,High,WhatsApp,0,False,0,1
+Investment Confirmation,24,Completed,100,Email,True,9,High,SMS,0,False,1,0
+Application Form,15,Completed,100,Email,True,5,High,Email,0,False,1,0
+AML Verification,22,Resubmitted,0,SMS,False,3,Medium,SMS,0,False,0,1
+AML Verification,2,Rejected,0,Email,True,1,Medium,SMS,11,False,0,0
+Authority to Proceed,25,Partially Completed,77,Portal,True,1,High,Email,0,False,1,1
+AML Verification,10,Resubmitted,0,Portal,True,9,Medium,SMS,3,False,0,0
+Pension Transfer Authority,26,Sent,0,WhatsApp,False,2,Very High,SMS,0,False,0,1
+Risk Questionnaire,22,Opened,0,Email,True,6,High,Email,0,False,0,1
+AML Verification,17,Opened,0,Portal,True,1,Low,Phone,0,False,0,1
+Pension Transfer Authority,8,Completed,100,WhatsApp,True,7,Low,Phone,5,False,1,0
+Authority to Proceed,11,Completed,100,Portal,True,9,High,Email,2,False,1,0
+Application Form,15,Completed,100,WhatsApp,True,3,Very High,Phone,0,False,1,0
+Terms & Conditions,17,Sent,0,Email,True,0,High,SMS,0,False,0,1
+Investment Confirmation,21,Partially Completed,94,Portal,False,6,Very High,Email,0,False,1,1
+Investment Confirmation,23,Resubmitted,0,Email,True,0,Low,Email,0,False,0,1
+Anti-Money Laundering Document,19,Partially Completed,17,SMS,False,3,Very High,SMS,0,False,1,1
+AML Verification,19,Partially Completed,6,Email,False,3,Low,Email,0,False,1,1
+Risk Questionnaire,5,Pending,0,Portal,True,6,Medium,WhatsApp,8,False,0,0
+Risk Questionnaire,10,Opened,0,WhatsApp,True,2,Very High,Email,3,False,0,0
+Pension Transfer Authority,1,Completed,100,WhatsApp,True,4,High,SMS,12,False,1,0
+Application Form,17,Completed,100,Email,False,3,Low,Phone,0,False,1,0
+Terms & Conditions,11,Pending,0,Portal,True,7,High,Email,2,False,0,1
+Terms & Conditions,29,Completed,100,Portal,True,9,High,SMS,0,False,1,0
+Terms & Conditions,25,Rejected,0,WhatsApp,True,7,Very High,SMS,0,False,0,1
+Investment Confirmation,20,Partially Completed,53,Email,True,7,High,Email,0,False,1,1
+Risk Questionnaire,15,Opened,0,Email,True,0,High,SMS,0,False,0,1
+Anti-Money Laundering Document,3,Rejected,0,Email,True,8,Low,WhatsApp,10,False,0,0
+Terms & Conditions,13,Opened,0,Portal,False,1,Low,Phone,0,False,0,1
+Pension Transfer Authority,23,Completed,100,SMS,True,0,High,SMS,0,False,1,0
+Application Form,17,Completed,100,WhatsApp,True,6,Medium,SMS,0,False,1,0
+Risk Questionnaire,27,Completed,100,Email,False,1,High,WhatsApp,0,False,1,0
+Authority to Proceed,17,Opened,0,SMS,True,6,Low,Email,0,False,0,1
+Investment Confirmation,4,Sent,0,Portal,True,4,Low,Email,9,False,0,0
+AML Verification,4,Completed,100,Email,True,7,Very High,Phone,9,False,1,0
+Anti-Money Laundering Document,18,Sent,0,WhatsApp,True,0,High,SMS,0,False,0,1
+Pension Transfer Authority,11,Opened,0,Email,True,8,Very High,Phone,2,False,0,1
+AML Verification,24,Partially Completed,34,SMS,True,3,Medium,SMS,0,False,1,1
+Anti-Money Laundering Document,17,Completed,100,SMS,True,6,Low,WhatsApp,0,False,1,0
+Risk Questionnaire,16,Resubmitted,0,WhatsApp,True,6,Low,Phone,0,False,0,1
+Risk Questionnaire,12,Partially Completed,94,SMS,True,3,Low,Phone,1,False,1,1
+AML Verification,6,Opened,0,Email,True,7,Medium,Phone,7,False,0,0
+Risk Questionnaire,5,Completed,100,SMS,True,3,Very High,Email,8,False,1,0
+AML Verification,12,Opened,0,SMS,True,6,Low,Email,1,False,0,1
+AML Verification,29,Sent,0,Portal,True,8,High,Email,0,False,0,1
+Investment Confirmation,25,Pending,0,SMS,True,1,Low,WhatsApp,0,False,0,1
+Terms & Conditions,28,Resubmitted,0,SMS,True,9,High,WhatsApp,0,False,0,1
+Investment Confirmation,9,Completed,100,Portal,True,6,High,Email,4,False,1,0
+Terms & Conditions,18,Completed,100,SMS,True,1,Medium,WhatsApp,0,False,1,0
+Investment Confirmation,14,Rejected,0,SMS,True,2,Low,Phone,0,False,0,1
+Terms & Conditions,10,Sent,0,Email,False,0,Low,Phone,3,False,0,0
+Anti-Money Laundering Document,24,Rejected,0,WhatsApp,True,3,Medium,Email,0,False,0,1
+Authority to Proceed,5,Completed,100,Email,False,2,Very High,Email,8,False,1,0
+Pension Transfer Authority,6,Resubmitted,0,WhatsApp,True,3,High,SMS,7,False,0,0
+Pension Transfer Authority,16,Partially Completed,94,Portal,True,7,Very High,SMS,0,False,1,1
+AML Verification,14,Rejected,0,SMS,True,7,High,Phone,0,False,0,1
+Authority to Proceed,17,Completed,100,Email,True,1,Low,Phone,0,False,1,0
+Authority to Proceed,27,Completed,100,WhatsApp,False,2,Medium,Phone,0,False,1,0
+AML Verification,26,Resubmitted,0,Email,True,6,Very High,Email,0,False,0,1
+Application Form,21,Completed,100,Email,True,0,Low,SMS,0,False,1,0
+Terms & Conditions,16,Completed,100,WhatsApp,True,4,High,Email,0,False,1,0
+Authority to Proceed,7,Opened,0,SMS,True,1,High,Email,6,False,0,0
+Pension Transfer Authority,11,Partially Completed,65,SMS,False,3,High,SMS,2,False,1,1
+Risk Questionnaire,16,Partially Completed,70,WhatsApp,True,5,Medium,WhatsApp,0,False,1,1
+Authority to Proceed,14,Completed,100,SMS,True,3,Medium,SMS,0,False,1,0
+Investment Confirmation,28,Pending,0,Portal,True,3,Low,Email,0,False,0,1
+Terms & Conditions,18,Completed,100,WhatsApp,True,5,High,SMS,0,False,1,0
+Terms & Conditions,19,Opened,0,SMS,True,1,Very High,SMS,0,False,0,1
+Application Form,16,Sent,0,WhatsApp,True,1,Medium,SMS,0,False,0,1
+Anti-Money Laundering Document,9,Opened,0,Email,True,4,Very High,Phone,4,False,0,0
+Anti-Money Laundering Document,20,Completed,100,WhatsApp,True,9,Very High,SMS,0,False,1,0
+Risk Questionnaire,15,Opened,0,SMS,True,1,Medium,Email,0,False,0,1
+Pension Transfer Authority,26,Completed,100,WhatsApp,True,5,Medium,SMS,0,False,1,0
+AML Verification,3,Completed,100,Email,True,0,Very High,SMS,10,False,1,0
+Risk Questionnaire,11,Completed,100,Email,True,5,Medium,Email,2,False,1,0
+Risk Questionnaire,27,Sent,0,WhatsApp,True,0,High,Email,0,False,0,1
+Authority to Proceed,28,Resubmitted,0,Email,True,3,Very High,Email,0,False,0,1
+Risk Questionnaire,12,Completed,100,SMS,False,1,Low,WhatsApp,1,False,1,0
+AML Verification,6,Resubmitted,0,SMS,True,3,Medium,WhatsApp,7,False,0,0
+Application Form,15,Resubmitted,0,Email,True,4,High,SMS,0,False,0,1
+Anti-Money Laundering Document,21,Completed,100,SMS,True,9,High,Email,0,False,1,0
+Anti-Money Laundering Document,15,Completed,100,Email,False,2,Very High,WhatsApp,0,False,1,0
+Investment Confirmation,13,Partially Completed,54,WhatsApp,False,5,Medium,WhatsApp,0,False,1,1
+Terms & Conditions,26,Opened,0,WhatsApp,False,8,Low,Phone,0,False,0,1
+Pension Transfer Authority,8,Partially Completed,70,Portal,True,7,Low,Email,5,False,1,0
+Pension Transfer Authority,24,Pending,0,SMS,True,1,High,SMS,0,False,0,1
+Pension Transfer Authority,9,Sent,0,SMS,True,5,Low,Phone,4,False,0,0
+AML Verification,20,Opened,0,Email,False,6,Very High,Phone,0,False,0,1
+Pension Transfer Authority,29,Pending,0,Portal,False,4,Low,SMS,0,False,0,1
+Application Form,9,Opened,0,WhatsApp,True,9,High,SMS,4,False,0,0
+Authority to Proceed,17,Completed,100,Portal,True,4,Low,Phone,0,False,1,0
+Investment Confirmation,10,Partially Completed,26,SMS,False,8,High,WhatsApp,3,False,1,0
+Anti-Money Laundering Document,27,Resubmitted,0,SMS,True,8,High,Email,0,False,0,1
+Terms & Conditions,29,Partially Completed,52,SMS,False,1,High,SMS,0,False,1,1
+Risk Questionnaire,12,Completed,100,Portal,True,3,Medium,SMS,1,False,1,0
+Application Form,17,Partially Completed,93,Email,False,6,Low,WhatsApp,0,False,1,1
+Pension Transfer Authority,22,Completed,100,Email,True,0,Low,Email,0,False,1,0
+Investment Confirmation,10,Completed,100,Portal,False,7,Low,SMS,3,False,1,0
+Authority to Proceed,17,Opened,0,WhatsApp,False,8,Very High,Phone,0,False,0,1
+Authority to Proceed,1,Completed,100,WhatsApp,True,4,Medium,WhatsApp,12,False,1,0
+Anti-Money Laundering Document,10,Pending,0,SMS,True,9,Very High,Email,3,False,0,0
+Investment Confirmation,7,Opened,0,WhatsApp,True,0,Very High,WhatsApp,6,False,0,0
+Application Form,5,Resubmitted,0,SMS,True,6,High,Email,8,False,0,0
+Pension Transfer Authority,28,Completed,100,Portal,False,5,Low,Email,0,False,1,0
+Application Form,23,Sent,0,SMS,True,4,Low,Email,0,False,0,1
+Pension Transfer Authority,11,Completed,100,Email,False,3,Low,Phone,2,False,1,0
+AML Verification,20,Rejected,0,Portal,True,5,High,Email,0,False,0,1
+Anti-Money Laundering Document,4,Completed,100,WhatsApp,False,5,Low,WhatsApp,9,False,1,0
+Anti-Money Laundering Document,17,Rejected,0,WhatsApp,True,0,High,Email,0,False,0,1
+Risk Questionnaire,20,Pending,0,SMS,True,2,Very High,SMS,0,False,0,1
+Risk Questionnaire,15,Rejected,0,WhatsApp,False,4,Very High,SMS,0,False,0,1
+Pension Transfer Authority,4,Completed,100,WhatsApp,False,2,Medium,Phone,9,False,1,0
+Application Form,26,Resubmitted,0,SMS,True,4,Very High,Email,0,False,0,1
+Application Form,17,Opened,0,Portal,True,8,High,WhatsApp,0,False,0,1
+Anti-Money Laundering Document,18,Completed,100,WhatsApp,True,9,Low,Phone,0,False,1,0
+Investment Confirmation,29,Opened,0,SMS,False,6,Low,Phone,0,False,0,1
+Authority to Proceed,14,Resubmitted,0,SMS,True,5,Very High,Phone,0,False,0,1
+Risk Questionnaire,26,Opened,0,SMS,False,8,High,WhatsApp,0,False,0,1
+Anti-Money Laundering Document,4,Partially Completed,96,Portal,False,7,Medium,Email,9,False,1,0
+Risk Questionnaire,12,Completed,100,Email,True,8,Low,Phone,1,False,1,0
+Pension Transfer Authority,1,Opened,0,SMS,False,2,High,WhatsApp,12,False,0,0
+Application Form,29,Sent,0,SMS,True,2,High,Email,0,False,0,1
+AML Verification,25,Completed,100,WhatsApp,True,6,High,Email,0,False,1,0
+Application Form,2,Sent,0,Email,True,1,Medium,SMS,11,False,0,0
+Risk Questionnaire,13,Rejected,0,SMS,True,7,Medium,Email,0,False,0,1
+Investment Confirmation,25,Completed,100,SMS,False,5,High,Email,0,False,1,0
+Anti-Money Laundering Document,3,Partially Completed,23,Email,True,9,High,SMS,10,False,1,0
+Risk Questionnaire,12,Partially Completed,65,WhatsApp,True,9,Low,Phone,1,False,1,1
+Anti-Money Laundering Document,4,Sent,0,SMS,True,4,Medium,Phone,9,False,0,0
+Risk Questionnaire,11,Completed,100,Portal,True,1,Very High,Phone,2,False,1,0
+Application Form,19,Rejected,0,WhatsApp,True,7,Medium,WhatsApp,0,False,0,1
+Investment Confirmation,27,Pending,0,SMS,True,2,High,Phone,0,False,0,1
+Risk Questionnaire,29,Partially Completed,40,Email,True,2,Very High,WhatsApp,0,False,1,1
+Investment Confirmation,16,Rejected,0,Portal,False,4,High,SMS,0,False,0,1
+AML Verification,21,Rejected,0,Email,True,0,High,WhatsApp,0,False,0,1
+Investment Confirmation,1,Partially Completed,29,SMS,True,6,High,Email,12,False,1,0
+Risk Questionnaire,16,Partially Completed,37,SMS,True,1,High,SMS,0,False,1,1
+Risk Questionnaire,24,Completed,100,Email,True,9,Medium,Email,0,False,1,0
+Investment Confirmation,29,Opened,0,SMS,True,5,Low,Email,0,False,0,1
+Investment Confirmation,12,Completed,100,SMS,True,6,High,Email,1,False,1,0
+Risk Questionnaire,25,Completed,100,Email,False,6,High,Email,0,False,1,0
+Investment Confirmation,20,Partially Completed,12,SMS,True,1,High,Email,0,False,1,1
+Terms & Conditions,3,Sent,0,Portal,True,6,Very High,Email,10,False,0,0
+Pension Transfer Authority,17,Completed,100,SMS,True,3,High,Email,0,False,1,0
+Anti-Money Laundering Document,3,Opened,0,SMS,True,0,Very High,Email,10,False,0,0
+AML Verification,29,Rejected,0,Email,True,7,Low,Phone,0,False,0,1
+Terms & Conditions,4,Resubmitted,0,SMS,False,2,Very High,Email,9,False,0,0
+AML Verification,10,Resubmitted,0,Portal,True,2,Medium,SMS,3,False,0,0
+Investment Confirmation,2,Completed,100,WhatsApp,True,2,Low,SMS,11,False,1,0
+Pension Transfer Authority,25,Pending,0,Email,True,9,High,SMS,0,False,0,1
+Application Form,6,Completed,100,Email,False,9,Medium,Phone,7,False,1,0
+Investment Confirmation,12,Partially Completed,44,Email,True,7,Very High,Email,1,False,1,1
+AML Verification,7,Completed,100,Portal,True,6,High,SMS,6,False,1,0
+Anti-Money Laundering Document,9,Resubmitted,0,Email,False,0,Very High,Phone,4,False,0,0
+Investment Confirmation,1,Opened,0,SMS,False,6,Low,SMS,12,False,0,0
+Pension Transfer Authority,9,Pending,0,SMS,True,4,Low,WhatsApp,4,False,0,0
+AML Verification,13,Resubmitted,0,Portal,True,5,Very High,Email,0,False,0,1
+Risk Questionnaire,25,Completed,100,SMS,True,2,Low,Email,0,False,1,0
+Application Form,19,Rejected,0,Portal,True,8,High,SMS,0,False,0,1
+AML Verification,5,Completed,100,WhatsApp,True,5,Very High,Email,8,False,1,0
+AML Verification,21,Resubmitted,0,Email,True,5,High,SMS,0,False,0,1
+Pension Transfer Authority,18,Completed,100,Portal,False,9,Very High,WhatsApp,0,False,1,0
+Application Form,14,Resubmitted,0,SMS,True,8,Very High,SMS,0,False,0,1
+Pension Transfer Authority,18,Completed,100,WhatsApp,True,3,Medium,SMS,0,False,1,0
+Investment Confirmation,5,Opened,0,Email,True,1,Low,Phone,8,False,0,0
+Risk Questionnaire,7,Partially Completed,68,Portal,True,2,Low,Phone,6,False,1,0
+Risk Questionnaire,29,Completed,100,SMS,True,0,High,Email,0,False,1,0
+Anti-Money Laundering Document,17,Partially Completed,80,SMS,True,3,Low,Email,0,False,1,1
+Authority to Proceed,21,Partially Completed,76,SMS,True,0,Very High,Phone,0,False,1,1
+Pension Transfer Authority,18,Completed,100,Portal,True,0,Very High,SMS,0,False,1,0
+Authority to Proceed,6,Completed,100,Email,True,8,High,Phone,7,False,1,0
+Risk Questionnaire,10,Completed,100,WhatsApp,True,9,High,Email,3,False,1,0
+Investment Confirmation,17,Pending,0,Portal,True,7,Very High,Phone,0,False,0,1
+Authority to Proceed,17,Completed,100,WhatsApp,True,0,Very High,Email,0,False,1,0
+Application Form,6,Partially Completed,19,Email,False,4,Medium,Email,7,False,1,0
+Authority to Proceed,20,Completed,100,Email,True,4,Medium,Email,0,False,1,0
+Anti-Money Laundering Document,2,Completed,100,Email,True,9,Very High,Email,11,False,1,0
+Terms & Conditions,26,Partially Completed,58,WhatsApp,True,0,Medium,Email,0,False,1,1
+Pension Transfer Authority,4,Sent,0,Portal,False,5,High,SMS,9,False,0,0
+Application Form,27,Resubmitted,0,SMS,False,4,Low,Phone,0,False,0,1
+AML Verification,3,Resubmitted,0,Portal,True,5,High,Email,10,False,0,0
+Anti-Money Laundering Document,28,Pending,0,WhatsApp,True,0,Very High,Phone,0,False,0,1
+Investment Confirmation,4,Completed,100,WhatsApp,False,4,High,Email,9,False,1,0
+Investment Confirmation,29,Completed,100,SMS,True,3,Very High,SMS,0,False,1,0
+AML Verification,4,Completed,100,SMS,True,9,Medium,SMS,9,False,1,0
+AML Verification,24,Resubmitted,0,Portal,True,4,Low,Email,0,False,0,1
+Terms & Conditions,22,Partially Completed,8,WhatsApp,False,2,Very High,WhatsApp,0,False,1,1
+Terms & Conditions,24,Opened,0,WhatsApp,False,9,Very High,SMS,0,False,0,1
+Investment Confirmation,19,Completed,100,Email,False,1,High,Email,0,False,1,0
+Anti-Money Laundering Document,5,Opened,0,SMS,True,8,Medium,SMS,8,False,0,0
+Anti-Money Laundering Document,21,Sent,0,Email,True,0,Very High,Email,0,False,0,1
+Authority to Proceed,2,Rejected,0,WhatsApp,True,1,Low,Email,11,False,0,0
+Investment Confirmation,23,Completed,100,Portal,False,0,Low,WhatsApp,0,False,1,0
+Terms & Conditions,6,Opened,0,SMS,True,7,Medium,Email,7,False,0,0

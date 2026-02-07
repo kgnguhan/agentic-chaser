@@ -1,0 +1,101 @@
+loa_id,provider,current_state,days_in_current_state,sla_days,sla_overdue,document_quality_score,signature_verified,client_age,client_age_55_plus,case_type,priority_score_calculated,priority_level
+LOA_0001,Legal & General,Client Signature Pending,32,14,0,45.92,True,72,1,Investment Planning,9.8,Critical
+LOA_0002,Friends Life,Client Signed,0,14,0,18.18,False,41,0,Investment Planning,0.0,Low
+LOA_0003,Zurich,Complete,0,15,0,23.28,False,30,0,Protection Review,0.0,Low
+LOA_0004,Prudential,Client Signed,53,12,0,6.51,True,44,0,Retirement Planning,15.9,Critical
+LOA_0005,Standard Life,Provider Processing,4,12,0,83.32,False,39,0,General Review,1.3,Low
+LOA_0006,Standard Life,Client Signed,40,12,0,96.96,True,27,0,Retirement Planning,12.0,Critical
+LOA_0007,Zurich,Provider Processing,27,15,12,96.12,True,41,0,General Review,13.0,Critical
+LOA_0008,Aon,Information Received,0,20,0,7.46,True,40,0,General Review,0.0,Low
+LOA_0009,Aviva,Provider Processing,40,10,30,77.13,False,71,1,Protection Review,24.3,Critical
+LOA_0010,Prudential,Provider Processing,7,12,0,66.59,True,73,1,Investment Planning,2.4,Low
+LOA_0011,Fidelity,Provider Processing,0,15,0,23.6,True,55,1,Investment Planning,0.3,Low
+LOA_0012,Zurich,Provider Processing,34,15,19,13.93,True,75,1,Retirement Planning,18.1,Critical
+LOA_0013,Legal & General,Complete,0,14,0,80.81,True,58,1,Protection Review,0.2,Low
+LOA_0014,Legal & General,Provider Submitted,28,14,0,11.01,True,60,1,Investment Planning,8.6,Critical
+LOA_0015,AXA,Provider Processing,0,15,0,26.94,True,22,0,General Review,0.1,Low
+LOA_0016,Friends Life,Provider Submitted,35,14,0,49.72,True,36,0,Investment Planning,10.5,Critical
+LOA_0017,Friends Life,Provider Submitted,15,14,0,90.83,True,65,1,General Review,4.7,Medium
+LOA_0018,Aon,Provider Submitted,37,20,0,24.22,True,72,1,Pension Consolidation,11.3,Critical
+LOA_0019,Legal & General,Provider Processing,32,14,18,85.84,True,43,0,Pension Consolidation,16.9,Critical
+LOA_0020,Zurich,Provider Submitted,0,15,0,51.78,True,74,1,Pension Consolidation,0.2,Low
+LOA_0021,AXA,Client Signed,20,15,0,17.5,True,51,0,Investment Planning,6.0,High
+LOA_0022,Standard Life,Provider Processing,0,12,0,33.9,True,65,1,General Review,0.3,Low
+LOA_0023,Fidelity,Complete,0,15,0,78.53,True,51,0,Investment Planning,0.0,Low
+LOA_0024,AXA,Provider Processing,20,15,5,65.2,True,22,0,Investment Planning,8.1,Critical
+LOA_0025,Aviva,Provider Processing,10,10,0,50.88,True,23,0,Pension Consolidation,3.1,Medium
+LOA_0026,Transamerica,Information Received,1,18,0,50.26,True,31,0,Protection Review,0.3,Low
+LOA_0027,Aon,Provider Processing,46,20,26,27.96,True,25,0,Protection Review,24.3,Critical
+LOA_0028,Aon,Client Signature Pending,27,20,0,30.57,False,73,1,Investment Planning,8.3,Critical
+LOA_0029,Fidelity,Provider Processing,11,15,0,9.72,True,25,0,Protection Review,3.4,Medium
+LOA_0030,Standard Life,Client Signed,27,12,0,70.89,True,71,1,Pension Consolidation,8.3,Critical
+LOA_0031,Prudential,Provider Processing,17,12,5,79.83,True,56,1,Protection Review,7.4,Critical
+LOA_0032,Fidelity,Provider Submitted,21,15,0,15.5,True,31,0,Protection Review,6.3,High
+LOA_0033,Zurich,Provider Processing,15,15,0,77.0,True,42,0,General Review,4.6,Medium
+LOA_0034,Legal & General,Provider Processing,2,14,0,97.59,True,72,1,Investment Planning,0.9,Low
+LOA_0035,Aviva,Complete,0,10,0,83.6,True,74,1,Pension Consolidation,0.2,Low
+LOA_0036,Zurich,Provider Processing,0,15,0,27.99,True,33,0,General Review,0.1,Low
+LOA_0037,Transamerica,Client Signature Pending,32,18,0,34.19,False,43,0,Pension Consolidation,9.6,Critical
+LOA_0038,Aviva,Client Signature Pending,32,10,0,49.16,True,38,0,Protection Review,9.6,Critical
+LOA_0039,Aon,Provider Submitted,17,20,0,1.53,True,25,0,Protection Review,5.1,High
+LOA_0040,Aviva,Provider Processing,2,10,0,94.02,True,36,0,Investment Planning,0.7,Low
+LOA_0041,Aviva,Information Received,11,10,0,65.15,True,22,0,Investment Planning,3.3,Medium
+LOA_0042,Standard Life,Provider Submitted,44,12,0,68.16,True,74,1,Investment Planning,13.4,Critical
+LOA_0043,Prudential,Prepared,8,12,0,41.79,True,73,1,Investment Planning,2.6,Low
+LOA_0044,Zurich,Provider Submitted,36,15,0,77.64,True,27,0,Retirement Planning,10.8,Critical
+LOA_0045,Aon,Client Signature Pending,15,20,0,90.26,True,36,0,Investment Planning,4.5,Medium
+LOA_0046,AXA,Complete,0,15,0,84.71,True,44,0,Investment Planning,0.0,Low
+LOA_0047,Legal & General,Provider Submitted,14,14,0,67.25,True,46,0,General Review,4.2,Medium
+LOA_0048,AXA,Provider Processing,28,15,13,44.15,True,71,1,Pension Consolidation,13.9,Critical
+LOA_0049,Standard Life,Client Signature Pending,49,12,0,8.41,True,51,0,Investment Planning,14.7,Critical
+LOA_0050,AXA,Client Signed,50,15,0,58.13,True,56,1,Protection Review,15.2,Critical
+LOA_0051,Legal & General,Provider Submitted,16,14,0,8.35,True,42,0,General Review,4.8,Medium
+LOA_0052,Zurich,Provider Processing,22,15,7,57.15,True,72,1,Investment Planning,9.7,Critical
+LOA_0053,Prudential,Information Received,0,12,0,22.36,True,73,1,Investment Planning,0.2,Low
+LOA_0054,Aon,Provider Processing,3,20,0,96.93,True,44,0,Retirement Planning,1.0,Low
+LOA_0055,Aviva,Provider Submitted,50,10,0,95.04,True,65,1,General Review,15.2,Critical
+LOA_0056,Friends Life,Provider Submitted,24,14,0,58.37,False,30,0,Protection Review,7.2,Critical
+LOA_0057,Legal & General,Provider Processing,17,14,3,27.1,False,73,1,Investment Planning,6.6,High
+LOA_0058,Standard Life,Complete,26,12,0,86.61,False,60,1,Investment Planning,8.0,Critical
+LOA_0059,Transamerica,Provider Submitted,0,18,0,96.99,True,25,0,Protection Review,0.0,Low
+LOA_0060,Aviva,Provider Processing,32,10,22,53.43,True,22,0,General Review,18.5,Critical
+LOA_0061,Aon,Provider Processing,49,20,29,12.92,True,71,1,Pension Consolidation,26.6,Critical
+LOA_0062,Aviva,Provider Processing,40,10,30,47.62,True,23,0,Pension Consolidation,24.1,Critical
+LOA_0063,Aviva,Client Signed,51,10,0,2.88,True,30,0,Protection Review,15.3,Critical
+LOA_0064,Standard Life,Provider Processing,0,12,0,63.66,True,65,1,Investment Planning,0.3,Low
+LOA_0065,Legal & General,Complete,6,14,0,14.71,True,41,0,General Review,1.8,Low
+LOA_0066,Aviva,Provider Submitted,18,10,0,63.34,True,46,0,Pension Consolidation,5.4,High
+LOA_0067,AXA,Client Signed,18,15,0,69.65,True,38,0,Protection Review,5.4,High
+LOA_0068,Fidelity,Information Received,0,15,0,34.51,True,36,0,Investment Planning,0.0,Low
+LOA_0069,Aon,Client Signature Pending,9,20,0,33.01,True,42,0,General Review,2.7,Low
+LOA_0070,AXA,Provider Submitted,40,15,0,80.62,True,64,1,Retirement Planning,12.2,Critical
+LOA_0071,Friends Life,Provider Processing,14,14,0,6.23,False,24,0,Investment Planning,4.3,Medium
+LOA_0072,Fidelity,Provider Processing,34,15,19,53.26,True,72,1,Pension Consolidation,18.1,Critical
+LOA_0073,Zurich,Information Received,3,15,0,59.36,True,28,0,Investment Planning,0.9,Low
+LOA_0074,AXA,Provider Processing,38,15,23,56.45,True,50,0,Protection Review,20.7,Critical
+LOA_0075,Legal & General,Provider Processing,17,14,3,23.72,False,60,1,Investment Planning,6.6,High
+LOA_0076,Prudential,Client Signed,44,12,0,89.68,False,60,1,Investment Planning,13.4,Critical
+LOA_0077,Friends Life,Complete,0,14,0,0.53,True,68,1,Investment Planning,0.2,Low
+LOA_0078,Friends Life,Provider Processing,35,14,21,28.0,True,60,1,Investment Planning,19.2,Critical
+LOA_0079,Transamerica,Client Signature Pending,7,18,0,61.06,True,64,1,Retirement Planning,2.3,Low
+LOA_0080,Legal & General,Provider Processing,6,14,0,54.89,True,28,0,Investment Planning,1.9,Low
+LOA_0081,Legal & General,Provider Processing,0,14,0,60.61,True,72,1,Pension Consolidation,0.3,Low
+LOA_0082,Aon,Client Signed,40,20,0,37.92,True,65,1,General Review,12.2,Critical
+LOA_0083,Friends Life,Client Signed,8,14,0,81.46,True,42,0,General Review,2.4,Low
+LOA_0084,Legal & General,Provider Processing,22,14,8,37.69,True,64,1,Retirement Planning,10.1,Critical
+LOA_0085,Prudential,Provider Processing,13,12,1,90.65,True,25,0,Protection Review,4.4,Medium
+LOA_0086,Transamerica,Provider Processing,0,18,0,74.15,True,60,1,Investment Planning,0.3,Low
+LOA_0087,AXA,Provider Processing,25,15,10,76.25,True,55,1,Protection Review,11.8,Critical
+LOA_0088,Legal & General,Provider Processing,31,14,17,40.9,True,55,1,Protection Review,16.4,Critical
+LOA_0089,Fidelity,Information Received,14,15,0,95.91,True,68,1,Investment Planning,4.4,Medium
+LOA_0090,Friends Life,Provider Processing,11,14,0,50.59,True,60,1,Investment Planning,3.6,Medium
+LOA_0091,Legal & General,Provider Submitted,43,14,0,6.89,False,41,0,Investment Planning,12.9,Critical
+LOA_0092,Friends Life,Complete,0,14,0,83.89,False,39,0,General Review,0.0,Low
+LOA_0093,Transamerica,Client Signed,50,18,0,78.78,True,33,0,General Review,15.0,Critical
+LOA_0094,Legal & General,Provider Processing,22,14,8,91.85,True,22,0,Investment Planning,9.9,Critical
+LOA_0095,Fidelity,Provider Submitted,47,15,0,78.05,True,44,0,Retirement Planning,14.1,Critical
+LOA_0096,Standard Life,Provider Processing,16,12,4,8.53,True,64,1,Retirement Planning,6.7,High
+LOA_0097,Aviva,Provider Submitted,25,10,0,46.82,True,72,1,Pension Consolidation,7.7,Critical
+LOA_0098,Friends Life,Provider Processing,15,14,1,48.11,True,74,1,Investment Planning,5.2,High
+LOA_0099,Aviva,Information Received,0,10,0,52.66,True,23,0,Pension Consolidation,0.0,Low
+LOA_0100,Standard Life,Client Signed,8,12,0,50.55,True,46,0,General Review,2.4,Low

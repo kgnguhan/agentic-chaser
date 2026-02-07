@@ -1,0 +1,1001 @@
+document_id,client_id,document_type,document_subtype,upload_date,ocr_confidence_score,quality_issues,validation_passed,manual_review_required
+DOC_000001,CLI_0039,Council Tax,Recent,2025-12-05T16:34:15.519509,96.35,[],True,False
+DOC_000002,CLI_0019,Bank Statement,Missing Name,2025-12-10T16:34:15.519545,87.08,[],True,False
+DOC_000003,CLI_0036,Pension Statement,Outdated,2026-01-11T16:34:15.519571,88.14,['Damaged'],False,False
+DOC_000004,CLI_0033,Payslip,Recent,2025-12-14T16:34:15.519594,93.31,[],True,False
+DOC_000005,CLI_0027,Utility Bill,Wrong Name,2026-01-23T16:34:15.519618,91.8,['Expired'],False,False
+DOC_000006,CLI_0039,Driving Licence,Valid Photocard,2025-12-05T16:34:15.519667,94.84,['Damaged'],False,False
+DOC_000007,CLI_0009,P60,2024,2026-01-24T16:34:15.519697,87.19,[],True,False
+DOC_000008,CLI_0047,Utility Bill,Outdated,2025-12-13T16:34:15.519718,100.0,[],True,False
+DOC_000009,CLI_0040,Council Tax,Outdated,2026-01-03T16:34:15.519738,80.98,[],False,False
+DOC_000010,CLI_0018,Driving Licence,Expired,2025-12-06T16:34:15.519761,89.18,['Wrong Document'],False,False
+DOC_000011,CLI_0040,P60,Illegible,2026-01-07T16:34:15.519780,94.11,[],True,False
+DOC_000012,CLI_0045,Investment Statement,Current,2026-01-07T16:34:15.519803,100.0,['Blurry'],False,False
+DOC_000013,CLI_0007,Investment Statement,Outdated,2025-12-12T16:34:15.519828,79.5,[],False,True
+DOC_000014,CLI_0017,Pension Statement,Current,2026-01-27T16:34:15.519851,85.63,['Partial'],False,False
+DOC_000015,CLI_0042,Bank Statement,Outdated,2026-01-09T16:34:15.519870,79.93,[],False,True
+DOC_000016,CLI_0024,P60,2023,2026-01-10T16:34:15.519889,100.0,[],True,False
+DOC_000017,CLI_0027,Utility Bill,Recent,2026-01-06T16:34:15.519912,94.61,['Expired'],False,False
+DOC_000018,CLI_0014,Bank Statement,Missing Name,2026-01-17T16:34:15.519931,91.35,[],True,False
+DOC_000019,CLI_0026,Utility Bill,Wrong Name,2026-01-28T16:34:15.519950,91.52,[],True,False
+DOC_000020,CLI_0030,P60,2023,2026-01-17T16:34:15.519969,99.69,[],True,False
+DOC_000021,CLI_0043,Council Tax,Recent,2026-01-30T16:34:15.519988,90.3,[],True,False
+DOC_000022,CLI_0042,Investment Statement,Current,2025-12-19T16:34:15.520010,88.59,['Wrong Document'],False,False
+DOC_000023,CLI_0044,Council Tax,Outdated,2026-01-07T16:34:15.520029,89.25,[],True,False
+DOC_000024,CLI_0039,Passport,Valid,2025-12-06T16:34:15.520048,98.01,[],True,False
+DOC_000025,CLI_0013,Investment Statement,Current,2025-12-26T16:34:15.520072,92.04,[],True,False
+DOC_000026,CLI_0033,Utility Bill,Outdated,2026-01-17T16:34:15.520092,90.12,[],True,False
+DOC_000027,CLI_0032,Pension Statement,Current,2026-01-20T16:34:15.520112,86.7,[],True,False
+DOC_000028,CLI_0039,Driving Licence,Damaged,2025-12-14T16:34:15.520181,90.83,[],True,False
+DOC_000029,CLI_0017,Passport,Expired,2025-12-30T16:34:15.520205,86.73,[],True,False
+DOC_000030,CLI_0001,Utility Bill,Outdated,2025-12-19T16:34:15.520225,92.03,[],True,False
+DOC_000031,CLI_0026,Payslip,Damaged,2025-12-25T16:34:15.520244,100.0,[],True,False
+DOC_000032,CLI_0024,P60,Illegible,2025-12-15T16:34:15.520267,98.02,['Partial'],False,False
+DOC_000033,CLI_0016,Passport,Valid,2026-01-12T16:34:15.520286,84.08,[],False,False
+DOC_000034,CLI_0036,Utility Bill,Outdated,2026-01-13T16:34:15.520305,87.47,[],True,False
+DOC_000035,CLI_0020,Bank Statement,Recent,2026-01-21T16:34:15.520327,84.64,['Blurry'],False,False
+DOC_000036,CLI_0028,Investment Statement,Current,2026-01-01T16:34:15.520346,100.0,[],True,False
+DOC_000037,CLI_0030,Utility Bill,Wrong Name,2025-12-14T16:34:15.520365,100.0,[],True,False
+DOC_000038,CLI_0002,Passport,Low Quality,2025-12-26T16:34:15.520387,96.21,['Expired'],False,False
+DOC_000039,CLI_0032,Bank Statement,Recent,2026-01-08T16:34:15.520409,99.72,['Wrong Document'],False,False
+DOC_000040,CLI_0033,Pension Statement,Outdated,2026-01-24T16:34:15.520428,83.48,[],False,False
+DOC_000041,CLI_0036,Payslip,2+ months old,2026-01-16T16:34:15.520448,93.4,[],True,False
+DOC_000042,CLI_0041,Council Tax,Recent,2026-01-18T16:34:15.520468,82.27,[],False,False
+DOC_000043,CLI_0021,Council Tax,Outdated,2025-12-30T16:34:15.520488,99.71,[],True,False
+DOC_000044,CLI_0048,Utility Bill,Outdated,2025-12-17T16:34:15.520507,95.3,[],True,False
+DOC_000045,CLI_0030,Payslip,2+ months old,2025-12-29T16:34:15.520529,99.03,[],True,False
+DOC_000046,CLI_0021,Passport,Low Quality,2025-12-30T16:34:15.520547,90.08,[],True,False
+DOC_000047,CLI_0005,Utility Bill,Wrong Name,2026-01-26T16:34:15.520566,91.91,[],True,False
+DOC_000048,CLI_0035,Investment Statement,Current,2025-12-17T16:34:15.520591,93.52,['Blurry'],False,False
+DOC_000049,CLI_0031,Utility Bill,Recent,2025-12-30T16:34:15.520610,90.26,[],True,False
+DOC_000050,CLI_0003,Driving Licence,Valid Photocard,2025-12-09T16:34:15.520629,88.2,[],True,False
+DOC_000051,CLI_0003,Pension Statement,Outdated,2026-01-05T16:34:15.520681,93.85,['Damaged'],False,False
+DOC_000052,CLI_0042,Driving Licence,Expired,2026-01-23T16:34:15.520707,85.53,['Blurry'],False,False
+DOC_000053,CLI_0043,Payslip,Damaged,2026-01-08T16:34:15.520729,99.24,['Blurry'],False,False
+DOC_000054,CLI_0013,Bank Statement,Recent,2026-01-12T16:34:15.520749,87.17,[],True,False
+DOC_000055,CLI_0001,Pension Statement,Outdated,2025-12-29T16:34:15.520771,87.55,['Wrong Document'],False,False
+DOC_000056,CLI_0002,Bank Statement,Missing Name,2026-01-07T16:34:15.520790,90.98,[],True,False
+DOC_000057,CLI_0022,Payslip,Recent,2025-12-10T16:34:15.520809,84.86,[],False,False
+DOC_000058,CLI_0044,P60,2023,2025-12-18T16:34:15.520833,89.32,[],True,False
+DOC_000059,CLI_0032,Council Tax,Outdated,2025-12-13T16:34:15.520855,100.0,['Expired'],False,False
+DOC_000060,CLI_0042,Utility Bill,Recent,2026-01-13T16:34:15.520874,97.07,[],True,False
+DOC_000061,CLI_0028,Bank Statement,Outdated,2025-12-05T16:34:15.520894,96.04,[],True,False
+DOC_000062,CLI_0001,Driving Licence,Expired,2026-01-07T16:34:15.520912,98.93,[],True,False
+DOC_000063,CLI_0040,P60,2025,2026-01-20T16:34:15.520931,100.0,[],True,False
+DOC_000064,CLI_0026,Utility Bill,Recent,2026-01-03T16:34:15.520953,100.0,[],True,False
+DOC_000065,CLI_0014,P60,2023,2025-12-15T16:34:15.520972,90.1,[],True,False
+DOC_000066,CLI_0021,Bank Statement,Recent,2025-12-26T16:34:15.520991,100.0,[],True,False
+DOC_000067,CLI_0023,Payslip,Recent,2026-01-13T16:34:15.521010,89.4,[],True,False
+DOC_000068,CLI_0032,Passport,Low Quality,2026-01-28T16:34:15.521029,96.2,[],True,False
+DOC_000069,CLI_0016,Pension Statement,Outdated,2026-01-05T16:34:15.521048,90.38,[],True,False
+DOC_000070,CLI_0020,Pension Statement,Outdated,2025-12-30T16:34:15.521067,92.49,[],True,False
+DOC_000071,CLI_0033,Utility Bill,Wrong Name,2025-12-20T16:34:15.521089,90.79,['Damaged'],False,False
+DOC_000072,CLI_0044,Driving Licence,Valid Photocard,2025-12-28T16:34:15.521107,96.71,[],True,False
+DOC_000073,CLI_0023,Passport,Expired,2025-12-29T16:34:15.521127,99.08,[],True,False
+DOC_000074,CLI_0041,Bank Statement,Outdated,2025-12-18T16:34:15.521146,88.28,[],True,False
+DOC_000075,CLI_0011,Pension Statement,Outdated,2025-12-26T16:34:15.521165,95.59,[],True,False
+DOC_000076,CLI_0009,Pension Statement,Outdated,2025-12-28T16:34:15.521184,91.37,[],True,False
+DOC_000077,CLI_0048,Council Tax,Outdated,2026-01-20T16:34:15.521206,95.94,['Expired'],False,False
+DOC_000078,CLI_0049,Bank Statement,Recent,2025-12-22T16:34:15.521228,79.78,['Partial'],False,True
+DOC_000079,CLI_0030,Passport,Valid,2025-12-04T16:34:15.521247,100.0,[],True,False
+DOC_000080,CLI_0019,Passport,Low Quality,2025-12-22T16:34:15.521266,92.17,[],True,False
+DOC_000081,CLI_0019,Investment Statement,Current,2025-12-05T16:34:15.521285,92.83,[],True,False
+DOC_000082,CLI_0047,P60,2025,2026-01-07T16:34:15.521304,94.14,[],True,False
+DOC_000083,CLI_0021,Council Tax,Recent,2025-12-21T16:34:15.521323,96.99,[],True,False
+DOC_000084,CLI_0039,P60,2023,2026-01-21T16:34:15.521346,97.03,['Partial'],False,False
+DOC_000085,CLI_0018,Investment Statement,Outdated,2025-12-23T16:34:15.521368,92.72,['Expired'],False,False
+DOC_000086,CLI_0042,Investment Statement,Outdated,2026-01-27T16:34:15.521390,92.66,['Damaged'],False,False
+DOC_000087,CLI_0029,P60,2024,2025-12-18T16:34:15.521412,100.0,['Blurry'],False,False
+DOC_000088,CLI_0004,Council Tax,Outdated,2025-12-19T16:34:15.521434,88.18,['Partial'],False,False
+DOC_000089,CLI_0039,Utility Bill,Wrong Name,2025-12-05T16:34:15.521452,79.31,[],False,True
+DOC_000090,CLI_0020,Pension Statement,Current,2026-01-29T16:34:15.521474,88.62,['Blurry'],False,False
+DOC_000091,CLI_0013,Investment Statement,Current,2025-12-10T16:34:15.521493,85.22,[],True,False
+DOC_000092,CLI_0006,P60,Illegible,2026-01-21T16:34:15.521512,91.64,[],True,False
+DOC_000093,CLI_0037,Council Tax,Recent,2025-12-14T16:34:15.521531,88.22,[],True,False
+DOC_000094,CLI_0014,Passport,Valid,2026-01-29T16:34:15.521551,93.74,[],True,False
+DOC_000095,CLI_0016,Bank Statement,Recent,2025-12-10T16:34:15.521570,90.85,[],True,False
+DOC_000096,CLI_0008,Council Tax,Outdated,2025-12-13T16:34:15.521592,87.2,[],True,False
+DOC_000097,CLI_0028,P60,2025,2026-01-23T16:34:15.521610,89.41,[],True,False
+DOC_000098,CLI_0033,P60,Illegible,2025-12-15T16:34:15.521629,78.72,[],False,True
+DOC_000099,CLI_0029,Utility Bill,Recent,2026-01-07T16:34:15.521675,91.02,[],True,False
+DOC_000100,CLI_0002,Pension Statement,Outdated,2026-01-27T16:34:15.521700,97.19,['Expired'],False,False
+DOC_000101,CLI_0033,Payslip,Recent,2026-01-06T16:34:15.521720,94.72,[],True,False
+DOC_000102,CLI_0025,Payslip,Damaged,2025-12-30T16:34:15.521742,91.89,['Expired'],False,False
+DOC_000103,CLI_0034,Investment Statement,Current,2026-01-27T16:34:15.521763,93.75,[],True,False
+DOC_000104,CLI_0038,Utility Bill,Recent,2025-12-10T16:34:15.521783,88.12,[],True,False
+DOC_000105,CLI_0037,Utility Bill,Recent,2025-12-18T16:34:15.521802,86.08,[],True,False
+DOC_000106,CLI_0013,Council Tax,Outdated,2026-01-04T16:34:15.521828,86.81,['Damaged'],False,False
+DOC_000107,CLI_0031,Pension Statement,Current,2025-12-13T16:34:15.521851,93.94,['Partial'],False,False
+DOC_000108,CLI_0012,Passport,Expired,2025-12-06T16:34:15.521873,100.0,['Partial'],False,False
+DOC_000109,CLI_0017,Bank Statement,Missing Name,2025-12-29T16:34:15.521895,96.75,['Wrong Document'],False,False
+DOC_000110,CLI_0038,Driving Licence,Expired,2026-01-17T16:34:15.521914,100.0,[],True,False
+DOC_000111,CLI_0027,Utility Bill,Wrong Name,2026-01-17T16:34:15.521933,94.88,[],True,False
+DOC_000112,CLI_0030,Bank Statement,Outdated,2026-01-03T16:34:15.521955,100.0,['Expired'],False,False
+DOC_000113,CLI_0004,Pension Statement,Current,2025-12-29T16:34:15.521974,78.37,[],False,True
+DOC_000114,CLI_0006,P60,2024,2025-12-20T16:34:15.521993,91.56,[],True,False
+DOC_000115,CLI_0043,Utility Bill,Wrong Name,2026-01-29T16:34:15.522011,83.19,[],False,False
+DOC_000116,CLI_0032,Utility Bill,Wrong Name,2025-12-13T16:34:15.522030,95.9,[],True,False
+DOC_000117,CLI_0019,P60,2025,2026-01-26T16:34:15.522049,81.76,[],False,False
+DOC_000118,CLI_0001,P60,2025,2025-12-17T16:34:15.522068,81.59,[],False,False
+DOC_000119,CLI_0034,Passport,Expired,2025-12-16T16:34:15.522087,82.25,[],False,False
+DOC_000120,CLI_0022,Pension Statement,Outdated,2025-12-15T16:34:15.522105,82.72,[],False,False
+DOC_000121,CLI_0017,Council Tax,Recent,2026-01-04T16:34:15.522128,93.45,['Damaged'],False,False
+DOC_000122,CLI_0023,Pension Statement,Outdated,2025-12-07T16:34:15.522150,85.8,['Partial'],False,False
+DOC_000123,CLI_0007,Utility Bill,Wrong Name,2026-01-14T16:34:15.522171,95.77,[],True,False
+DOC_000124,CLI_0038,Utility Bill,Wrong Name,2026-01-07T16:34:15.522190,97.21,[],True,False
+DOC_000125,CLI_0037,Bank Statement,Recent,2026-01-07T16:34:15.522209,79.52,[],False,True
+DOC_000126,CLI_0004,Utility Bill,Recent,2025-12-16T16:34:15.522227,93.65,[],True,False
+DOC_000127,CLI_0036,Payslip,2+ months old,2025-12-21T16:34:15.522246,100.0,[],True,False
+DOC_000128,CLI_0041,P60,2024,2025-12-04T16:34:15.522268,100.0,['Damaged'],False,False
+DOC_000129,CLI_0045,Payslip,Recent,2026-01-02T16:34:15.522287,87.06,[],True,False
+DOC_000130,CLI_0011,Pension Statement,Current,2025-12-12T16:34:15.522309,81.93,['Partial'],False,False
+DOC_000131,CLI_0031,Pension Statement,Current,2026-01-02T16:34:15.522331,95.12,['Blurry'],False,False
+DOC_000132,CLI_0038,Utility Bill,Outdated,2026-01-24T16:34:15.522353,91.32,['Partial'],False,False
+DOC_000133,CLI_0026,Utility Bill,Recent,2026-01-13T16:34:15.522371,86.7,[],True,False
+DOC_000134,CLI_0020,Passport,Low Quality,2025-12-16T16:34:15.522390,96.56,[],True,False
+DOC_000135,CLI_0001,Payslip,Recent,2026-01-29T16:34:15.522408,98.11,[],True,False
+DOC_000136,CLI_0033,Payslip,2+ months old,2026-01-27T16:34:15.522427,92.09,[],True,False
+DOC_000137,CLI_0023,Driving Licence,Valid Photocard,2026-01-23T16:34:15.522446,87.34,[],True,False
+DOC_000138,CLI_0017,Investment Statement,Current,2025-12-25T16:34:15.522464,94.09,[],True,False
+DOC_000139,CLI_0035,Passport,Valid,2025-12-28T16:34:15.522486,94.97,['Wrong Document'],False,False
+DOC_000140,CLI_0035,Passport,Low Quality,2026-01-03T16:34:15.522508,87.17,['Wrong Document'],False,False
+DOC_000141,CLI_0008,Investment Statement,Current,2026-01-27T16:34:15.522526,88.1,[],True,False
+DOC_000142,CLI_0019,Council Tax,Recent,2026-01-14T16:34:15.522551,88.54,['Blurry'],False,False
+DOC_000143,CLI_0040,Pension Statement,Current,2025-12-30T16:34:15.522572,96.42,[],True,False
+DOC_000144,CLI_0023,Passport,Valid,2025-12-16T16:34:15.522593,94.36,[],True,False
+DOC_000145,CLI_0002,P60,Illegible,2026-01-29T16:34:15.522612,93.94,[],True,False
+DOC_000146,CLI_0007,Utility Bill,Outdated,2026-01-17T16:34:15.522630,79.76,[],False,True
+DOC_000147,CLI_0047,Passport,Low Quality,2025-12-30T16:34:15.522681,95.84,['Blurry'],False,False
+DOC_000148,CLI_0037,Bank Statement,Recent,2026-01-10T16:34:15.522702,100.0,[],True,False
+DOC_000149,CLI_0002,P60,2023,2025-12-16T16:34:15.522722,88.75,[],True,False
+DOC_000150,CLI_0036,Pension Statement,Outdated,2026-01-03T16:34:15.522742,94.08,[],True,False
+DOC_000151,CLI_0008,P60,2025,2025-12-12T16:34:15.522764,98.06,['Partial'],False,False
+DOC_000152,CLI_0036,Council Tax,Outdated,2026-01-27T16:34:15.522782,84.62,[],False,False
+DOC_000153,CLI_0020,Pension Statement,Outdated,2025-12-20T16:34:15.522801,88.74,[],True,False
+DOC_000154,CLI_0012,Pension Statement,Outdated,2025-12-30T16:34:15.522820,80.38,[],False,False
+DOC_000155,CLI_0047,Pension Statement,Outdated,2025-12-07T16:34:15.522847,85.0,['Expired'],False,False
+DOC_000156,CLI_0037,Pension Statement,Current,2026-01-04T16:34:15.522865,93.64,[],True,False
+DOC_000157,CLI_0031,Investment Statement,Outdated,2025-12-27T16:34:15.522884,89.37,[],True,False
+DOC_000158,CLI_0023,Investment Statement,Current,2025-12-23T16:34:15.522906,88.24,['Partial'],False,False
+DOC_000159,CLI_0015,P60,2023,2026-01-06T16:34:15.522927,90.74,['Expired'],False,False
+DOC_000160,CLI_0041,Utility Bill,Wrong Name,2026-01-06T16:34:15.522946,88.58,[],True,False
+DOC_000161,CLI_0011,Payslip,2+ months old,2025-12-04T16:34:15.522968,79.55,['Partial'],False,True
+DOC_000162,CLI_0044,Utility Bill,Outdated,2026-01-25T16:34:15.522989,69.72,[],False,True
+DOC_000163,CLI_0006,P60,Illegible,2026-01-06T16:34:15.523008,100.0,[],True,False
+DOC_000164,CLI_0028,Driving Licence,Valid Photocard,2026-01-15T16:34:15.523027,86.41,[],True,False
+DOC_000165,CLI_0020,Investment Statement,Current,2025-12-23T16:34:15.523045,100.0,[],True,False
+DOC_000166,CLI_0049,Bank Statement,Recent,2026-01-02T16:34:15.523066,93.41,[],True,False
+DOC_000167,CLI_0023,Utility Bill,Wrong Name,2025-12-14T16:34:15.523084,87.46,[],True,False
+DOC_000168,CLI_0045,Pension Statement,Current,2026-01-18T16:34:15.523103,100.0,[],True,False
+DOC_000169,CLI_0047,Driving Licence,Expired,2025-12-12T16:34:15.523122,79.72,[],False,True
+DOC_000170,CLI_0004,Passport,Low Quality,2025-12-31T16:34:15.523143,100.0,['Partial'],False,False
+DOC_000171,CLI_0010,Utility Bill,Outdated,2026-01-25T16:34:15.523164,100.0,['Damaged'],False,False
+DOC_000172,CLI_0029,Pension Statement,Current,2026-01-29T16:34:15.523183,93.0,[],True,False
+DOC_000173,CLI_0024,Bank Statement,Missing Name,2025-12-26T16:34:15.523202,100.0,[],True,False
+DOC_000174,CLI_0003,Utility Bill,Recent,2026-01-24T16:34:15.523221,93.19,[],True,False
+DOC_000175,CLI_0034,Utility Bill,Outdated,2025-12-26T16:34:15.523243,100.0,['Wrong Document'],False,False
+DOC_000176,CLI_0021,Bank Statement,Outdated,2026-01-25T16:34:15.523261,95.36,[],True,False
+DOC_000177,CLI_0033,Bank Statement,Recent,2026-01-12T16:34:15.523283,78.64,['Expired'],False,True
+DOC_000178,CLI_0011,Driving Licence,Damaged,2026-01-20T16:34:15.523302,100.0,[],True,False
+DOC_000179,CLI_0020,P60,2025,2025-12-19T16:34:15.523320,100.0,[],True,False
+DOC_000180,CLI_0035,Council Tax,Outdated,2026-01-22T16:34:15.523342,74.64,['Blurry'],False,True
+DOC_000181,CLI_0030,Pension Statement,Current,2025-12-12T16:34:15.523363,92.91,[],True,False
+DOC_000182,CLI_0017,Investment Statement,Outdated,2026-01-07T16:34:15.523381,93.2,[],True,False
+DOC_000183,CLI_0039,Investment Statement,Outdated,2026-01-03T16:34:15.523400,83.99,[],False,False
+DOC_000184,CLI_0045,Driving Licence,Damaged,2026-01-26T16:34:15.523419,100.0,[],True,False
+DOC_000185,CLI_0018,P60,2024,2026-01-07T16:34:15.523438,78.96,[],False,True
+DOC_000186,CLI_0038,Bank Statement,Recent,2026-01-11T16:34:15.523456,96.41,[],True,False
+DOC_000187,CLI_0027,Investment Statement,Current,2025-12-06T16:34:15.523475,94.05,[],True,False
+DOC_000188,CLI_0007,Passport,Expired,2025-12-05T16:34:15.523493,99.86,[],True,False
+DOC_000189,CLI_0046,Driving Licence,Expired,2026-01-06T16:34:15.523514,89.22,[],True,False
+DOC_000190,CLI_0029,P60,2023,2025-12-27T16:34:15.523533,93.59,[],True,False
+DOC_000191,CLI_0049,Bank Statement,Missing Name,2025-12-07T16:34:15.523554,90.98,['Expired'],False,False
+DOC_000192,CLI_0033,Council Tax,Recent,2025-12-28T16:34:15.523574,96.44,[],True,False
+DOC_000193,CLI_0043,Passport,Expired,2025-12-23T16:34:15.523594,88.16,[],True,False
+DOC_000194,CLI_0017,Passport,Valid,2026-01-07T16:34:15.523615,100.0,['Damaged'],False,False
+DOC_000195,CLI_0039,Utility Bill,Wrong Name,2026-01-15T16:34:15.523637,89.54,['Blurry'],False,False
+DOC_000196,CLI_0010,Investment Statement,Current,2026-01-20T16:34:15.523685,86.73,[],True,False
+DOC_000197,CLI_0016,Pension Statement,Current,2025-12-09T16:34:15.523705,98.53,[],True,False
+DOC_000198,CLI_0016,Payslip,Recent,2026-01-17T16:34:15.523728,96.95,['Wrong Document'],False,False
+DOC_000199,CLI_0026,Investment Statement,Current,2026-01-15T16:34:15.523749,89.52,[],True,False
+DOC_000200,CLI_0023,P60,2024,2026-01-25T16:34:15.523771,92.93,['Expired'],False,False
+DOC_000201,CLI_0009,Utility Bill,Outdated,2025-12-24T16:34:15.523795,100.0,['Wrong Document'],False,False
+DOC_000202,CLI_0035,Driving Licence,Damaged,2026-01-18T16:34:15.523818,89.12,['Blurry'],False,False
+DOC_000203,CLI_0031,Pension Statement,Current,2025-12-23T16:34:15.523844,85.15,['Partial'],False,False
+DOC_000204,CLI_0026,Bank Statement,Missing Name,2026-01-17T16:34:15.523862,100.0,[],True,False
+DOC_000205,CLI_0049,Council Tax,Recent,2025-12-18T16:34:15.523881,100.0,[],True,False
+DOC_000206,CLI_0042,Driving Licence,Damaged,2025-12-29T16:34:15.523900,98.69,[],True,False
+DOC_000207,CLI_0030,Bank Statement,Recent,2026-01-03T16:34:15.523922,97.71,['Wrong Document'],False,False
+DOC_000208,CLI_0049,P60,Illegible,2025-12-07T16:34:15.523941,92.38,[],True,False
+DOC_000209,CLI_0044,Investment Statement,Outdated,2026-01-31T16:34:15.523959,89.87,[],True,False
+DOC_000210,CLI_0030,Passport,Damaged,2025-12-07T16:34:15.524095,86.68,[],True,False
+DOC_000211,CLI_0030,Driving Licence,Expired,2026-01-20T16:34:15.524116,76.53,[],False,True
+DOC_000212,CLI_0037,P60,2023,2025-12-24T16:34:15.524173,82.34,[],False,False
+DOC_000213,CLI_0046,Pension Statement,Current,2026-01-03T16:34:15.524199,91.22,[],True,False
+DOC_000214,CLI_0045,Driving Licence,Valid Photocard,2025-12-14T16:34:15.524222,92.43,[],True,False
+DOC_000215,CLI_0003,Pension Statement,Outdated,2026-01-23T16:34:15.524242,96.12,[],True,False
+DOC_000216,CLI_0035,Council Tax,Outdated,2025-12-04T16:34:15.524261,100.0,[],True,False
+DOC_000217,CLI_0042,Utility Bill,Outdated,2025-12-25T16:34:15.524284,93.36,['Partial'],False,False
+DOC_000218,CLI_0013,Pension Statement,Current,2026-01-23T16:34:15.524303,91.98,[],True,False
+DOC_000219,CLI_0004,P60,2024,2026-01-03T16:34:15.524322,74.03,[],False,True
+DOC_000220,CLI_0009,Utility Bill,Recent,2026-01-23T16:34:15.524346,84.97,['Damaged'],False,False
+DOC_000221,CLI_0015,Pension Statement,Current,2026-01-17T16:34:15.524365,85.2,[],True,False
+DOC_000222,CLI_0038,Pension Statement,Current,2026-01-14T16:34:15.524387,92.84,['Damaged'],False,False
+DOC_000223,CLI_0006,P60,Illegible,2025-12-07T16:34:15.524409,92.35,['Partial'],False,False
+DOC_000224,CLI_0040,Driving Licence,Damaged,2026-01-26T16:34:15.524431,100.0,['Blurry'],False,False
+DOC_000225,CLI_0024,Utility Bill,Recent,2025-12-18T16:34:15.524450,89.87,[],True,False
+DOC_000226,CLI_0025,P60,2024,2026-01-05T16:34:15.524468,89.85,[],True,False
+DOC_000227,CLI_0038,Bank Statement,Recent,2025-12-27T16:34:15.524490,89.04,['Damaged'],False,False
+DOC_000228,CLI_0002,Bank Statement,Outdated,2025-12-17T16:34:15.524509,85.33,[],True,False
+DOC_000229,CLI_0027,Passport,Valid,2026-01-08T16:34:15.524527,81.12,[],False,False
+DOC_000230,CLI_0045,Utility Bill,Outdated,2026-01-25T16:34:15.524546,97.97,[],True,False
+DOC_000231,CLI_0010,Investment Statement,Outdated,2025-12-26T16:34:15.524565,89.19,[],True,False
+DOC_000232,CLI_0029,Payslip,2+ months old,2026-01-20T16:34:15.524589,100.0,['Blurry'],False,False
+DOC_000233,CLI_0022,Passport,Expired,2026-01-14T16:34:15.524608,86.44,[],True,False
+DOC_000234,CLI_0050,Council Tax,Recent,2026-01-20T16:34:15.524627,91.67,[],True,False
+DOC_000235,CLI_0007,Passport,Expired,2026-01-09T16:34:15.524676,100.0,[],True,False
+DOC_000236,CLI_0026,Driving Licence,Expired,2026-01-28T16:34:15.524698,88.34,[],True,False
+DOC_000237,CLI_0017,Utility Bill,Recent,2025-12-11T16:34:15.524724,92.71,['Partial'],False,False
+DOC_000238,CLI_0032,Driving Licence,Damaged,2026-01-10T16:34:15.524743,100.0,[],True,False
+DOC_000239,CLI_0011,Utility Bill,Recent,2026-01-26T16:34:15.524765,95.45,['Wrong Document'],False,False
+DOC_000240,CLI_0019,Investment Statement,Current,2025-12-05T16:34:15.524788,93.95,['Blurry'],False,False
+DOC_000241,CLI_0038,Driving Licence,Valid Photocard,2026-01-17T16:34:15.524810,94.83,['Damaged'],False,False
+DOC_000242,CLI_0044,Pension Statement,Outdated,2026-01-15T16:34:15.524833,89.7,[],True,False
+DOC_000243,CLI_0029,P60,Illegible,2026-01-03T16:34:15.524855,96.56,['Partial'],False,False
+DOC_000244,CLI_0044,P60,Illegible,2026-01-12T16:34:15.524877,95.58,['Partial'],False,False
+DOC_000245,CLI_0046,Investment Statement,Outdated,2025-12-06T16:34:15.524896,86.59,[],True,False
+DOC_000246,CLI_0022,Payslip,Recent,2026-01-08T16:34:15.524915,100.0,[],True,False
+DOC_000247,CLI_0008,Passport,Low Quality,2025-12-16T16:34:15.524934,100.0,[],True,False
+DOC_000248,CLI_0031,Payslip,Damaged,2025-12-30T16:34:15.524953,88.92,[],True,False
+DOC_000249,CLI_0038,Investment Statement,Outdated,2026-01-20T16:34:15.524972,99.52,[],True,False
+DOC_000250,CLI_0046,Payslip,2+ months old,2025-12-30T16:34:15.524991,98.77,[],True,False
+DOC_000251,CLI_0010,Pension Statement,Outdated,2026-01-19T16:34:15.525010,100.0,[],True,False
+DOC_000252,CLI_0026,Payslip,Damaged,2025-12-24T16:34:15.525028,92.73,[],True,False
+DOC_000253,CLI_0026,Driving Licence,Damaged,2026-01-21T16:34:15.525047,88.05,[],True,False
+DOC_000254,CLI_0003,Payslip,Recent,2025-12-13T16:34:15.525069,88.44,['Blurry'],False,False
+DOC_000255,CLI_0012,Pension Statement,Outdated,2025-12-04T16:34:15.525088,99.16,[],True,False
+DOC_000256,CLI_0007,Council Tax,Outdated,2025-12-05T16:34:15.525107,97.08,[],True,False
+DOC_000257,CLI_0022,Utility Bill,Wrong Name,2025-12-09T16:34:15.525126,100.0,[],True,False
+DOC_000258,CLI_0012,Bank Statement,Recent,2025-12-12T16:34:15.525145,93.58,[],True,False
+DOC_000259,CLI_0019,Bank Statement,Outdated,2025-12-19T16:34:15.525169,83.75,['Partial'],False,False
+DOC_000260,CLI_0018,Payslip,2+ months old,2025-12-26T16:34:15.525188,87.77,[],True,False
+DOC_000261,CLI_0032,Pension Statement,Current,2026-01-03T16:34:15.525208,85.25,[],True,False
+DOC_000262,CLI_0015,Passport,Damaged,2026-01-02T16:34:15.525227,91.89,[],True,False
+DOC_000263,CLI_0021,Pension Statement,Outdated,2026-01-08T16:34:15.525252,100.0,['Wrong Document'],False,False
+DOC_000264,CLI_0050,Passport,Damaged,2025-12-27T16:34:15.525270,98.06,[],True,False
+DOC_000265,CLI_0034,Council Tax,Outdated,2025-12-12T16:34:15.525289,100.0,[],True,False
+DOC_000266,CLI_0012,Utility Bill,Recent,2026-01-11T16:34:15.525308,95.51,[],True,False
+DOC_000267,CLI_0015,Passport,Damaged,2025-12-21T16:34:15.525326,88.19,[],True,False
+DOC_000268,CLI_0044,Driving Licence,Damaged,2025-12-25T16:34:15.525347,100.0,[],True,False
+DOC_000269,CLI_0045,Investment Statement,Outdated,2025-12-24T16:34:15.525366,90.4,[],True,False
+DOC_000270,CLI_0025,Council Tax,Outdated,2026-01-15T16:34:15.525385,85.22,[],True,False
+DOC_000271,CLI_0025,Investment Statement,Outdated,2025-12-23T16:34:15.525403,98.46,[],True,False
+DOC_000272,CLI_0012,Pension Statement,Outdated,2026-01-22T16:34:15.525425,82.03,['Partial'],False,False
+DOC_000273,CLI_0003,Payslip,2+ months old,2025-12-22T16:34:15.525444,87.27,[],True,False
+DOC_000274,CLI_0001,P60,Illegible,2026-01-20T16:34:15.525462,76.38,[],False,True
+DOC_000275,CLI_0001,Investment Statement,Outdated,2025-12-16T16:34:15.525481,81.63,[],False,False
+DOC_000276,CLI_0037,P60,2025,2025-12-07T16:34:15.525502,79.9,['Wrong Document'],False,True
+DOC_000277,CLI_0028,Payslip,Damaged,2025-12-26T16:34:15.525521,89.38,[],True,False
+DOC_000278,CLI_0020,Passport,Damaged,2025-12-26T16:34:15.525539,87.59,[],True,False
+DOC_000279,CLI_0005,Passport,Valid,2025-12-13T16:34:15.525560,100.0,[],True,False
+DOC_000280,CLI_0024,Driving Licence,Valid Photocard,2025-12-06T16:34:15.525580,98.18,[],True,False
+DOC_000281,CLI_0039,Pension Statement,Current,2026-01-09T16:34:15.525599,75.03,[],False,True
+DOC_000282,CLI_0045,Council Tax,Outdated,2025-12-08T16:34:15.525621,94.34,['Wrong Document'],False,False
+DOC_000283,CLI_0008,Driving Licence,Valid Photocard,2026-01-27T16:34:15.525658,94.21,[],True,False
+DOC_000284,CLI_0047,Payslip,Damaged,2025-12-08T16:34:15.525689,86.79,[],True,False
+DOC_000285,CLI_0026,Driving Licence,Expired,2026-01-20T16:34:15.525708,99.7,[],True,False
+DOC_000286,CLI_0027,Pension Statement,Current,2025-12-30T16:34:15.525727,94.46,[],True,False
+DOC_000287,CLI_0001,Utility Bill,Wrong Name,2026-01-06T16:34:15.525745,83.28,[],False,False
+DOC_000288,CLI_0028,Driving Licence,Expired,2026-01-23T16:34:15.525764,100.0,[],True,False
+DOC_000289,CLI_0033,Investment Statement,Current,2025-12-22T16:34:15.525784,94.57,[],True,False
+DOC_000290,CLI_0011,Council Tax,Outdated,2025-12-17T16:34:15.525802,95.38,[],True,False
+DOC_000291,CLI_0004,Payslip,Damaged,2025-12-18T16:34:15.525828,96.78,['Partial'],False,False
+DOC_000292,CLI_0011,Passport,Low Quality,2026-01-25T16:34:15.525847,97.61,[],True,False
+DOC_000293,CLI_0025,P60,2023,2026-01-13T16:34:15.525866,100.0,[],True,False
+DOC_000294,CLI_0029,Investment Statement,Current,2025-12-14T16:34:15.525884,100.0,[],True,False
+DOC_000295,CLI_0035,Payslip,2+ months old,2026-01-30T16:34:15.525903,82.49,[],False,False
+DOC_000296,CLI_0046,Investment Statement,Current,2026-01-24T16:34:15.525922,94.5,[],True,False
+DOC_000297,CLI_0048,Driving Licence,Expired,2025-12-20T16:34:15.525941,78.95,[],False,True
+DOC_000298,CLI_0048,Bank Statement,Outdated,2025-12-04T16:34:15.525964,93.37,['Wrong Document'],False,False
+DOC_000299,CLI_0043,P60,2023,2026-01-17T16:34:15.525983,99.33,[],True,False
+DOC_000300,CLI_0025,Council Tax,Recent,2026-01-28T16:34:15.526002,90.72,[],True,False
+DOC_000301,CLI_0021,Payslip,Damaged,2025-12-11T16:34:15.526020,91.73,[],True,False
+DOC_000302,CLI_0046,Utility Bill,Outdated,2026-01-14T16:34:15.526039,84.4,[],False,False
+DOC_000303,CLI_0002,Passport,Valid,2026-01-01T16:34:15.526058,84.14,[],False,False
+DOC_000304,CLI_0044,Bank Statement,Recent,2025-12-07T16:34:15.526077,90.2,[],True,False
+DOC_000305,CLI_0049,Pension Statement,Outdated,2025-12-07T16:34:15.526099,85.42,['Wrong Document'],False,False
+DOC_000306,CLI_0045,Bank Statement,Outdated,2026-01-23T16:34:15.526122,90.8,['Wrong Document'],False,False
+DOC_000307,CLI_0026,Investment Statement,Current,2026-01-06T16:34:15.526144,80.78,['Blurry'],False,False
+DOC_000308,CLI_0027,P60,Illegible,2026-01-13T16:34:15.526163,100.0,[],True,False
+DOC_000309,CLI_0036,Bank Statement,Outdated,2025-12-08T16:34:15.526182,96.69,[],True,False
+DOC_000310,CLI_0050,P60,2023,2025-12-19T16:34:15.526201,97.45,[],True,False
+DOC_000311,CLI_0034,Passport,Damaged,2025-12-28T16:34:15.526220,81.51,[],False,False
+DOC_000312,CLI_0028,Bank Statement,Missing Name,2026-01-18T16:34:15.526238,93.15,[],True,False
+DOC_000313,CLI_0013,Investment Statement,Outdated,2026-01-14T16:34:15.526257,88.52,[],True,False
+DOC_000314,CLI_0003,Payslip,Recent,2026-01-21T16:34:15.526281,86.47,['Blurry'],False,False
+DOC_000315,CLI_0039,Pension Statement,Outdated,2025-12-31T16:34:15.526299,95.12,[],True,False
+DOC_000316,CLI_0039,Council Tax,Outdated,2025-12-27T16:34:15.526318,100.0,[],True,False
+DOC_000317,CLI_0003,Investment Statement,Outdated,2026-01-19T16:34:15.526337,80.5,[],False,False
+DOC_000318,CLI_0049,Driving Licence,Valid Photocard,2025-12-31T16:34:15.526357,82.22,[],False,False
+DOC_000319,CLI_0021,Pension Statement,Outdated,2025-12-05T16:34:15.526376,100.0,[],True,False
+DOC_000320,CLI_0003,Payslip,2+ months old,2025-12-19T16:34:15.526395,98.96,[],True,False
+DOC_000321,CLI_0002,Payslip,Recent,2026-01-10T16:34:15.526414,91.9,[],True,False
+DOC_000322,CLI_0044,Council Tax,Recent,2026-01-01T16:34:15.526432,92.91,[],True,False
+DOC_000323,CLI_0047,Investment Statement,Current,2026-01-16T16:34:15.526451,84.68,[],False,False
+DOC_000324,CLI_0012,Passport,Low Quality,2026-01-12T16:34:15.526470,92.65,[],True,False
+DOC_000325,CLI_0003,Bank Statement,Missing Name,2026-01-12T16:34:15.526492,92.58,['Expired'],False,False
+DOC_000326,CLI_0006,Payslip,2+ months old,2025-12-10T16:34:15.526513,98.24,['Blurry'],False,False
+DOC_000327,CLI_0016,Payslip,2+ months old,2026-01-30T16:34:15.526532,86.54,[],True,False
+DOC_000328,CLI_0027,Investment Statement,Current,2026-01-29T16:34:15.526562,82.6,[],False,False
+DOC_000329,CLI_0023,Council Tax,Outdated,2026-01-10T16:34:15.526598,98.69,[],True,False
+DOC_000330,CLI_0037,Council Tax,Outdated,2025-12-14T16:34:15.526618,92.25,[],True,False
+DOC_000331,CLI_0042,Payslip,2+ months old,2026-01-18T16:34:15.526637,100.0,[],True,False
+DOC_000332,CLI_0006,Utility Bill,Wrong Name,2026-01-23T16:34:15.526685,100.0,[],True,False
+DOC_000333,CLI_0015,P60,2023,2026-01-12T16:34:15.526706,96.29,[],True,False
+DOC_000334,CLI_0018,Investment Statement,Outdated,2025-12-09T16:34:15.526725,84.81,[],False,False
+DOC_000335,CLI_0033,Council Tax,Recent,2025-12-11T16:34:15.526747,100.0,['Expired'],False,False
+DOC_000336,CLI_0003,Utility Bill,Recent,2025-12-10T16:34:15.526770,89.6,['Expired'],False,False
+DOC_000337,CLI_0034,Pension Statement,Current,2026-01-19T16:34:15.526794,92.45,['Wrong Document'],False,False
+DOC_000338,CLI_0031,Council Tax,Outdated,2026-01-26T16:34:15.526813,96.24,[],True,False
+DOC_000339,CLI_0032,Driving Licence,Damaged,2026-01-21T16:34:15.526836,90.29,[],True,False
+DOC_000340,CLI_0050,Pension Statement,Current,2026-01-23T16:34:15.526858,100.0,['Partial'],False,False
+DOC_000341,CLI_0035,P60,2025,2026-01-16T16:34:15.526877,86.33,[],True,False
+DOC_000342,CLI_0033,Council Tax,Outdated,2025-12-26T16:34:15.526899,98.84,['Blurry'],False,False
+DOC_000343,CLI_0039,Council Tax,Recent,2025-12-26T16:34:15.526917,96.0,[],True,False
+DOC_000344,CLI_0035,Bank Statement,Missing Name,2026-01-18T16:34:15.526936,100.0,[],True,False
+DOC_000345,CLI_0007,P60,2025,2026-01-17T16:34:15.526955,87.39,[],True,False
+DOC_000346,CLI_0021,Bank Statement,Outdated,2026-01-27T16:34:15.526974,71.27,[],False,True
+DOC_000347,CLI_0001,P60,2024,2026-01-11T16:34:15.526993,84.05,[],False,False
+DOC_000348,CLI_0026,Council Tax,Outdated,2026-01-14T16:34:15.527012,91.75,[],True,False
+DOC_000349,CLI_0040,Utility Bill,Recent,2025-12-21T16:34:15.527031,100.0,[],True,False
+DOC_000350,CLI_0013,Passport,Valid,2025-12-07T16:34:15.527049,94.57,[],True,False
+DOC_000351,CLI_0009,Investment Statement,Current,2025-12-23T16:34:15.527068,94.6,[],True,False
+DOC_000352,CLI_0021,Bank Statement,Outdated,2026-01-10T16:34:15.527088,90.67,[],True,False
+DOC_000353,CLI_0008,Passport,Damaged,2025-12-31T16:34:15.527110,91.01,['Expired'],False,False
+DOC_000354,CLI_0044,Passport,Damaged,2026-01-19T16:34:15.527131,99.81,[],True,False
+DOC_000355,CLI_0008,Investment Statement,Current,2026-01-08T16:34:15.527150,89.08,[],True,False
+DOC_000356,CLI_0017,P60,Illegible,2026-01-01T16:34:15.527172,93.48,['Damaged'],False,False
+DOC_000357,CLI_0046,Council Tax,Recent,2026-01-27T16:34:15.527192,87.11,[],True,False
+DOC_000358,CLI_0030,Payslip,2+ months old,2025-12-31T16:34:15.527211,100.0,[],True,False
+DOC_000359,CLI_0048,Passport,Damaged,2026-01-29T16:34:15.527233,86.53,['Damaged'],False,False
+DOC_000360,CLI_0049,Council Tax,Outdated,2025-12-22T16:34:15.527252,97.68,[],True,False
+DOC_000361,CLI_0041,Investment Statement,Outdated,2025-12-27T16:34:15.527270,99.7,[],True,False
+DOC_000362,CLI_0012,Pension Statement,Outdated,2025-12-10T16:34:15.527289,91.58,[],True,False
+DOC_000363,CLI_0032,Driving Licence,Damaged,2026-01-18T16:34:15.527308,85.37,[],True,False
+DOC_000364,CLI_0025,Driving Licence,Expired,2026-01-12T16:34:15.527327,93.61,[],True,False
+DOC_000365,CLI_0021,Utility Bill,Outdated,2025-12-22T16:34:15.527350,82.3,['Wrong Document'],False,False
+DOC_000366,CLI_0047,Driving Licence,Valid Photocard,2026-01-24T16:34:15.527372,100.0,['Expired'],False,False
+DOC_000367,CLI_0046,Pension Statement,Outdated,2026-01-10T16:34:15.527391,97.3,[],True,False
+DOC_000368,CLI_0022,Investment Statement,Outdated,2026-01-19T16:34:15.527410,100.0,[],True,False
+DOC_000369,CLI_0018,Driving Licence,Valid Photocard,2026-01-09T16:34:15.527432,87.18,['Partial'],False,False
+DOC_000370,CLI_0024,Payslip,Damaged,2025-12-07T16:34:15.527454,94.19,['Blurry'],False,False
+DOC_000371,CLI_0003,Payslip,Damaged,2026-01-24T16:34:15.527472,100.0,[],True,False
+DOC_000372,CLI_0042,Pension Statement,Current,2026-01-31T16:34:15.527494,93.64,['Partial'],False,False
+DOC_000373,CLI_0004,Pension Statement,Current,2026-01-22T16:34:15.527513,100.0,[],True,False
+DOC_000374,CLI_0021,Bank Statement,Missing Name,2025-12-22T16:34:15.527532,88.62,[],True,False
+DOC_000375,CLI_0048,Investment Statement,Outdated,2026-01-15T16:34:15.527554,100.0,['Wrong Document'],False,False
+DOC_000376,CLI_0014,Investment Statement,Outdated,2026-01-21T16:34:15.527581,92.66,['Wrong Document'],False,False
+DOC_000377,CLI_0016,Utility Bill,Wrong Name,2025-12-16T16:34:15.527603,97.78,['Wrong Document'],False,False
+DOC_000378,CLI_0004,Council Tax,Outdated,2026-01-06T16:34:15.527624,89.02,['Partial'],False,False
+DOC_000379,CLI_0037,Payslip,Recent,2026-01-25T16:34:15.527665,88.67,[],True,False
+DOC_000380,CLI_0004,Utility Bill,Recent,2025-12-08T16:34:15.527689,82.55,[],False,False
+DOC_000381,CLI_0004,Pension Statement,Outdated,2026-01-13T16:34:15.527709,100.0,[],True,False
+DOC_000382,CLI_0049,Utility Bill,Outdated,2026-01-20T16:34:15.527728,89.29,[],True,False
+DOC_000383,CLI_0030,Payslip,Recent,2025-12-27T16:34:15.527747,92.71,[],True,False
+DOC_000384,CLI_0030,Bank Statement,Recent,2026-01-14T16:34:15.527766,100.0,[],True,False
+DOC_000385,CLI_0049,Investment Statement,Outdated,2026-01-12T16:34:15.527785,84.97,[],False,False
+DOC_000386,CLI_0048,Payslip,Damaged,2025-12-24T16:34:15.527808,87.68,['Partial'],False,False
+DOC_000387,CLI_0009,P60,2025,2025-12-20T16:34:15.527830,94.85,[],True,False
+DOC_000388,CLI_0049,Payslip,Recent,2025-12-04T16:34:15.527849,92.39,[],True,False
+DOC_000389,CLI_0045,Utility Bill,Recent,2026-01-12T16:34:15.527868,87.33,[],True,False
+DOC_000390,CLI_0049,P60,2024,2026-01-26T16:34:15.527890,81.59,['Wrong Document'],False,False
+DOC_000391,CLI_0026,Council Tax,Outdated,2025-12-06T16:34:15.527909,91.78,[],True,False
+DOC_000392,CLI_0036,Payslip,Recent,2025-12-19T16:34:15.527928,100.0,[],True,False
+DOC_000393,CLI_0031,Council Tax,Outdated,2025-12-21T16:34:15.527947,89.45,[],True,False
+DOC_000394,CLI_0030,Payslip,Damaged,2026-01-04T16:34:15.527965,91.85,[],True,False
+DOC_000395,CLI_0014,Pension Statement,Outdated,2026-01-19T16:34:15.527984,99.31,[],True,False
+DOC_000396,CLI_0006,Investment Statement,Current,2026-01-12T16:34:15.528010,85.57,['Partial'],False,False
+DOC_000397,CLI_0018,Investment Statement,Current,2026-01-17T16:34:15.528029,72.61,[],False,True
+DOC_000398,CLI_0018,Pension Statement,Current,2025-12-21T16:34:15.528051,99.07,['Expired'],False,False
+DOC_000399,CLI_0026,Pension Statement,Outdated,2026-01-29T16:34:15.528073,91.16,['Expired'],False,False
+DOC_000400,CLI_0023,P60,Illegible,2025-12-12T16:34:15.528093,100.0,[],True,False
+DOC_000401,CLI_0025,P60,Illegible,2025-12-30T16:34:15.528112,85.42,[],True,False
+DOC_000402,CLI_0017,Pension Statement,Current,2026-01-04T16:34:15.528182,90.69,[],True,False
+DOC_000403,CLI_0043,Investment Statement,Current,2026-01-26T16:34:15.528207,95.04,[],True,False
+DOC_000404,CLI_0034,Passport,Expired,2026-01-30T16:34:15.528227,100.0,[],True,False
+DOC_000405,CLI_0022,Investment Statement,Outdated,2025-12-16T16:34:15.528246,100.0,[],True,False
+DOC_000406,CLI_0040,Payslip,Damaged,2025-12-12T16:34:15.528265,89.91,[],True,False
+DOC_000407,CLI_0049,Bank Statement,Recent,2026-01-17T16:34:15.528287,88.14,['Expired'],False,False
+DOC_000408,CLI_0022,Council Tax,Outdated,2025-12-22T16:34:15.528306,84.37,[],False,False
+DOC_000409,CLI_0040,Passport,Damaged,2025-12-19T16:34:15.528325,84.9,[],False,False
+DOC_000410,CLI_0033,Council Tax,Recent,2025-12-11T16:34:15.528617,92.92,[],True,False
+DOC_000411,CLI_0023,Investment Statement,Current,2026-01-22T16:34:15.528686,100.0,['Wrong Document'],False,False
+DOC_000412,CLI_0008,Pension Statement,Outdated,2025-12-26T16:34:15.528713,87.45,['Wrong Document'],False,False
+DOC_000413,CLI_0021,Pension Statement,Current,2025-12-21T16:34:15.528736,82.87,['Damaged'],False,False
+DOC_000414,CLI_0020,Payslip,2+ months old,2026-01-29T16:34:15.528755,96.28,[],True,False
+DOC_000415,CLI_0045,Utility Bill,Wrong Name,2025-12-26T16:34:15.528778,89.32,[],True,False
+DOC_000416,CLI_0032,P60,Illegible,2025-12-31T16:34:15.528801,88.77,['Partial'],False,False
+DOC_000417,CLI_0009,Bank Statement,Recent,2026-01-19T16:34:15.528827,94.12,[],True,False
+DOC_000418,CLI_0034,Council Tax,Outdated,2025-12-08T16:34:15.528850,91.64,['Partial'],False,False
+DOC_000419,CLI_0027,P60,2025,2025-12-28T16:34:15.528870,87.98,[],True,False
+DOC_000420,CLI_0028,Investment Statement,Outdated,2025-12-19T16:34:15.528892,96.47,['Partial'],False,False
+DOC_000421,CLI_0011,Driving Licence,Damaged,2026-01-10T16:34:15.528911,81.38,[],False,False
+DOC_000422,CLI_0003,P60,Illegible,2026-01-11T16:34:15.528933,100.0,['Blurry'],False,False
+DOC_000423,CLI_0035,Council Tax,Outdated,2026-01-09T16:34:15.528955,86.7,['Blurry'],False,False
+DOC_000424,CLI_0048,Payslip,Recent,2026-01-02T16:34:15.528978,75.76,['Partial'],False,True
+DOC_000425,CLI_0015,Utility Bill,Recent,2025-12-23T16:34:15.528997,94.98,[],True,False
+DOC_000426,CLI_0028,Bank Statement,Outdated,2026-01-31T16:34:15.529019,85.68,['Wrong Document'],False,False
+DOC_000427,CLI_0008,Bank Statement,Missing Name,2025-12-28T16:34:15.529040,90.21,['Expired'],False,False
+DOC_000428,CLI_0046,Council Tax,Outdated,2025-12-24T16:34:15.529104,87.25,['Blurry'],False,False
+DOC_000429,CLI_0009,Utility Bill,Recent,2026-01-09T16:34:15.529136,94.26,['Partial'],False,False
+DOC_000430,CLI_0027,Driving Licence,Expired,2025-12-27T16:34:15.529156,97.97,[],True,False
+DOC_000431,CLI_0008,Utility Bill,Wrong Name,2025-12-25T16:34:15.529178,87.72,['Damaged'],False,False
+DOC_000432,CLI_0023,Payslip,Recent,2025-12-12T16:34:15.529196,91.28,[],True,False
+DOC_000433,CLI_0003,Utility Bill,Recent,2025-12-06T16:34:15.529216,100.0,[],True,False
+DOC_000434,CLI_0019,Council Tax,Outdated,2025-12-10T16:34:15.529235,100.0,[],True,False
+DOC_000435,CLI_0036,Pension Statement,Current,2025-12-28T16:34:15.529256,76.92,[],False,True
+DOC_000436,CLI_0041,Investment Statement,Outdated,2026-01-04T16:34:15.529275,89.63,[],True,False
+DOC_000437,CLI_0008,Driving Licence,Valid Photocard,2025-12-14T16:34:15.529297,82.42,['Expired'],False,False
+DOC_000438,CLI_0048,Utility Bill,Wrong Name,2026-01-11T16:34:15.529319,81.81,['Damaged'],False,False
+DOC_000439,CLI_0021,P60,Illegible,2026-01-23T16:34:15.529338,94.78,[],True,False
+DOC_000440,CLI_0009,Council Tax,Recent,2026-01-24T16:34:15.529719,100.0,['Blurry'],False,False
+DOC_000441,CLI_0045,Bank Statement,Missing Name,2025-12-11T16:34:15.529750,83.04,[],False,False
+DOC_000442,CLI_0029,Payslip,Recent,2026-01-12T16:34:15.529772,91.12,[],True,False
+DOC_000443,CLI_0029,Utility Bill,Wrong Name,2025-12-18T16:34:15.529793,84.28,[],False,False
+DOC_000444,CLI_0003,Payslip,2+ months old,2026-01-05T16:34:15.529812,92.24,[],True,False
+DOC_000445,CLI_0041,Passport,Low Quality,2026-01-15T16:34:15.529832,87.02,[],True,False
+DOC_000446,CLI_0012,Payslip,2+ months old,2025-12-21T16:34:15.529854,93.56,['Partial'],False,False
+DOC_000447,CLI_0001,Investment Statement,Current,2025-12-15T16:34:15.529873,100.0,[],True,False
+DOC_000448,CLI_0045,Council Tax,Outdated,2025-12-25T16:34:15.529892,87.95,[],True,False
+DOC_000449,CLI_0049,Passport,Expired,2025-12-24T16:34:15.529911,94.38,[],True,False
+DOC_000450,CLI_0021,P60,2025,2025-12-21T16:34:15.529929,94.31,[],True,False
+DOC_000451,CLI_0043,Payslip,2+ months old,2026-01-15T16:34:15.529948,98.63,[],True,False
+DOC_000452,CLI_0024,P60,2023,2025-12-24T16:34:15.529970,87.35,['Blurry'],False,False
+DOC_000453,CLI_0013,Utility Bill,Wrong Name,2025-12-19T16:34:15.529989,88.81,[],True,False
+DOC_000454,CLI_0019,Pension Statement,Outdated,2025-12-18T16:34:15.530014,86.78,[],True,False
+DOC_000455,CLI_0012,Passport,Valid,2026-01-02T16:34:15.530034,97.5,[],True,False
+DOC_000456,CLI_0045,Bank Statement,Recent,2026-01-14T16:34:15.530052,95.36,[],True,False
+DOC_000457,CLI_0018,Driving Licence,Expired,2025-12-16T16:34:15.530071,96.7,[],True,False
+DOC_000458,CLI_0028,Pension Statement,Outdated,2025-12-05T16:34:15.530094,100.0,['Wrong Document'],False,False
+DOC_000459,CLI_0015,Investment Statement,Current,2025-12-12T16:34:15.530113,100.0,[],True,False
+DOC_000460,CLI_0011,Driving Licence,Damaged,2025-12-24T16:34:15.530135,83.48,['Blurry'],False,False
+DOC_000461,CLI_0028,Utility Bill,Outdated,2026-01-15T16:34:15.530154,92.47,[],True,False
+DOC_000462,CLI_0041,Utility Bill,Wrong Name,2025-12-18T16:34:15.530173,86.04,[],True,False
+DOC_000463,CLI_0015,P60,2025,2026-01-08T16:34:15.530191,87.44,[],True,False
+DOC_000464,CLI_0038,P60,2024,2025-12-28T16:34:15.530213,96.95,['Wrong Document'],False,False
+DOC_000465,CLI_0045,Bank Statement,Recent,2025-12-29T16:34:15.530232,100.0,[],True,False
+DOC_000466,CLI_0032,Utility Bill,Wrong Name,2026-01-09T16:34:15.530254,86.64,['Blurry'],False,False
+DOC_000467,CLI_0040,Investment Statement,Outdated,2025-12-07T16:34:15.530273,100.0,[],True,False
+DOC_000468,CLI_0028,P60,2023,2025-12-07T16:34:15.530294,100.0,[],True,False
+DOC_000469,CLI_0001,Passport,Damaged,2026-01-01T16:34:15.530313,100.0,[],True,False
+DOC_000470,CLI_0027,Passport,Valid,2026-01-27T16:34:15.530332,100.0,[],True,False
+DOC_000471,CLI_0008,Driving Licence,Expired,2026-01-27T16:34:15.530351,100.0,[],True,False
+DOC_000472,CLI_0030,Pension Statement,Outdated,2026-01-21T16:34:15.530370,88.3,[],True,False
+DOC_000473,CLI_0045,Council Tax,Outdated,2025-12-04T16:34:15.530389,83.21,[],False,False
+DOC_000474,CLI_0015,P60,2024,2025-12-05T16:34:15.530410,89.11,[],True,False
+DOC_000475,CLI_0037,P60,2023,2026-01-03T16:34:15.530431,93.92,['Blurry'],False,False
+DOC_000476,CLI_0013,Council Tax,Recent,2025-12-15T16:34:15.530450,99.23,[],True,False
+DOC_000477,CLI_0022,Council Tax,Recent,2026-01-10T16:34:15.530470,93.47,[],True,False
+DOC_000478,CLI_0023,Utility Bill,Wrong Name,2025-12-31T16:34:15.530490,82.56,[],False,False
+DOC_000479,CLI_0045,Utility Bill,Outdated,2025-12-19T16:34:15.530508,90.65,[],True,False
+DOC_000480,CLI_0011,Bank Statement,Missing Name,2026-01-08T16:34:15.530527,88.22,[],True,False
+DOC_000481,CLI_0035,Driving Licence,Damaged,2025-12-23T16:34:15.530549,97.05,['Damaged'],False,False
+DOC_000482,CLI_0022,Investment Statement,Outdated,2025-12-26T16:34:15.530567,86.77,[],True,False
+DOC_000483,CLI_0039,P60,Illegible,2026-01-13T16:34:15.530586,91.76,[],True,False
+DOC_000484,CLI_0027,P60,2024,2025-12-16T16:34:15.530608,87.46,['Expired'],False,False
+DOC_000485,CLI_0012,Payslip,Recent,2025-12-07T16:34:15.530626,94.61,[],True,False
+DOC_000486,CLI_0020,Investment Statement,Outdated,2026-01-26T16:34:15.530680,100.0,[],True,False
+DOC_000487,CLI_0017,Utility Bill,Wrong Name,2025-12-27T16:34:15.530706,84.73,['Damaged'],False,False
+DOC_000488,CLI_0038,Passport,Expired,2026-01-21T16:34:15.530728,92.23,['Partial'],False,False
+DOC_000489,CLI_0050,Passport,Damaged,2025-12-16T16:34:15.530748,91.15,[],True,False
+DOC_000490,CLI_0047,Council Tax,Recent,2026-01-24T16:34:15.530770,99.64,['Blurry'],False,False
+DOC_000491,CLI_0045,Passport,Valid,2026-01-01T16:34:15.530789,96.75,[],True,False
+DOC_000492,CLI_0016,Driving Licence,Expired,2025-12-20T16:34:15.530808,68.48,[],False,True
+DOC_000493,CLI_0003,Payslip,2+ months old,2026-01-30T16:34:15.530829,88.72,[],True,False
+DOC_000494,CLI_0041,Pension Statement,Current,2025-12-06T16:34:15.530848,86.02,[],True,False
+DOC_000495,CLI_0030,Utility Bill,Wrong Name,2026-01-17T16:34:15.530867,91.01,[],True,False
+DOC_000496,CLI_0037,Pension Statement,Outdated,2026-01-31T16:34:15.530889,89.15,['Blurry'],False,False
+DOC_000497,CLI_0036,Utility Bill,Outdated,2026-01-02T16:34:15.530911,90.22,['Wrong Document'],False,False
+DOC_000498,CLI_0031,Payslip,Damaged,2026-01-29T16:34:15.530930,85.02,[],True,False
+DOC_000499,CLI_0014,Driving Licence,Valid Photocard,2025-12-23T16:34:15.530949,92.24,[],True,False
+DOC_000500,CLI_0017,Bank Statement,Outdated,2026-01-30T16:34:15.530970,96.87,['Wrong Document'],False,False
+DOC_000501,CLI_0002,Pension Statement,Current,2026-01-09T16:34:15.530991,95.41,[],True,False
+DOC_000502,CLI_0014,Pension Statement,Outdated,2025-12-09T16:34:15.531010,89.29,[],True,False
+DOC_000503,CLI_0029,Bank Statement,Recent,2026-01-19T16:34:15.531030,93.38,[],True,False
+DOC_000504,CLI_0021,Utility Bill,Recent,2026-01-07T16:34:15.531050,100.0,[],True,False
+DOC_000505,CLI_0022,Passport,Damaged,2026-01-24T16:34:15.531069,67.84,[],False,True
+DOC_000506,CLI_0020,Driving Licence,Expired,2025-12-17T16:34:15.531088,93.47,[],True,False
+DOC_000507,CLI_0024,Payslip,2+ months old,2026-01-20T16:34:15.531110,82.75,['Damaged'],False,False
+DOC_000508,CLI_0031,Driving Licence,Expired,2025-12-22T16:34:15.531132,92.52,['Partial'],False,False
+DOC_000509,CLI_0012,Passport,Damaged,2026-01-15T16:34:15.531150,97.65,[],True,False
+DOC_000510,CLI_0023,Pension Statement,Outdated,2026-01-26T16:34:15.531169,99.44,[],True,False
+DOC_000511,CLI_0005,Investment Statement,Outdated,2026-01-13T16:34:15.531188,86.74,[],True,False
+DOC_000512,CLI_0009,Driving Licence,Expired,2026-01-13T16:34:15.531211,89.57,['Expired'],False,False
+DOC_000513,CLI_0049,Payslip,Damaged,2025-12-30T16:34:15.531235,94.12,[],True,False
+DOC_000514,CLI_0027,Investment Statement,Outdated,2025-12-16T16:34:15.531255,87.34,[],True,False
+DOC_000515,CLI_0023,P60,2025,2026-01-21T16:34:15.531274,90.65,[],True,False
+DOC_000516,CLI_0017,Council Tax,Recent,2026-01-11T16:34:15.531297,93.6,['Blurry'],False,False
+DOC_000517,CLI_0020,Utility Bill,Wrong Name,2025-12-15T16:34:15.531316,88.5,[],True,False
+DOC_000518,CLI_0039,Investment Statement,Current,2026-01-14T16:34:15.531335,93.12,[],True,False
+DOC_000519,CLI_0014,Utility Bill,Recent,2026-01-23T16:34:15.531359,100.0,['Blurry'],False,False
+DOC_000520,CLI_0038,Payslip,2+ months old,2025-12-18T16:34:15.531378,89.44,[],True,False
+DOC_000521,CLI_0023,Driving Licence,Valid Photocard,2026-01-26T16:34:15.531400,95.01,['Wrong Document'],False,False
+DOC_000522,CLI_0044,P60,Illegible,2025-12-27T16:34:15.531423,84.78,['Blurry'],False,False
+DOC_000523,CLI_0021,Utility Bill,Recent,2025-12-26T16:34:15.531445,78.05,['Expired'],False,True
+DOC_000524,CLI_0038,Pension Statement,Outdated,2025-12-27T16:34:15.531463,92.95,[],True,False
+DOC_000525,CLI_0014,Utility Bill,Recent,2026-01-08T16:34:15.531487,85.13,['Wrong Document'],False,False
+DOC_000526,CLI_0029,Investment Statement,Outdated,2026-01-06T16:34:15.531506,100.0,[],True,False
+DOC_000527,CLI_0038,Passport,Low Quality,2026-01-04T16:34:15.531525,78.43,[],False,True
+DOC_000528,CLI_0012,Payslip,Recent,2025-12-16T16:34:15.531544,89.37,[],True,False
+DOC_000529,CLI_0030,Investment Statement,Outdated,2026-01-07T16:34:15.531563,89.91,[],True,False
+DOC_000530,CLI_0033,Bank Statement,Outdated,2025-12-06T16:34:15.531582,81.7,[],False,False
+DOC_000531,CLI_0012,P60,Illegible,2025-12-31T16:34:15.531601,100.0,[],True,False
+DOC_000532,CLI_0011,Pension Statement,Current,2025-12-07T16:34:15.531622,93.05,[],True,False
+DOC_000533,CLI_0008,Payslip,Damaged,2025-12-29T16:34:15.531674,88.83,[],True,False
+DOC_000534,CLI_0034,Bank Statement,Outdated,2025-12-23T16:34:15.531698,90.56,[],True,False
+DOC_000535,CLI_0009,Bank Statement,Recent,2025-12-31T16:34:15.531718,100.0,[],True,False
+DOC_000536,CLI_0028,Payslip,Recent,2026-01-06T16:34:15.531737,95.46,[],True,False
+DOC_000537,CLI_0044,Bank Statement,Outdated,2025-12-16T16:34:15.531759,82.9,['Wrong Document'],False,False
+DOC_000538,CLI_0031,Passport,Valid,2025-12-06T16:34:15.531781,84.48,['Wrong Document'],False,False
+DOC_000539,CLI_0047,Investment Statement,Outdated,2025-12-29T16:34:15.531803,83.29,['Partial'],False,False
+DOC_000540,CLI_0015,P60,2024,2025-12-25T16:34:15.531821,90.75,[],True,False
+DOC_000541,CLI_0022,Driving Licence,Expired,2026-01-02T16:34:15.531840,74.31,[],False,True
+DOC_000542,CLI_0006,Pension Statement,Outdated,2025-12-30T16:34:15.531862,100.0,['Wrong Document'],False,False
+DOC_000543,CLI_0017,Driving Licence,Damaged,2026-01-28T16:34:15.531881,100.0,[],True,False
+DOC_000544,CLI_0035,Pension Statement,Outdated,2026-01-20T16:34:15.531903,83.21,['Blurry'],False,False
+DOC_000545,CLI_0011,P60,2025,2025-12-20T16:34:15.531921,85.42,[],True,False
+DOC_000546,CLI_0016,Driving Licence,Expired,2025-12-21T16:34:15.531944,100.0,['Expired'],False,False
+DOC_000547,CLI_0008,Council Tax,Recent,2026-01-08T16:34:15.531965,90.07,['Wrong Document'],False,False
+DOC_000548,CLI_0050,Payslip,Recent,2026-01-23T16:34:15.531984,79.63,[],False,True
+DOC_000549,CLI_0037,Council Tax,Recent,2026-01-08T16:34:15.532009,99.16,['Expired'],False,False
+DOC_000550,CLI_0042,Pension Statement,Outdated,2025-12-15T16:34:15.532028,75.07,[],False,True
+DOC_000551,CLI_0027,Payslip,Recent,2026-01-22T16:34:15.532050,87.54,['Expired'],False,False
+DOC_000552,CLI_0036,Investment Statement,Outdated,2026-01-05T16:34:15.532071,80.35,[],False,False
+DOC_000553,CLI_0034,Utility Bill,Recent,2025-12-28T16:34:15.532093,81.25,['Partial'],False,False
+DOC_000554,CLI_0049,Bank Statement,Missing Name,2026-01-15T16:34:15.532111,79.17,[],False,True
+DOC_000555,CLI_0018,Council Tax,Recent,2025-12-13T16:34:15.532163,76.24,[],False,True
+DOC_000556,CLI_0001,Council Tax,Outdated,2025-12-04T16:34:15.532191,99.14,[],True,False
+DOC_000557,CLI_0011,Investment Statement,Current,2026-01-28T16:34:15.532211,95.53,[],True,False
+DOC_000558,CLI_0005,Pension Statement,Current,2026-01-20T16:34:15.532230,85.08,[],True,False
+DOC_000559,CLI_0026,Utility Bill,Wrong Name,2025-12-23T16:34:15.532253,90.26,['Damaged'],False,False
+DOC_000560,CLI_0005,P60,2024,2026-01-12T16:34:15.532275,83.11,['Damaged'],False,False
+DOC_000561,CLI_0015,Driving Licence,Valid Photocard,2025-12-24T16:34:15.532294,81.98,[],False,False
+DOC_000562,CLI_0046,Investment Statement,Current,2026-01-17T16:34:15.532312,94.91,[],True,False
+DOC_000563,CLI_0035,P60,2025,2025-12-27T16:34:15.532334,100.0,['Expired'],False,False
+DOC_000564,CLI_0034,Pension Statement,Outdated,2026-01-29T16:34:15.532353,89.05,[],True,False
+DOC_000565,CLI_0034,Investment Statement,Current,2026-01-27T16:34:15.532372,77.77,[],False,True
+DOC_000566,CLI_0031,P60,2024,2025-12-06T16:34:15.532391,94.56,[],True,False
+DOC_000567,CLI_0006,P60,2025,2025-12-12T16:34:15.532410,83.3,[],False,False
+DOC_000568,CLI_0022,Council Tax,Outdated,2025-12-12T16:34:15.532429,83.31,[],False,False
+DOC_000569,CLI_0036,Investment Statement,Current,2026-01-07T16:34:15.532451,96.73,['Expired'],False,False
+DOC_000570,CLI_0048,Utility Bill,Outdated,2025-12-15T16:34:15.532472,100.0,[],True,False
+DOC_000571,CLI_0047,Payslip,Damaged,2026-01-24T16:34:15.532492,97.64,[],True,False
+DOC_000572,CLI_0049,Bank Statement,Missing Name,2025-12-29T16:34:15.532516,85.99,['Partial'],False,False
+DOC_000573,CLI_0009,Passport,Damaged,2025-12-15T16:34:15.532535,89.4,[],True,False
+DOC_000574,CLI_0047,Investment Statement,Current,2026-01-31T16:34:15.532557,100.0,['Blurry'],False,False
+DOC_000575,CLI_0025,Utility Bill,Recent,2026-01-31T16:34:15.532576,100.0,[],True,False
+DOC_000576,CLI_0047,Bank Statement,Outdated,2026-01-15T16:34:15.532599,99.96,['Blurry'],False,False
+DOC_000577,CLI_0034,Investment Statement,Current,2025-12-10T16:34:15.532618,89.05,[],True,False
+DOC_000578,CLI_0003,Passport,Damaged,2025-12-08T16:34:15.532671,88.32,['Expired'],False,False
+DOC_000579,CLI_0001,Passport,Damaged,2026-01-28T16:34:15.532697,100.0,[],True,False
+DOC_000580,CLI_0018,Passport,Damaged,2025-12-23T16:34:15.532720,64.91,['Partial'],False,True
+DOC_000581,CLI_0014,Passport,Expired,2025-12-14T16:34:15.532742,92.43,['Blurry'],False,False
+DOC_000582,CLI_0040,Utility Bill,Recent,2026-01-05T16:34:15.532761,100.0,[],True,False
+DOC_000583,CLI_0016,Payslip,Recent,2025-12-19T16:34:15.532780,93.5,[],True,False
+DOC_000584,CLI_0023,Driving Licence,Expired,2025-12-26T16:34:15.532799,93.84,[],True,False
+DOC_000585,CLI_0008,Bank Statement,Outdated,2025-12-12T16:34:15.532821,100.0,['Partial'],False,False
+DOC_000586,CLI_0018,Council Tax,Outdated,2025-12-30T16:34:15.532840,100.0,[],True,False
+DOC_000587,CLI_0049,P60,2023,2025-12-06T16:34:15.532861,89.07,['Expired'],False,False
+DOC_000588,CLI_0028,P60,2024,2025-12-30T16:34:15.532881,81.76,[],False,False
+DOC_000589,CLI_0050,Investment Statement,Current,2025-12-24T16:34:15.532952,87.92,[],True,False
+DOC_000590,CLI_0004,Passport,Valid,2025-12-09T16:34:15.532978,93.69,['Partial'],False,False
+DOC_000591,CLI_0029,Pension Statement,Outdated,2025-12-06T16:34:15.533000,84.29,[],False,False
+DOC_000592,CLI_0008,Passport,Expired,2026-01-04T16:34:15.533023,84.34,['Expired'],False,False
+DOC_000593,CLI_0041,P60,2024,2026-01-20T16:34:15.533042,86.86,[],True,False
+DOC_000594,CLI_0007,Utility Bill,Outdated,2025-12-28T16:34:15.533062,100.0,[],True,False
+DOC_000595,CLI_0016,Driving Licence,Expired,2026-01-05T16:34:15.533081,85.46,[],True,False
+DOC_000596,CLI_0029,Payslip,Damaged,2026-01-12T16:34:15.533100,95.49,[],True,False
+DOC_000597,CLI_0044,Utility Bill,Wrong Name,2026-01-29T16:34:15.533121,81.6,[],False,False
+DOC_000598,CLI_0006,Investment Statement,Current,2026-01-26T16:34:15.533140,98.64,[],True,False
+DOC_000599,CLI_0041,Council Tax,Recent,2026-01-07T16:34:15.533162,100.0,['Damaged'],False,False
+DOC_000600,CLI_0010,P60,2023,2025-12-12T16:34:15.533181,94.17,[],True,False
+DOC_000601,CLI_0048,P60,2023,2025-12-18T16:34:15.533200,96.78,[],True,False
+DOC_000602,CLI_0028,Passport,Valid,2026-01-25T16:34:15.533218,100.0,[],True,False
+DOC_000603,CLI_0049,Investment Statement,Outdated,2026-01-22T16:34:15.533240,98.06,['Blurry'],False,False
+DOC_000604,CLI_0050,Payslip,2+ months old,2025-12-04T16:34:15.533259,100.0,[],True,False
+DOC_000605,CLI_0021,Investment Statement,Outdated,2026-01-05T16:34:15.533278,94.09,[],True,False
+DOC_000606,CLI_0026,Utility Bill,Recent,2025-12-22T16:34:15.533296,94.38,[],True,False
+DOC_000607,CLI_0042,Driving Licence,Valid Photocard,2025-12-30T16:34:15.533315,94.87,[],True,False
+DOC_000608,CLI_0046,P60,2023,2025-12-23T16:34:15.533334,96.54,[],True,False
+DOC_000609,CLI_0011,Driving Licence,Damaged,2026-01-02T16:34:15.533353,95.68,[],True,False
+DOC_000610,CLI_0048,Bank Statement,Outdated,2025-12-27T16:34:15.533377,81.2,['Partial'],False,False
+DOC_000611,CLI_0013,Pension Statement,Outdated,2026-01-05T16:34:15.533395,94.64,[],True,False
+DOC_000612,CLI_0046,Pension Statement,Current,2026-01-23T16:34:15.533417,72.09,['Blurry'],False,True
+DOC_000613,CLI_0006,Investment Statement,Current,2026-01-14T16:34:15.533439,85.71,['Blurry'],False,False
+DOC_000614,CLI_0021,Driving Licence,Valid Photocard,2025-12-25T16:34:15.533460,80.95,['Partial'],False,False
+DOC_000615,CLI_0040,Council Tax,Outdated,2025-12-29T16:34:15.533479,96.31,[],True,False
+DOC_000616,CLI_0022,Investment Statement,Current,2026-01-25T16:34:15.533498,93.47,[],True,False
+DOC_000617,CLI_0043,Payslip,Damaged,2025-12-06T16:34:15.533517,99.83,[],True,False
+DOC_000618,CLI_0001,Payslip,2+ months old,2026-01-03T16:34:15.533536,83.95,[],False,False
+DOC_000619,CLI_0005,Passport,Expired,2026-01-28T16:34:15.533554,98.47,[],True,False
+DOC_000620,CLI_0005,Passport,Low Quality,2025-12-07T16:34:15.533578,96.37,['Partial'],False,False
+DOC_000621,CLI_0042,Bank Statement,Recent,2025-12-18T16:34:15.533600,81.19,['Blurry'],False,False
+DOC_000622,CLI_0046,Bank Statement,Recent,2025-12-21T16:34:15.533621,81.42,[],False,False
+DOC_000623,CLI_0049,Bank Statement,Recent,2025-12-18T16:34:15.533669,97.1,[],True,False
+DOC_000624,CLI_0035,Bank Statement,Outdated,2026-01-27T16:34:15.533693,89.71,[],True,False
+DOC_000625,CLI_0042,Bank Statement,Recent,2026-01-10T16:34:15.533712,87.92,[],True,False
+DOC_000626,CLI_0009,P60,2023,2025-12-17T16:34:15.533732,75.41,[],False,True
+DOC_000627,CLI_0047,Bank Statement,Recent,2026-01-10T16:34:15.533750,99.81,[],True,False
+DOC_000628,CLI_0033,Passport,Expired,2025-12-21T16:34:15.533769,99.35,[],True,False
+DOC_000629,CLI_0014,Utility Bill,Outdated,2025-12-08T16:34:15.533789,100.0,[],True,False
+DOC_000630,CLI_0047,Payslip,Damaged,2026-01-17T16:34:15.533810,95.46,[],True,False
+DOC_000631,CLI_0028,Pension Statement,Outdated,2026-01-13T16:34:15.533832,91.69,['Blurry'],False,False
+DOC_000632,CLI_0003,Pension Statement,Current,2025-12-13T16:34:15.533854,93.78,['Expired'],False,False
+DOC_000633,CLI_0034,Utility Bill,Recent,2026-01-19T16:34:15.533873,94.62,[],True,False
+DOC_000634,CLI_0048,Passport,Valid,2026-01-03T16:34:15.533892,99.39,[],True,False
+DOC_000635,CLI_0039,Pension Statement,Outdated,2026-01-25T16:34:15.533914,83.86,['Partial'],False,False
+DOC_000636,CLI_0049,Bank Statement,Recent,2025-12-20T16:34:15.533936,92.26,['Blurry'],False,False
+DOC_000637,CLI_0025,Utility Bill,Wrong Name,2025-12-09T16:34:15.533958,89.9,['Blurry'],False,False
+DOC_000638,CLI_0028,Investment Statement,Outdated,2025-12-06T16:34:15.533979,94.91,['Expired'],False,False
+DOC_000639,CLI_0022,Investment Statement,Current,2026-01-03T16:34:15.533999,88.9,[],True,False
+DOC_000640,CLI_0019,Utility Bill,Outdated,2026-01-17T16:34:15.534017,86.61,[],True,False
+DOC_000641,CLI_0003,P60,2024,2025-12-31T16:34:15.534039,100.0,['Damaged'],False,False
+DOC_000642,CLI_0008,Payslip,2+ months old,2025-12-06T16:34:15.534058,88.34,[],True,False
+DOC_000643,CLI_0040,Council Tax,Recent,2026-01-30T16:34:15.534077,93.53,[],True,False
+DOC_000644,CLI_0013,Payslip,Damaged,2026-01-03T16:34:15.534099,87.52,[],True,False
+DOC_000645,CLI_0042,Utility Bill,Wrong Name,2025-12-08T16:34:15.534118,93.21,[],True,False
+DOC_000646,CLI_0004,Council Tax,Recent,2025-12-20T16:34:15.534138,89.73,[],True,False
+DOC_000647,CLI_0032,Driving Licence,Expired,2025-12-29T16:34:15.534156,88.88,[],True,False
+DOC_000648,CLI_0015,Investment Statement,Outdated,2025-12-05T16:34:15.534179,100.0,['Damaged'],False,False
+DOC_000649,CLI_0037,Bank Statement,Outdated,2026-01-04T16:34:15.534199,97.35,[],True,False
+DOC_000650,CLI_0009,Payslip,Recent,2026-01-16T16:34:15.534218,84.66,[],False,False
+DOC_000651,CLI_0023,Utility Bill,Recent,2026-01-10T16:34:15.534237,98.27,[],True,False
+DOC_000652,CLI_0042,Payslip,Damaged,2025-12-18T16:34:15.534256,94.48,[],True,False
+DOC_000653,CLI_0002,Passport,Expired,2025-12-31T16:34:15.534278,84.74,['Damaged'],False,False
+DOC_000654,CLI_0049,Payslip,Recent,2025-12-25T16:34:15.534296,100.0,[],True,False
+DOC_000655,CLI_0003,Passport,Expired,2026-01-19T16:34:15.534315,85.46,[],True,False
+DOC_000656,CLI_0027,Council Tax,Recent,2025-12-24T16:34:15.534334,87.12,[],True,False
+DOC_000657,CLI_0015,Council Tax,Outdated,2025-12-26T16:34:15.534353,86.43,[],True,False
+DOC_000658,CLI_0020,Passport,Low Quality,2025-12-26T16:34:15.534372,96.66,[],True,False
+DOC_000659,CLI_0022,Payslip,Recent,2025-12-07T16:34:15.534390,89.34,[],True,False
+DOC_000660,CLI_0046,Driving Licence,Expired,2025-12-17T16:34:15.534409,95.93,[],True,False
+DOC_000661,CLI_0040,Bank Statement,Recent,2025-12-09T16:34:15.534428,94.68,[],True,False
+DOC_000662,CLI_0038,Council Tax,Outdated,2026-01-01T16:34:15.534448,94.53,[],True,False
+DOC_000663,CLI_0027,Utility Bill,Recent,2026-01-19T16:34:15.534468,100.0,[],True,False
+DOC_000664,CLI_0049,Utility Bill,Wrong Name,2025-12-12T16:34:15.534486,82.59,[],False,False
+DOC_000665,CLI_0011,P60,2023,2025-12-08T16:34:15.534505,93.92,[],True,False
+DOC_000666,CLI_0015,Utility Bill,Wrong Name,2026-01-11T16:34:15.534525,95.87,[],True,False
+DOC_000667,CLI_0010,Utility Bill,Recent,2026-01-22T16:34:15.534548,93.55,['Damaged'],False,False
+DOC_000668,CLI_0043,Investment Statement,Outdated,2026-01-09T16:34:15.534567,87.18,[],True,False
+DOC_000669,CLI_0024,Driving Licence,Damaged,2026-01-11T16:34:15.534587,100.0,[],True,False
+DOC_000670,CLI_0012,Driving Licence,Expired,2025-12-25T16:34:15.534609,100.0,['Wrong Document'],False,False
+DOC_000671,CLI_0025,Driving Licence,Damaged,2025-12-19T16:34:15.534634,83.53,['Expired'],False,False
+DOC_000672,CLI_0005,Bank Statement,Recent,2026-01-07T16:34:15.534687,100.0,[],True,False
+DOC_000673,CLI_0041,Payslip,2+ months old,2026-01-17T16:34:15.534711,100.0,['Blurry'],False,False
+DOC_000674,CLI_0040,Payslip,2+ months old,2026-01-15T16:34:15.534731,94.84,[],True,False
+DOC_000675,CLI_0029,Driving Licence,Expired,2026-01-20T16:34:15.534750,96.18,[],True,False
+DOC_000676,CLI_0040,Payslip,2+ months old,2025-12-07T16:34:15.534773,100.0,['Wrong Document'],False,False
+DOC_000677,CLI_0026,Driving Licence,Valid Photocard,2026-01-21T16:34:15.534792,95.56,[],True,False
+DOC_000678,CLI_0008,Pension Statement,Current,2026-01-24T16:34:15.534811,100.0,[],True,False
+DOC_000679,CLI_0029,Pension Statement,Outdated,2026-01-25T16:34:15.534832,93.56,['Partial'],False,False
+DOC_000680,CLI_0016,Pension Statement,Outdated,2026-01-09T16:34:15.534851,85.93,[],True,False
+DOC_000681,CLI_0024,Investment Statement,Current,2026-01-01T16:34:15.534870,87.17,[],True,False
+DOC_000682,CLI_0008,P60,2024,2025-12-24T16:34:15.534889,86.91,[],True,False
+DOC_000683,CLI_0012,Passport,Valid,2025-12-19T16:34:15.534908,90.35,[],True,False
+DOC_000684,CLI_0034,Council Tax,Outdated,2026-01-22T16:34:15.534926,86.03,[],True,False
+DOC_000685,CLI_0032,Council Tax,Recent,2026-01-02T16:34:15.534948,78.38,['Expired'],False,True
+DOC_000686,CLI_0010,Bank Statement,Recent,2026-01-19T16:34:15.534967,88.3,[],True,False
+DOC_000687,CLI_0032,Council Tax,Recent,2025-12-25T16:34:15.534986,98.81,[],True,False
+DOC_000688,CLI_0010,Pension Statement,Outdated,2025-12-28T16:34:15.535006,100.0,[],True,False
+DOC_000689,CLI_0044,Bank Statement,Recent,2025-12-08T16:34:15.535025,94.5,[],True,False
+DOC_000690,CLI_0042,P60,Illegible,2026-01-10T16:34:15.535046,91.7,[],True,False
+DOC_000691,CLI_0013,Investment Statement,Outdated,2025-12-21T16:34:15.535065,93.74,[],True,False
+DOC_000692,CLI_0015,Bank Statement,Missing Name,2025-12-31T16:34:15.535084,92.17,[],True,False
+DOC_000693,CLI_0009,Pension Statement,Outdated,2026-01-23T16:34:15.535102,92.13,[],True,False
+DOC_000694,CLI_0012,Payslip,Damaged,2025-12-06T16:34:15.535121,89.18,[],True,False
+DOC_000695,CLI_0035,Driving Licence,Damaged,2025-12-23T16:34:15.535140,86.29,[],True,False
+DOC_000696,CLI_0013,Passport,Valid,2026-01-13T16:34:15.535159,100.0,[],True,False
+DOC_000697,CLI_0013,Investment Statement,Outdated,2025-12-24T16:34:15.535177,100.0,[],True,False
+DOC_000698,CLI_0008,Investment Statement,Current,2025-12-25T16:34:15.535196,90.73,[],True,False
+DOC_000699,CLI_0038,Pension Statement,Outdated,2025-12-09T16:34:15.535215,93.86,[],True,False
+DOC_000700,CLI_0034,Payslip,Recent,2025-12-08T16:34:15.535234,90.24,[],True,False
+DOC_000701,CLI_0008,Investment Statement,Outdated,2025-12-04T16:34:15.535253,100.0,[],True,False
+DOC_000702,CLI_0012,Passport,Damaged,2025-12-11T16:34:15.535275,87.89,['Expired'],False,False
+DOC_000703,CLI_0025,Investment Statement,Current,2026-01-10T16:34:15.535293,95.27,[],True,False
+DOC_000704,CLI_0004,Driving Licence,Valid Photocard,2026-01-19T16:34:15.535312,89.54,[],True,False
+DOC_000705,CLI_0017,Payslip,Recent,2026-01-24T16:34:15.535331,80.94,[],False,False
+DOC_000706,CLI_0050,Bank Statement,Outdated,2025-12-04T16:34:15.535353,94.0,[],True,False
+DOC_000707,CLI_0026,Bank Statement,Recent,2026-01-30T16:34:15.535372,100.0,[],True,False
+DOC_000708,CLI_0018,Passport,Expired,2026-01-03T16:34:15.535395,90.35,['Damaged'],False,False
+DOC_000709,CLI_0046,Driving Licence,Valid Photocard,2026-01-15T16:34:15.535414,100.0,[],True,False
+DOC_000710,CLI_0040,Utility Bill,Wrong Name,2025-12-19T16:34:15.535436,98.0,['Damaged'],False,False
+DOC_000711,CLI_0031,P60,2023,2025-12-09T16:34:15.535458,80.6,['Blurry'],False,False
+DOC_000712,CLI_0047,Passport,Low Quality,2025-12-29T16:34:15.535477,98.5,[],True,False
+DOC_000713,CLI_0016,Investment Statement,Outdated,2026-01-20T16:34:15.535497,93.99,[],True,False
+DOC_000714,CLI_0001,Pension Statement,Outdated,2026-01-21T16:34:15.535516,84.85,[],False,False
+DOC_000715,CLI_0039,Passport,Valid,2026-01-09T16:34:15.535535,98.03,[],True,False
+DOC_000716,CLI_0006,Payslip,2+ months old,2025-12-18T16:34:15.535554,83.05,[],False,False
+DOC_000717,CLI_0008,Investment Statement,Current,2025-12-12T16:34:15.535572,86.38,[],True,False
+DOC_000718,CLI_0002,Pension Statement,Current,2025-12-04T16:34:15.535591,82.36,[],False,False
+DOC_000719,CLI_0017,Payslip,Damaged,2025-12-26T16:34:15.535610,87.13,[],True,False
+DOC_000720,CLI_0004,Payslip,2+ months old,2025-12-05T16:34:15.535635,84.67,['Wrong Document'],False,False
+DOC_000721,CLI_0013,Council Tax,Outdated,2025-12-17T16:34:15.535687,99.93,[],True,False
+DOC_000722,CLI_0019,Utility Bill,Outdated,2025-12-04T16:34:15.535708,100.0,[],True,False
+DOC_000723,CLI_0028,Passport,Expired,2026-01-28T16:34:15.535732,99.97,['Damaged'],False,False
+DOC_000724,CLI_0038,Investment Statement,Current,2026-01-20T16:34:15.535752,88.27,[],True,False
+DOC_000725,CLI_0031,Pension Statement,Current,2025-12-05T16:34:15.535771,91.56,[],True,False
+DOC_000726,CLI_0024,Payslip,2+ months old,2025-12-23T16:34:15.535793,95.88,['Wrong Document'],False,False
+DOC_000727,CLI_0010,Utility Bill,Wrong Name,2026-01-17T16:34:15.535816,86.81,['Blurry'],False,False
+DOC_000728,CLI_0035,Investment Statement,Current,2025-12-16T16:34:15.535836,89.23,[],True,False
+DOC_000729,CLI_0034,Bank Statement,Missing Name,2025-12-15T16:34:15.535855,100.0,[],True,False
+DOC_000730,CLI_0048,Passport,Expired,2026-01-02T16:34:15.535873,86.34,[],True,False
+DOC_000731,CLI_0003,P60,2025,2025-12-30T16:34:15.535892,93.81,[],True,False
+DOC_000732,CLI_0038,Council Tax,Recent,2026-01-11T16:34:15.535911,94.04,[],True,False
+DOC_000733,CLI_0024,Investment Statement,Outdated,2025-12-16T16:34:15.535930,99.29,[],True,False
+DOC_000734,CLI_0023,Council Tax,Recent,2025-12-28T16:34:15.535951,92.85,['Wrong Document'],False,False
+DOC_000735,CLI_0022,Pension Statement,Current,2025-12-11T16:34:15.535971,86.07,[],True,False
+DOC_000736,CLI_0049,Pension Statement,Current,2026-01-27T16:34:15.535990,100.0,[],True,False
+DOC_000737,CLI_0045,P60,2023,2026-01-27T16:34:15.536009,86.15,[],True,False
+DOC_000738,CLI_0009,Driving Licence,Valid Photocard,2025-12-12T16:34:15.536028,90.01,[],True,False
+DOC_000739,CLI_0030,Bank Statement,Outdated,2025-12-09T16:34:15.536047,97.42,[],True,False
+DOC_000740,CLI_0028,Investment Statement,Current,2025-12-07T16:34:15.536068,98.32,['Expired'],False,False
+DOC_000741,CLI_0047,Driving Licence,Damaged,2026-01-31T16:34:15.536090,79.96,['Blurry'],False,True
+DOC_000742,CLI_0042,Payslip,2+ months old,2026-01-10T16:34:15.536112,93.01,['Blurry'],False,False
+DOC_000743,CLI_0038,Utility Bill,Recent,2025-12-09T16:34:15.536162,88.09,[],True,False
+DOC_000744,CLI_0026,Passport,Expired,2026-01-18T16:34:15.536188,95.36,[],True,False
+DOC_000745,CLI_0045,Payslip,Damaged,2026-01-05T16:34:15.536211,87.56,['Expired'],False,False
+DOC_000746,CLI_0013,Passport,Damaged,2025-12-28T16:34:15.536230,81.59,[],False,False
+DOC_000747,CLI_0006,P60,2024,2025-12-16T16:34:15.536251,90.86,[],True,False
+DOC_000748,CLI_0005,Council Tax,Outdated,2025-12-13T16:34:15.536270,85.93,[],True,False
+DOC_000749,CLI_0018,Council Tax,Recent,2025-12-20T16:34:15.536289,86.24,[],True,False
+DOC_000750,CLI_0047,Utility Bill,Recent,2026-01-12T16:34:15.536308,85.9,[],True,False
+DOC_000751,CLI_0036,Utility Bill,Outdated,2026-01-15T16:34:15.536327,95.23,[],True,False
+DOC_000752,CLI_0007,Driving Licence,Valid Photocard,2025-12-27T16:34:15.536346,95.42,[],True,False
+DOC_000753,CLI_0013,Payslip,2+ months old,2026-01-28T16:34:15.536364,77.91,[],False,True
+DOC_000754,CLI_0040,Council Tax,Recent,2025-12-31T16:34:15.536383,94.4,[],True,False
+DOC_000755,CLI_0045,Driving Licence,Damaged,2025-12-24T16:34:15.536405,89.72,['Blurry'],False,False
+DOC_000756,CLI_0045,Driving Licence,Damaged,2025-12-24T16:34:15.536427,86.95,['Partial'],False,False
+DOC_000757,CLI_0042,Investment Statement,Outdated,2026-01-27T16:34:15.536445,100.0,[],True,False
+DOC_000758,CLI_0029,Bank Statement,Outdated,2026-01-09T16:34:15.536467,87.51,['Expired'],False,False
+DOC_000759,CLI_0005,Payslip,2+ months old,2026-01-14T16:34:15.536491,88.83,['Damaged'],False,False
+DOC_000760,CLI_0015,Pension Statement,Outdated,2025-12-26T16:34:15.536510,89.87,[],True,False
+DOC_000761,CLI_0010,Council Tax,Outdated,2026-01-21T16:34:15.536529,90.19,[],True,False
+DOC_000762,CLI_0043,Passport,Low Quality,2026-01-15T16:34:15.536551,91.32,['Wrong Document'],False,False
+DOC_000763,CLI_0041,Utility Bill,Recent,2026-01-31T16:34:15.536569,94.17,[],True,False
+DOC_000764,CLI_0020,Payslip,Damaged,2025-12-04T16:34:15.536588,94.42,[],True,False
+DOC_000765,CLI_0042,Utility Bill,Recent,2025-12-14T16:34:15.536607,100.0,[],True,False
+DOC_000766,CLI_0041,Investment Statement,Current,2025-12-16T16:34:15.536629,100.0,[],True,False
+DOC_000767,CLI_0005,Council Tax,Outdated,2026-01-22T16:34:15.536693,93.49,[],True,False
+DOC_000768,CLI_0014,Investment Statement,Outdated,2025-12-08T16:34:15.536733,83.56,[],False,False
+DOC_000769,CLI_0041,Investment Statement,Outdated,2026-01-21T16:34:15.536775,88.32,[],True,False
+DOC_000770,CLI_0011,P60,2025,2026-01-30T16:34:15.536809,84.38,['Blurry'],False,False
+DOC_000771,CLI_0012,Investment Statement,Outdated,2026-01-06T16:34:15.536960,90.73,['Partial'],False,False
+DOC_000772,CLI_0016,Payslip,Recent,2026-01-20T16:34:15.536998,91.79,['Damaged'],False,False
+DOC_000773,CLI_0013,Council Tax,Recent,2026-01-20T16:34:15.537032,100.0,['Wrong Document'],False,False
+DOC_000774,CLI_0013,Passport,Damaged,2025-12-07T16:34:15.537064,100.0,[],True,False
+DOC_000775,CLI_0036,P60,Illegible,2026-01-25T16:34:15.537097,76.12,['Damaged'],False,True
+DOC_000776,CLI_0045,Council Tax,Outdated,2026-01-29T16:34:15.537129,87.12,['Expired'],False,False
+DOC_000777,CLI_0015,Council Tax,Recent,2025-12-26T16:34:15.537156,82.1,[],False,False
+DOC_000778,CLI_0027,Bank Statement,Recent,2026-01-26T16:34:15.537183,92.88,[],True,False
+DOC_000779,CLI_0036,Driving Licence,Expired,2026-01-13T16:34:15.537216,91.37,['Expired'],False,False
+DOC_000780,CLI_0023,Driving Licence,Valid Photocard,2025-12-09T16:34:15.537246,91.29,[],True,False
+DOC_000781,CLI_0029,Council Tax,Outdated,2025-12-12T16:34:15.537283,81.89,[],False,False
+DOC_000782,CLI_0019,Payslip,2+ months old,2026-01-12T16:34:15.537323,83.25,['Blurry'],False,False
+DOC_000783,CLI_0009,Council Tax,Outdated,2026-01-10T16:34:15.537346,83.17,['Expired'],False,False
+DOC_000784,CLI_0004,Driving Licence,Valid Photocard,2026-01-01T16:34:15.537368,89.35,['Damaged'],False,False
+DOC_000785,CLI_0007,Council Tax,Recent,2026-01-01T16:34:15.537393,88.29,['Expired'],False,False
+DOC_000786,CLI_0019,P60,Illegible,2025-12-11T16:34:15.537415,83.72,[],False,False
+DOC_000787,CLI_0010,Driving Licence,Expired,2026-01-01T16:34:15.537436,97.7,['Expired'],False,False
+DOC_000788,CLI_0043,Pension Statement,Current,2026-01-11T16:34:15.537455,76.93,[],False,True
+DOC_000789,CLI_0004,Bank Statement,Outdated,2026-01-21T16:34:15.537475,78.65,[],False,True
+DOC_000790,CLI_0028,Passport,Damaged,2025-12-21T16:34:15.537494,93.28,[],True,False
+DOC_000791,CLI_0007,Driving Licence,Expired,2025-12-21T16:34:15.537513,99.2,[],True,False
+DOC_000792,CLI_0027,Passport,Expired,2026-01-16T16:34:15.537532,95.61,[],True,False
+DOC_000793,CLI_0002,Payslip,2+ months old,2026-01-22T16:34:15.537551,83.95,[],False,False
+DOC_000794,CLI_0042,Pension Statement,Current,2025-12-22T16:34:15.537570,89.25,[],True,False
+DOC_000795,CLI_0042,P60,2024,2026-01-05T16:34:15.537592,94.27,['Partial'],False,False
+DOC_000796,CLI_0041,Driving Licence,Expired,2026-01-20T16:34:15.537611,84.1,[],False,False
+DOC_000797,CLI_0040,Investment Statement,Outdated,2025-12-24T16:34:15.537659,92.63,['Wrong Document'],False,False
+DOC_000798,CLI_0002,Passport,Damaged,2026-01-08T16:34:15.537693,89.57,[],True,False
+DOC_000799,CLI_0027,Driving Licence,Damaged,2026-01-04T16:34:15.537733,88.64,['Expired'],False,False
+DOC_000800,CLI_0020,Bank Statement,Recent,2026-01-18T16:34:15.537773,100.0,[],True,False
+DOC_000801,CLI_0037,Driving Licence,Expired,2026-01-26T16:34:15.537795,95.01,[],True,False
+DOC_000802,CLI_0036,Council Tax,Outdated,2026-01-16T16:34:15.537814,94.49,[],True,False
+DOC_000803,CLI_0036,Pension Statement,Current,2025-12-25T16:34:15.537832,98.99,[],True,False
+DOC_000804,CLI_0003,Bank Statement,Recent,2025-12-04T16:34:15.537851,88.02,[],True,False
+DOC_000805,CLI_0005,Council Tax,Recent,2026-01-26T16:34:15.537873,100.0,[],True,False
+DOC_000806,CLI_0012,Passport,Valid,2026-01-25T16:34:15.537896,100.0,['Expired'],False,False
+DOC_000807,CLI_0046,Passport,Valid,2026-01-05T16:34:15.537915,91.33,[],True,False
+DOC_000808,CLI_0023,Pension Statement,Outdated,2025-12-30T16:34:15.537939,66.5,['Partial'],False,True
+DOC_000809,CLI_0031,Utility Bill,Recent,2025-12-31T16:34:15.537958,82.78,[],False,False
+DOC_000810,CLI_0040,Council Tax,Recent,2026-01-26T16:34:15.537980,93.42,['Expired'],False,False
+DOC_000811,CLI_0025,Payslip,2+ months old,2025-12-08T16:34:15.537999,79.51,[],False,True
+DOC_000812,CLI_0001,Council Tax,Outdated,2026-01-21T16:34:15.538017,100.0,[],True,False
+DOC_000813,CLI_0039,Payslip,Damaged,2026-01-31T16:34:15.538039,100.0,['Partial'],False,False
+DOC_000814,CLI_0047,Passport,Valid,2026-01-12T16:34:15.538058,92.73,[],True,False
+DOC_000815,CLI_0006,Pension Statement,Current,2026-01-05T16:34:15.538079,84.11,['Expired'],False,False
+DOC_000816,CLI_0044,Council Tax,Recent,2025-12-24T16:34:15.538098,100.0,[],True,False
+DOC_000817,CLI_0004,Utility Bill,Outdated,2025-12-11T16:34:15.538120,97.44,['Wrong Document'],False,False
+DOC_000818,CLI_0047,P60,2025,2026-01-24T16:34:15.538143,100.0,['Partial'],False,False
+DOC_000819,CLI_0008,Utility Bill,Outdated,2025-12-15T16:34:15.538165,83.54,['Partial'],False,False
+DOC_000820,CLI_0039,Utility Bill,Wrong Name,2026-01-18T16:34:15.538183,84.31,[],False,False
+DOC_000821,CLI_0011,Payslip,2+ months old,2025-12-25T16:34:15.538202,100.0,[],True,False
+DOC_000822,CLI_0049,Passport,Damaged,2025-12-11T16:34:15.538224,91.84,['Partial'],False,False
+DOC_000823,CLI_0047,Pension Statement,Current,2026-01-06T16:34:15.538242,87.85,[],True,False
+DOC_000824,CLI_0038,Utility Bill,Recent,2025-12-10T16:34:15.538261,100.0,[],True,False
+DOC_000825,CLI_0024,Investment Statement,Current,2025-12-09T16:34:15.538282,98.13,[],True,False
+DOC_000826,CLI_0004,Passport,Damaged,2026-01-21T16:34:15.538303,100.0,[],True,False
+DOC_000827,CLI_0028,Payslip,Recent,2025-12-16T16:34:15.538323,87.84,[],True,False
+DOC_000828,CLI_0026,Investment Statement,Outdated,2025-12-30T16:34:15.538342,89.27,[],True,False
+DOC_000829,CLI_0036,Utility Bill,Outdated,2025-12-11T16:34:15.538361,84.18,[],False,False
+DOC_000830,CLI_0029,Pension Statement,Current,2025-12-21T16:34:15.538379,91.99,[],True,False
+DOC_000831,CLI_0047,P60,Illegible,2026-01-07T16:34:15.538398,73.88,[],False,True
+DOC_000832,CLI_0042,Bank Statement,Outdated,2025-12-14T16:34:15.538419,84.52,[],False,False
+DOC_000833,CLI_0041,Investment Statement,Current,2026-01-31T16:34:15.538440,84.03,['Blurry'],False,False
+DOC_000834,CLI_0044,P60,Illegible,2026-01-15T16:34:15.538459,92.52,[],True,False
+DOC_000835,CLI_0004,Payslip,2+ months old,2026-01-08T16:34:15.538478,85.85,[],True,False
+DOC_000836,CLI_0019,Council Tax,Outdated,2025-12-20T16:34:15.538497,89.91,[],True,False
+DOC_000837,CLI_0027,Investment Statement,Outdated,2025-12-26T16:34:15.538516,100.0,[],True,False
+DOC_000838,CLI_0017,Bank Statement,Outdated,2026-01-28T16:34:15.538538,93.34,['Blurry'],False,False
+DOC_000839,CLI_0030,Payslip,Damaged,2026-01-31T16:34:15.538556,80.86,[],False,False
+DOC_000840,CLI_0026,Bank Statement,Outdated,2026-01-26T16:34:15.538575,83.91,[],False,False
+DOC_000841,CLI_0044,Pension Statement,Outdated,2025-12-26T16:34:15.538593,95.49,[],True,False
+DOC_000842,CLI_0030,Investment Statement,Outdated,2025-12-26T16:34:15.538612,71.74,[],False,True
+DOC_000843,CLI_0012,Payslip,2+ months old,2025-12-11T16:34:15.538636,86.6,[],True,False
+DOC_000844,CLI_0039,P60,Illegible,2026-01-29T16:34:15.538690,88.78,[],True,False
+DOC_000845,CLI_0007,Driving Licence,Expired,2025-12-05T16:34:15.538711,89.65,[],True,False
+DOC_000846,CLI_0011,Council Tax,Recent,2025-12-14T16:34:15.538794,80.4,[],False,False
+DOC_000847,CLI_0034,Pension Statement,Outdated,2025-12-04T16:34:15.538813,72.53,[],False,True
+DOC_000848,CLI_0016,Bank Statement,Missing Name,2026-01-23T16:34:15.538832,79.92,[],False,True
+DOC_000849,CLI_0045,Payslip,Recent,2026-01-22T16:34:15.538851,100.0,[],True,False
+DOC_000850,CLI_0039,Bank Statement,Recent,2026-01-29T16:34:15.538871,96.43,[],True,False
+DOC_000851,CLI_0019,Utility Bill,Outdated,2026-01-24T16:34:15.538893,100.0,['Partial'],False,False
+DOC_000852,CLI_0008,Bank Statement,Outdated,2026-01-28T16:34:15.538912,89.33,[],True,False
+DOC_000853,CLI_0021,Utility Bill,Recent,2026-01-18T16:34:15.538934,100.0,['Blurry'],False,False
+DOC_000854,CLI_0013,P60,2025,2025-12-22T16:34:15.538956,100.0,['Damaged'],False,False
+DOC_000855,CLI_0022,Pension Statement,Current,2026-01-07T16:34:15.538979,88.71,['Blurry'],False,False
+DOC_000856,CLI_0050,Investment Statement,Current,2025-12-27T16:34:15.539001,93.06,['Blurry'],False,False
+DOC_000857,CLI_0023,Payslip,Damaged,2026-01-04T16:34:15.539020,99.76,[],True,False
+DOC_000858,CLI_0027,Investment Statement,Outdated,2026-01-04T16:34:15.539038,82.36,[],False,False
+DOC_000859,CLI_0033,Council Tax,Outdated,2026-01-19T16:34:15.539060,92.42,['Expired'],False,False
+DOC_000860,CLI_0005,Investment Statement,Outdated,2025-12-16T16:34:15.539078,95.93,[],True,False
+DOC_000861,CLI_0018,Driving Licence,Expired,2025-12-13T16:34:15.539100,80.77,['Expired'],False,False
+DOC_000862,CLI_0047,Investment Statement,Current,2025-12-24T16:34:15.539122,100.0,['Partial'],False,False
+DOC_000863,CLI_0026,Payslip,Recent,2025-12-08T16:34:15.539141,87.99,[],True,False
+DOC_000864,CLI_0022,Bank Statement,Outdated,2026-01-20T16:34:15.539162,81.02,[],False,False
+DOC_000865,CLI_0028,Passport,Damaged,2025-12-26T16:34:15.539181,85.92,[],True,False
+DOC_000866,CLI_0026,Utility Bill,Outdated,2025-12-23T16:34:15.539200,92.31,[],True,False
+DOC_000867,CLI_0016,Payslip,Recent,2026-01-04T16:34:15.539218,100.0,[],True,False
+DOC_000868,CLI_0048,Utility Bill,Recent,2025-12-19T16:34:15.539237,100.0,[],True,False
+DOC_000869,CLI_0022,P60,2024,2025-12-20T16:34:15.539256,87.35,[],True,False
+DOC_000870,CLI_0043,Bank Statement,Outdated,2026-01-09T16:34:15.539277,82.61,['Damaged'],False,False
+DOC_000871,CLI_0015,Passport,Valid,2026-01-14T16:34:15.539296,100.0,[],True,False
+DOC_000872,CLI_0024,Utility Bill,Wrong Name,2025-12-21T16:34:15.539314,81.13,[],False,False
+DOC_000873,CLI_0007,Driving Licence,Damaged,2026-01-01T16:34:15.539333,99.04,[],True,False
+DOC_000874,CLI_0021,Pension Statement,Outdated,2025-12-14T16:34:15.539352,83.38,[],False,False
+DOC_000875,CLI_0023,Council Tax,Recent,2025-12-22T16:34:15.539370,84.57,[],False,False
+DOC_000876,CLI_0006,Investment Statement,Current,2026-01-21T16:34:15.539393,96.54,['Expired'],False,False
+DOC_000877,CLI_0014,Driving Licence,Damaged,2026-01-14T16:34:15.539412,91.09,[],True,False
+DOC_000878,CLI_0049,Council Tax,Recent,2025-12-28T16:34:15.539431,81.61,[],False,False
+DOC_000879,CLI_0001,Council Tax,Recent,2026-01-13T16:34:15.539451,99.49,[],True,False
+DOC_000880,CLI_0023,Utility Bill,Recent,2026-01-23T16:34:15.539473,93.48,['Partial'],False,False
+DOC_000881,CLI_0001,Utility Bill,Recent,2025-12-29T16:34:15.539491,85.34,[],True,False
+DOC_000882,CLI_0025,Payslip,Recent,2025-12-31T16:34:15.539510,86.89,[],True,False
+DOC_000883,CLI_0041,Bank Statement,Missing Name,2026-01-08T16:34:15.539532,92.57,[],True,False
+DOC_000884,CLI_0009,Council Tax,Recent,2026-01-23T16:34:15.539554,81.65,['Expired'],False,False
+DOC_000885,CLI_0026,Council Tax,Recent,2026-01-14T16:34:15.539573,91.14,[],True,False
+DOC_000886,CLI_0047,Driving Licence,Valid Photocard,2025-12-18T16:34:15.539595,100.0,['Damaged'],False,False
+DOC_000887,CLI_0010,Investment Statement,Outdated,2026-01-02T16:34:15.539613,80.74,[],False,False
+DOC_000888,CLI_0011,Utility Bill,Recent,2026-01-19T16:34:15.539636,100.0,[],True,False
+DOC_000889,CLI_0036,Pension Statement,Current,2026-01-25T16:34:15.539687,82.94,['Wrong Document'],False,False
+DOC_000890,CLI_0002,Payslip,Damaged,2025-12-24T16:34:15.539707,98.07,[],True,False
+DOC_000891,CLI_0021,Bank Statement,Recent,2026-01-01T16:34:15.539730,100.0,['Blurry'],False,False
+DOC_000892,CLI_0050,Council Tax,Outdated,2025-12-18T16:34:15.539749,86.4,[],True,False
+DOC_000893,CLI_0002,Investment Statement,Current,2025-12-05T16:34:15.539771,100.0,['Partial'],False,False
+DOC_000894,CLI_0035,Driving Licence,Damaged,2026-01-27T16:34:15.539790,83.62,[],False,False
+DOC_000895,CLI_0019,Payslip,Damaged,2026-01-28T16:34:15.539812,92.09,['Blurry'],False,False
+DOC_000896,CLI_0015,Investment Statement,Outdated,2026-01-13T16:34:15.539834,90.21,['Blurry'],False,False
+DOC_000897,CLI_0038,Council Tax,Recent,2026-01-04T16:34:15.539856,89.86,['Damaged'],False,False
+DOC_000898,CLI_0016,Council Tax,Recent,2026-01-19T16:34:15.539878,95.71,['Expired'],False,False
+DOC_000899,CLI_0007,Driving Licence,Valid Photocard,2025-12-17T16:34:15.539897,88.56,[],True,False
+DOC_000900,CLI_0024,Utility Bill,Outdated,2026-01-29T16:34:15.539916,99.06,[],True,False
+DOC_000901,CLI_0011,Payslip,Recent,2026-01-12T16:34:15.539938,100.0,['Partial'],False,False
+DOC_000902,CLI_0048,Payslip,Damaged,2026-01-31T16:34:15.539960,81.94,['Expired'],False,False
+DOC_000903,CLI_0029,Pension Statement,Outdated,2025-12-18T16:34:15.539981,100.0,[],True,False
+DOC_000904,CLI_0040,Bank Statement,Missing Name,2026-01-09T16:34:15.540006,100.0,['Wrong Document'],False,False
+DOC_000905,CLI_0041,P60,2025,2026-01-15T16:34:15.540024,96.82,[],True,False
+DOC_000906,CLI_0035,P60,Illegible,2025-12-16T16:34:15.540046,85.2,['Wrong Document'],False,False
+DOC_000907,CLI_0035,Council Tax,Outdated,2026-01-15T16:34:15.540065,100.0,[],True,False
+DOC_000908,CLI_0024,Council Tax,Recent,2025-12-09T16:34:15.540084,100.0,[],True,False
+DOC_000909,CLI_0014,Driving Licence,Damaged,2025-12-16T16:34:15.540106,90.37,['Partial'],False,False
+DOC_000910,CLI_0013,Investment Statement,Outdated,2025-12-31T16:34:15.540160,87.34,['Expired'],False,False
+DOC_000911,CLI_0030,Council Tax,Recent,2026-01-14T16:34:15.540190,93.51,[],True,False
+DOC_000912,CLI_0007,Bank Statement,Missing Name,2026-01-07T16:34:15.540210,78.61,[],False,True
+DOC_000913,CLI_0038,Pension Statement,Current,2025-12-07T16:34:15.540230,90.55,[],True,False
+DOC_000914,CLI_0030,Council Tax,Recent,2026-01-10T16:34:15.540249,91.15,[],True,False
+DOC_000915,CLI_0035,P60,Illegible,2026-01-16T16:34:15.540268,95.45,[],True,False
+DOC_000916,CLI_0002,Council Tax,Recent,2026-01-02T16:34:15.540287,99.03,[],True,False
+DOC_000917,CLI_0006,Passport,Damaged,2025-12-12T16:34:15.540307,88.21,[],True,False
+DOC_000918,CLI_0041,P60,Illegible,2025-12-21T16:34:15.540326,97.45,[],True,False
+DOC_000919,CLI_0002,Investment Statement,Current,2025-12-17T16:34:15.540345,86.28,[],True,False
+DOC_000920,CLI_0033,Driving Licence,Damaged,2026-01-31T16:34:15.540366,96.17,['Blurry'],False,False
+DOC_000921,CLI_0024,Council Tax,Outdated,2026-01-04T16:34:15.540388,91.33,['Blurry'],False,False
+DOC_000922,CLI_0042,Investment Statement,Current,2026-01-26T16:34:15.540409,91.59,[],True,False
+DOC_000923,CLI_0016,Driving Licence,Damaged,2025-12-07T16:34:15.540428,85.27,[],True,False
+DOC_000924,CLI_0018,Payslip,Recent,2025-12-24T16:34:15.540450,99.47,['Partial'],False,False
+DOC_000925,CLI_0042,Passport,Damaged,2025-12-29T16:34:15.540468,97.63,[],True,False
+DOC_000926,CLI_0004,Utility Bill,Wrong Name,2025-12-21T16:34:15.540487,100.0,[],True,False
+DOC_000927,CLI_0007,Pension Statement,Outdated,2025-12-13T16:34:15.540512,93.99,['Wrong Document'],False,False
+DOC_000928,CLI_0043,P60,2024,2025-12-04T16:34:15.540532,79.0,[],False,True
+DOC_000929,CLI_0047,Utility Bill,Wrong Name,2025-12-06T16:34:15.540551,81.29,[],False,False
+DOC_000930,CLI_0035,Payslip,Damaged,2025-12-12T16:34:15.540572,93.28,['Expired'],False,False
+DOC_000931,CLI_0041,Driving Licence,Valid Photocard,2026-01-07T16:34:15.540591,83.55,[],False,False
+DOC_000932,CLI_0015,Pension Statement,Outdated,2025-12-06T16:34:15.540613,83.53,['Partial'],False,False
+DOC_000933,CLI_0044,Driving Licence,Damaged,2025-12-04T16:34:15.540655,91.26,['Wrong Document'],False,False
+DOC_000934,CLI_0040,Passport,Low Quality,2026-01-15T16:34:15.540691,81.67,['Partial'],False,False
+DOC_000935,CLI_0023,Bank Statement,Recent,2026-01-28T16:34:15.540711,84.05,[],False,False
+DOC_000936,CLI_0014,Bank Statement,Missing Name,2026-01-15T16:34:15.540733,83.87,['Damaged'],False,False
+DOC_000937,CLI_0037,Payslip,2+ months old,2025-12-10T16:34:15.540752,98.32,[],True,False
+DOC_000938,CLI_0006,Utility Bill,Outdated,2025-12-30T16:34:15.540771,100.0,[],True,False
+DOC_000939,CLI_0023,Bank Statement,Outdated,2026-01-17T16:34:15.540793,86.57,['Blurry'],False,False
+DOC_000940,CLI_0036,Bank Statement,Missing Name,2026-01-30T16:34:15.540815,85.41,['Expired'],False,False
+DOC_000941,CLI_0033,Bank Statement,Outdated,2026-01-17T16:34:15.540834,100.0,[],True,False
+DOC_000942,CLI_0003,Bank Statement,Recent,2025-12-22T16:34:15.540855,87.48,[],True,False
+DOC_000943,CLI_0041,Bank Statement,Missing Name,2026-01-31T16:34:15.540877,94.23,['Blurry'],False,False
+DOC_000944,CLI_0014,Council Tax,Outdated,2026-01-25T16:34:15.540899,98.89,['Damaged'],False,False
+DOC_000945,CLI_0026,Driving Licence,Expired,2026-01-22T16:34:15.540917,88.46,[],True,False
+DOC_000946,CLI_0047,Utility Bill,Recent,2026-01-05T16:34:15.540936,100.0,[],True,False
+DOC_000947,CLI_0028,Passport,Low Quality,2025-12-27T16:34:15.540955,100.0,[],True,False
+DOC_000948,CLI_0050,Bank Statement,Recent,2026-01-09T16:34:15.540973,90.84,[],True,False
+DOC_000949,CLI_0022,Passport,Damaged,2025-12-25T16:34:15.540992,93.14,[],True,False
+DOC_000950,CLI_0041,Pension Statement,Outdated,2025-12-30T16:34:15.541011,87.38,[],True,False
+DOC_000951,CLI_0017,Pension Statement,Current,2026-01-08T16:34:15.541029,89.45,[],True,False
+DOC_000952,CLI_0009,Council Tax,Recent,2025-12-13T16:34:15.541050,100.0,[],True,False
+DOC_000953,CLI_0048,Pension Statement,Outdated,2025-12-18T16:34:15.541072,94.56,['Damaged'],False,False
+DOC_000954,CLI_0017,Driving Licence,Expired,2025-12-26T16:34:15.541091,100.0,[],True,False
+DOC_000955,CLI_0045,Driving Licence,Valid Photocard,2026-01-14T16:34:15.541109,100.0,[],True,False
+DOC_000956,CLI_0020,Pension Statement,Outdated,2025-12-19T16:34:15.541128,86.78,[],True,False
+DOC_000957,CLI_0009,P60,2023,2026-01-06T16:34:15.541147,94.41,[],True,False
+DOC_000958,CLI_0046,Passport,Expired,2026-01-30T16:34:15.541169,93.4,['Partial'],False,False
+DOC_000959,CLI_0033,Utility Bill,Recent,2026-01-29T16:34:15.541187,87.18,[],True,False
+DOC_000960,CLI_0043,Passport,Damaged,2025-12-27T16:34:15.541209,78.0,['Wrong Document'],False,True
+DOC_000961,CLI_0007,Council Tax,Outdated,2026-01-16T16:34:15.541230,89.04,[],True,False
+DOC_000962,CLI_0008,Bank Statement,Outdated,2026-01-16T16:34:15.541249,91.67,[],True,False
+DOC_000963,CLI_0007,Investment Statement,Outdated,2026-01-06T16:34:15.541268,80.68,[],False,False
+DOC_000964,CLI_0045,Council Tax,Recent,2026-01-28T16:34:15.541286,93.75,[],True,False
+DOC_000965,CLI_0026,Driving Licence,Expired,2026-01-19T16:34:15.541308,87.09,['Blurry'],False,False
+DOC_000966,CLI_0014,Pension Statement,Outdated,2026-01-06T16:34:15.541327,99.49,[],True,False
+DOC_000967,CLI_0021,Council Tax,Outdated,2026-01-30T16:34:15.541348,98.02,['Wrong Document'],False,False
+DOC_000968,CLI_0020,Council Tax,Recent,2025-12-23T16:34:15.541370,82.5,['Wrong Document'],False,False
+DOC_000969,CLI_0002,Council Tax,Outdated,2026-01-26T16:34:15.541389,77.12,[],False,True
+DOC_000970,CLI_0013,Council Tax,Outdated,2025-12-11T16:34:15.541408,98.91,[],True,False
+DOC_000971,CLI_0030,P60,2023,2026-01-12T16:34:15.541427,93.94,[],True,False
+DOC_000972,CLI_0027,P60,2023,2026-01-25T16:34:15.541445,81.23,[],False,False
+DOC_000973,CLI_0005,Utility Bill,Outdated,2026-01-29T16:34:15.541464,98.59,[],True,False
+DOC_000974,CLI_0029,Payslip,Recent,2026-01-24T16:34:15.541483,97.47,[],True,False
+DOC_000975,CLI_0021,Investment Statement,Current,2026-01-20T16:34:15.541507,95.28,['Damaged'],False,False
+DOC_000976,CLI_0038,Bank Statement,Outdated,2026-01-22T16:34:15.541527,93.57,[],True,False
+DOC_000977,CLI_0017,Passport,Damaged,2026-01-28T16:34:15.541546,94.49,[],True,False
+DOC_000978,CLI_0042,Driving Licence,Expired,2026-01-28T16:34:15.541570,76.88,['Blurry'],False,True
+DOC_000979,CLI_0018,P60,2023,2026-01-24T16:34:15.541588,92.62,[],True,False
+DOC_000980,CLI_0011,Investment Statement,Current,2026-01-30T16:34:15.541607,92.99,[],True,False
+DOC_000981,CLI_0008,P60,Illegible,2026-01-03T16:34:15.541627,96.43,[],True,False
+DOC_000982,CLI_0042,Payslip,2+ months old,2026-01-11T16:34:15.541679,87.61,[],True,False
+DOC_000983,CLI_0044,Driving Licence,Expired,2025-12-19T16:34:15.541716,75.48,['Expired'],False,True
+DOC_000984,CLI_0022,Bank Statement,Outdated,2026-01-15T16:34:15.541755,92.23,[],True,False
+DOC_000985,CLI_0050,Payslip,Damaged,2026-01-08T16:34:15.541787,100.0,[],True,False
+DOC_000986,CLI_0033,Driving Licence,Valid Photocard,2026-01-20T16:34:15.541807,95.02,[],True,False
+DOC_000987,CLI_0048,Investment Statement,Outdated,2026-01-09T16:34:15.541826,93.32,[],True,False
+DOC_000988,CLI_0034,Investment Statement,Outdated,2026-01-09T16:34:15.541845,91.67,[],True,False
+DOC_000989,CLI_0029,Bank Statement,Recent,2025-12-29T16:34:15.541864,88.15,[],True,False
+DOC_000990,CLI_0020,Utility Bill,Wrong Name,2025-12-09T16:34:15.541882,97.57,[],True,False
+DOC_000991,CLI_0018,Pension Statement,Outdated,2025-12-11T16:34:15.541901,89.79,[],True,False
+DOC_000992,CLI_0049,Driving Licence,Expired,2025-12-30T16:34:15.541920,85.47,[],True,False
+DOC_000993,CLI_0047,Pension Statement,Current,2026-01-13T16:34:15.541939,98.9,[],True,False
+DOC_000994,CLI_0023,Payslip,Recent,2025-12-29T16:34:15.541958,80.67,[],False,False
+DOC_000995,CLI_0008,Driving Licence,Valid Photocard,2026-01-13T16:34:15.541977,82.11,[],False,False
+DOC_000996,CLI_0029,Utility Bill,Outdated,2025-12-05T16:34:15.541996,93.4,[],True,False
+DOC_000997,CLI_0012,Driving Licence,Damaged,2026-01-30T16:34:15.542018,93.8,['Wrong Document'],False,False
+DOC_000998,CLI_0037,Bank Statement,Outdated,2026-01-16T16:34:15.542043,100.0,['Wrong Document'],False,False
+DOC_000999,CLI_0023,Pension Statement,Outdated,2026-01-21T16:34:15.542065,87.99,['Expired'],False,False
+DOC_001000,CLI_0010,Council Tax,Recent,2025-12-17T16:34:15.542086,100.0,[],True,False

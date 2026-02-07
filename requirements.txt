@@ -1,0 +1,10 @@
+altair
+langgraph
+langchain-core
+langchain-ollama
+langchain-text-splitters
+streamlit
+pandas
+pytesseract
+Pillow
+# Optional: pdf2image (and poppler) for OCR on PDFs; otherwise only images are supported

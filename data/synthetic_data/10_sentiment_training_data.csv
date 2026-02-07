@@ -1,0 +1,501 @@
+message_text,sentiment_label,direction,channel,message_length_words,contains_question,contains_urgency_words,contains_frustration_words
+"Great, ready to proceed",Positive,Advisor to Client,WhatsApp,4,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Phone,6,False,False,False
+No problem,Neutral,Client to Advisor,SMS,2,False,False,False
+Can you clarify?,Confused,Advisor to Client,SMS,3,True,False,False
+This is ridiculous,Frustrated,Advisor to Client,WhatsApp,3,False,False,True
+Really appreciate the guidance,Positive,Client to Advisor,SMS,4,False,False,False
+Why so long?,Frustrated,Client to Advisor,SMS,3,True,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Phone,6,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Phone,4,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,SMS,4,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,SMS,4,False,False,False
+Everything is clear now,Positive,Client to Advisor,WhatsApp,4,False,False,False
+I'll do that,Neutral,Client to Advisor,Phone,3,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,SMS,4,False,False,False
+Understood,Neutral,Advisor to Client,SMS,1,False,False,False
+Getting frustrated with delays,Frustrated,Client to Advisor,WhatsApp,4,False,False,True
+Why so long?,Frustrated,Advisor to Client,Email,3,True,False,False
+This is ridiculous,Frustrated,Advisor to Client,WhatsApp,3,False,False,True
+No problem,Neutral,Advisor to Client,Phone,2,False,False,False
+Everything is clear now,Positive,Client to Advisor,Email,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,SMS,4,False,False,False
+I'll do that,Neutral,Client to Advisor,SMS,3,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,WhatsApp,4,False,False,False
+No problem,Neutral,Client to Advisor,Phone,2,False,False,False
+No problem,Neutral,Advisor to Client,SMS,2,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,Email,4,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,Email,4,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Email,4,False,True,False
+Don't understand form,Confused,Client to Advisor,Phone,3,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Email,4,False,True,False
+I'll do that,Neutral,Client to Advisor,SMS,3,False,False,False
+What does this mean?,Confused,Client to Advisor,WhatsApp,4,True,False,False
+What does this mean?,Confused,Client to Advisor,Email,4,True,False,False
+"Ok, I'll send documents",Neutral,Advisor to Client,Phone,4,False,False,False
+I'll get back soon,Neutral,Client to Advisor,WhatsApp,4,False,True,False
+Can you clarify?,Confused,Client to Advisor,Email,3,True,False,False
+Just do this please,Frustrated,Advisor to Client,Email,4,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,Email,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,Phone,4,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Email,4,False,True,False
+No problem,Neutral,Advisor to Client,Phone,2,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Phone,4,False,False,False
+Understood,Neutral,Advisor to Client,WhatsApp,1,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,WhatsApp,6,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,WhatsApp,4,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Phone,4,False,True,False
+Really appreciate the guidance,Positive,Advisor to Client,Phone,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,SMS,4,False,False,False
+You've been very helpful,Positive,Client to Advisor,Phone,4,False,False,False
+Can you clarify?,Confused,Advisor to Client,SMS,3,True,False,False
+This is taking forever,Frustrated,Advisor to Client,SMS,4,False,False,True
+I've sent this twice!,Frustrated,Advisor to Client,Email,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,Phone,4,False,False,False
+I've sent this twice!,Frustrated,Client to Advisor,SMS,4,False,False,False
+Which document?,Confused,Client to Advisor,Email,2,True,False,False
+Just do this please,Frustrated,Client to Advisor,WhatsApp,4,False,False,False
+You've been very helpful,Positive,Client to Advisor,WhatsApp,4,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,WhatsApp,6,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,WhatsApp,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,Email,4,False,False,False
+Which document?,Confused,Advisor to Client,WhatsApp,2,True,False,False
+This is taking forever,Frustrated,Advisor to Client,WhatsApp,4,False,False,True
+Can you clarify?,Confused,Client to Advisor,Email,3,True,False,False
+Understood,Neutral,Client to Advisor,Email,1,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,SMS,4,False,False,False
+I've sent this twice!,Frustrated,Client to Advisor,Phone,4,False,False,False
+Just do this please,Frustrated,Client to Advisor,Email,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,SMS,4,False,False,False
+You've been very helpful,Positive,Advisor to Client,Email,4,False,False,False
+Why so long?,Frustrated,Advisor to Client,Phone,3,True,False,False
+Why so long?,Frustrated,Advisor to Client,Phone,3,True,False,False
+How do I do this?,Confused,Advisor to Client,SMS,5,True,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Email,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,SMS,6,False,False,False
+Not sure what you need,Confused,Client to Advisor,Email,5,False,True,False
+Understood,Neutral,Advisor to Client,WhatsApp,1,False,False,False
+Getting frustrated with delays,Frustrated,Client to Advisor,Email,4,False,False,True
+"Great, ready to proceed",Positive,Client to Advisor,Email,4,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,WhatsApp,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,SMS,4,False,False,False
+I've sent this twice!,Frustrated,Advisor to Client,Email,4,False,False,False
+Which document?,Confused,Advisor to Client,SMS,2,True,False,False
+I'll do that,Neutral,Client to Advisor,WhatsApp,3,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,WhatsApp,6,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,WhatsApp,4,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,SMS,4,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,Phone,4,False,False,False
+This is taking forever,Frustrated,Advisor to Client,SMS,4,False,False,True
+You've been very helpful,Positive,Client to Advisor,Phone,4,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,WhatsApp,4,False,False,False
+Understood,Neutral,Client to Advisor,SMS,1,False,False,False
+Everything is clear now,Positive,Advisor to Client,WhatsApp,4,False,False,False
+Understood,Neutral,Advisor to Client,Email,1,False,False,False
+When do you need them?,Neutral,Advisor to Client,SMS,5,True,True,False
+Everything is clear now,Positive,Client to Advisor,Phone,4,False,False,False
+Getting frustrated with delays,Frustrated,Client to Advisor,SMS,4,False,False,True
+"Perfect, that makes sense",Positive,Client to Advisor,WhatsApp,4,False,False,False
+This is ridiculous,Frustrated,Advisor to Client,SMS,3,False,False,True
+Why so long?,Frustrated,Advisor to Client,WhatsApp,3,True,False,False
+No problem,Neutral,Client to Advisor,SMS,2,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Phone,4,False,False,False
+Which document?,Confused,Advisor to Client,WhatsApp,2,True,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Phone,6,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Email,4,False,False,False
+When do you need them?,Neutral,Client to Advisor,WhatsApp,5,True,True,False
+No problem,Neutral,Advisor to Client,SMS,2,False,False,False
+Just do this please,Frustrated,Advisor to Client,Phone,4,False,False,False
+This is ridiculous,Frustrated,Advisor to Client,SMS,3,False,False,True
+"Ok, I'll send documents",Neutral,Advisor to Client,Phone,4,False,False,False
+Don't understand form,Confused,Client to Advisor,SMS,3,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,WhatsApp,6,False,False,False
+Which document?,Confused,Client to Advisor,SMS,2,True,False,False
+I'll do that,Neutral,Client to Advisor,Phone,3,False,False,False
+No problem,Neutral,Client to Advisor,SMS,2,False,False,False
+You've been very helpful,Positive,Client to Advisor,SMS,4,False,False,False
+Understood,Neutral,Client to Advisor,Email,1,False,False,False
+What does this mean?,Confused,Advisor to Client,SMS,4,True,False,False
+You've been very helpful,Positive,Client to Advisor,Phone,4,False,False,False
+Understood,Neutral,Client to Advisor,SMS,1,False,False,False
+You've been very helpful,Positive,Client to Advisor,SMS,4,False,False,False
+Just do this please,Frustrated,Advisor to Client,WhatsApp,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Email,4,False,False,False
+I'll get back soon,Neutral,Advisor to Client,WhatsApp,4,False,True,False
+This is taking forever,Frustrated,Client to Advisor,Phone,4,False,False,True
+Thanks so much for your help!,Positive,Client to Advisor,WhatsApp,6,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Email,4,False,False,False
+Understood,Neutral,Client to Advisor,Email,1,False,False,False
+Everything is clear now,Positive,Client to Advisor,WhatsApp,4,False,False,False
+Getting frustrated with delays,Frustrated,Client to Advisor,Email,4,False,False,True
+Just do this please,Frustrated,Client to Advisor,SMS,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,WhatsApp,4,False,False,False
+I'll do that,Neutral,Advisor to Client,WhatsApp,3,False,False,False
+I've sent this twice!,Frustrated,Advisor to Client,Email,4,False,False,False
+Everything is clear now,Positive,Client to Advisor,SMS,4,False,False,False
+When do you need them?,Neutral,Advisor to Client,WhatsApp,5,True,True,False
+Why so long?,Frustrated,Client to Advisor,Email,3,True,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Phone,4,False,False,False
+Which document?,Confused,Advisor to Client,Phone,2,True,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Phone,6,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,SMS,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,WhatsApp,4,False,False,False
+I'll do that,Neutral,Client to Advisor,SMS,3,False,False,False
+What does this mean?,Confused,Advisor to Client,SMS,4,True,False,False
+Really appreciate the guidance,Positive,Advisor to Client,SMS,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,SMS,4,False,False,False
+You've been very helpful,Positive,Advisor to Client,Email,4,False,False,False
+This is ridiculous,Frustrated,Advisor to Client,Phone,3,False,False,True
+Everything is clear now,Positive,Advisor to Client,Phone,4,False,False,False
+Not sure what you need,Confused,Client to Advisor,Email,5,False,True,False
+Everything is clear now,Positive,Advisor to Client,Email,4,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,WhatsApp,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,WhatsApp,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,Email,4,False,False,False
+Not sure what you need,Confused,Advisor to Client,WhatsApp,5,False,True,False
+Not sure what you need,Confused,Advisor to Client,WhatsApp,5,False,True,False
+"Ok, I'll send documents",Neutral,Advisor to Client,SMS,4,False,False,False
+You've been very helpful,Positive,Advisor to Client,Email,4,False,False,False
+Not sure what you need,Confused,Advisor to Client,Email,5,False,True,False
+I've sent this twice!,Frustrated,Client to Advisor,Email,4,False,False,False
+I'll get back soon,Neutral,Advisor to Client,SMS,4,False,True,False
+"Great, ready to proceed",Positive,Client to Advisor,WhatsApp,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Phone,4,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Phone,4,False,False,False
+When do you need them?,Neutral,Client to Advisor,Phone,5,True,True,False
+Everything is clear now,Positive,Advisor to Client,WhatsApp,4,False,False,False
+You've been very helpful,Positive,Client to Advisor,Email,4,False,False,False
+I'll get back soon,Neutral,Client to Advisor,SMS,4,False,True,False
+"Perfect, that makes sense",Positive,Advisor to Client,WhatsApp,4,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Phone,4,False,False,False
+Everything is clear now,Positive,Client to Advisor,Email,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Email,4,False,False,False
+Getting frustrated with delays,Frustrated,Advisor to Client,SMS,4,False,False,True
+Understood,Neutral,Client to Advisor,SMS,1,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Email,4,False,False,False
+Getting frustrated with delays,Frustrated,Advisor to Client,WhatsApp,4,False,False,True
+I'll get back soon,Neutral,Client to Advisor,Phone,4,False,True,False
+How do I do this?,Confused,Client to Advisor,SMS,5,True,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,SMS,4,False,False,False
+No problem,Neutral,Client to Advisor,SMS,2,False,False,False
+Getting frustrated with delays,Frustrated,Client to Advisor,WhatsApp,4,False,False,True
+How do I do this?,Confused,Advisor to Client,Phone,5,True,False,False
+No problem,Neutral,Advisor to Client,Email,2,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Phone,6,False,False,False
+No problem,Neutral,Client to Advisor,Phone,2,False,False,False
+What does this mean?,Confused,Advisor to Client,WhatsApp,4,True,False,False
+Thanks so much for your help!,Positive,Client to Advisor,SMS,6,False,False,False
+Why so long?,Frustrated,Advisor to Client,Email,3,True,False,False
+I've sent this twice!,Frustrated,Client to Advisor,Email,4,False,False,False
+I'll get back soon,Neutral,Client to Advisor,Phone,4,False,True,False
+Not sure what you need,Confused,Client to Advisor,SMS,5,False,True,False
+You've been very helpful,Positive,Client to Advisor,WhatsApp,4,False,False,False
+Understood,Neutral,Advisor to Client,Phone,1,False,False,False
+I'll do that,Neutral,Advisor to Client,SMS,3,False,False,False
+You've been very helpful,Positive,Client to Advisor,Email,4,False,False,False
+I'll do that,Neutral,Client to Advisor,Phone,3,False,False,False
+Not sure what you need,Confused,Client to Advisor,SMS,5,False,True,False
+"Great, ready to proceed",Positive,Client to Advisor,WhatsApp,4,False,False,False
+This is taking forever,Frustrated,Advisor to Client,SMS,4,False,False,True
+Understood,Neutral,Advisor to Client,Email,1,False,False,False
+Not sure what you need,Confused,Client to Advisor,SMS,5,False,True,False
+"Ok, I'll send documents",Neutral,Client to Advisor,Email,4,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Email,4,False,False,False
+Getting frustrated with delays,Frustrated,Client to Advisor,Email,4,False,False,True
+When do you need them?,Neutral,Client to Advisor,Email,5,True,True,False
+Everything is clear now,Positive,Advisor to Client,Phone,4,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,WhatsApp,4,False,False,False
+How do I do this?,Confused,Advisor to Client,SMS,5,True,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Email,6,False,False,False
+This is ridiculous,Frustrated,Client to Advisor,WhatsApp,3,False,False,True
+Thanks so much for your help!,Positive,Client to Advisor,SMS,6,False,False,False
+Don't understand form,Confused,Client to Advisor,WhatsApp,3,False,False,False
+I'll get back soon,Neutral,Client to Advisor,WhatsApp,4,False,True,False
+I'll do that,Neutral,Advisor to Client,Phone,3,False,False,False
+Which document?,Confused,Advisor to Client,WhatsApp,2,True,False,False
+I'll do that,Neutral,Advisor to Client,Email,3,False,False,False
+No problem,Neutral,Advisor to Client,WhatsApp,2,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Email,4,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,Email,4,False,False,False
+What does this mean?,Confused,Advisor to Client,WhatsApp,4,True,False,False
+Not sure what you need,Confused,Advisor to Client,WhatsApp,5,False,True,False
+When do you need them?,Neutral,Client to Advisor,Phone,5,True,True,False
+"Ok, I'll send documents",Neutral,Advisor to Client,Email,4,False,False,False
+I'll do that,Neutral,Client to Advisor,SMS,3,False,False,False
+No problem,Neutral,Client to Advisor,Email,2,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,SMS,4,False,False,False
+You've been very helpful,Positive,Advisor to Client,WhatsApp,4,False,False,False
+This is taking forever,Frustrated,Advisor to Client,Phone,4,False,False,True
+Really appreciate the guidance,Positive,Advisor to Client,Email,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,SMS,6,False,False,False
+I'll get back soon,Neutral,Client to Advisor,WhatsApp,4,False,True,False
+I'll do that,Neutral,Advisor to Client,Email,3,False,False,False
+No problem,Neutral,Client to Advisor,Email,2,False,False,False
+I'll get back soon,Neutral,Client to Advisor,SMS,4,False,True,False
+Why so long?,Frustrated,Client to Advisor,SMS,3,True,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Email,6,False,False,False
+No problem,Neutral,Client to Advisor,SMS,2,False,False,False
+No problem,Neutral,Client to Advisor,SMS,2,False,False,False
+Just do this please,Frustrated,Client to Advisor,SMS,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Phone,6,False,False,False
+I've sent this twice!,Frustrated,Advisor to Client,SMS,4,False,False,False
+I'll get back soon,Neutral,Client to Advisor,Phone,4,False,True,False
+Really appreciate the guidance,Positive,Advisor to Client,SMS,4,False,False,False
+I've sent this twice!,Frustrated,Advisor to Client,WhatsApp,4,False,False,False
+Just do this please,Frustrated,Advisor to Client,Email,4,False,False,False
+No problem,Neutral,Client to Advisor,WhatsApp,2,False,False,False
+This is ridiculous,Frustrated,Advisor to Client,Phone,3,False,False,True
+Thanks so much for your help!,Positive,Client to Advisor,SMS,6,False,False,False
+Not sure what you need,Confused,Advisor to Client,Phone,5,False,True,False
+What does this mean?,Confused,Advisor to Client,Phone,4,True,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,Phone,4,False,False,False
+Getting frustrated with delays,Frustrated,Advisor to Client,WhatsApp,4,False,False,True
+Not sure what you need,Confused,Advisor to Client,SMS,5,False,True,False
+"Ok, I'll send documents",Neutral,Advisor to Client,Phone,4,False,False,False
+Can you clarify?,Confused,Client to Advisor,Phone,3,True,False,False
+I've sent this twice!,Frustrated,Client to Advisor,Email,4,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,Phone,4,False,False,False
+This is taking forever,Frustrated,Advisor to Client,Email,4,False,False,True
+Really appreciate the guidance,Positive,Client to Advisor,Phone,4,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,Email,4,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Phone,4,False,False,False
+You've been very helpful,Positive,Advisor to Client,Phone,4,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,WhatsApp,4,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Email,6,False,False,False
+Understood,Neutral,Client to Advisor,Email,1,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,WhatsApp,4,False,False,False
+Not sure what you need,Confused,Advisor to Client,Email,5,False,True,False
+When do you need them?,Neutral,Client to Advisor,Phone,5,True,True,False
+Getting frustrated with delays,Frustrated,Client to Advisor,Phone,4,False,False,True
+I'll do that,Neutral,Client to Advisor,Phone,3,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Phone,4,False,False,False
+No problem,Neutral,Advisor to Client,Email,2,False,False,False
+Don't understand form,Confused,Advisor to Client,WhatsApp,3,False,False,False
+Everything is clear now,Positive,Client to Advisor,Phone,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Email,4,False,False,False
+When do you need them?,Neutral,Client to Advisor,Phone,5,True,True,False
+No problem,Neutral,Advisor to Client,Email,2,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,Phone,4,False,False,False
+When do you need them?,Neutral,Client to Advisor,WhatsApp,5,True,True,False
+You've been very helpful,Positive,Advisor to Client,SMS,4,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Email,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,SMS,4,False,False,False
+Getting frustrated with delays,Frustrated,Advisor to Client,SMS,4,False,False,True
+Really appreciate the guidance,Positive,Client to Advisor,SMS,4,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Phone,4,False,True,False
+Getting frustrated with delays,Frustrated,Advisor to Client,Email,4,False,False,True
+Don't understand form,Confused,Client to Advisor,Phone,3,False,False,False
+Understood,Neutral,Advisor to Client,SMS,1,False,False,False
+No problem,Neutral,Advisor to Client,Email,2,False,False,False
+Everything is clear now,Positive,Client to Advisor,WhatsApp,4,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,SMS,4,False,False,False
+This is ridiculous,Frustrated,Advisor to Client,SMS,3,False,False,True
+I'll get back soon,Neutral,Client to Advisor,SMS,4,False,True,False
+"Perfect, that makes sense",Positive,Client to Advisor,Phone,4,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Email,4,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,Email,4,False,False,False
+Don't understand form,Confused,Advisor to Client,Phone,3,False,False,False
+You've been very helpful,Positive,Client to Advisor,Email,4,False,False,False
+Understood,Neutral,Client to Advisor,WhatsApp,1,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,WhatsApp,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Phone,6,False,False,False
+Just do this please,Frustrated,Client to Advisor,WhatsApp,4,False,False,False
+Not sure what you need,Confused,Client to Advisor,SMS,5,False,True,False
+Really appreciate the guidance,Positive,Client to Advisor,Email,4,False,False,False
+You've been very helpful,Positive,Advisor to Client,SMS,4,False,False,False
+No problem,Neutral,Advisor to Client,Phone,2,False,False,False
+This is taking forever,Frustrated,Advisor to Client,Email,4,False,False,True
+What does this mean?,Confused,Advisor to Client,WhatsApp,4,True,False,False
+Getting frustrated with delays,Frustrated,Client to Advisor,Phone,4,False,False,True
+Understood,Neutral,Advisor to Client,Phone,1,False,False,False
+This is taking forever,Frustrated,Advisor to Client,Phone,4,False,False,True
+Everything is clear now,Positive,Client to Advisor,Email,4,False,False,False
+Why so long?,Frustrated,Advisor to Client,WhatsApp,3,True,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,SMS,4,False,False,False
+Why so long?,Frustrated,Client to Advisor,Email,3,True,False,False
+Why so long?,Frustrated,Advisor to Client,WhatsApp,3,True,False,False
+"Ok, I'll send documents",Neutral,Advisor to Client,Email,4,False,False,False
+You've been very helpful,Positive,Advisor to Client,WhatsApp,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Email,6,False,False,False
+You've been very helpful,Positive,Advisor to Client,Email,4,False,False,False
+I'll do that,Neutral,Client to Advisor,Email,3,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Email,4,False,False,False
+Which document?,Confused,Advisor to Client,SMS,2,True,False,False
+Everything is clear now,Positive,Advisor to Client,WhatsApp,4,False,False,False
+This is taking forever,Frustrated,Advisor to Client,WhatsApp,4,False,False,True
+When do you need them?,Neutral,Advisor to Client,Phone,5,True,True,False
+No problem,Neutral,Client to Advisor,SMS,2,False,False,False
+I'll get back soon,Neutral,Client to Advisor,SMS,4,False,True,False
+Just do this please,Frustrated,Client to Advisor,WhatsApp,4,False,False,False
+Understood,Neutral,Client to Advisor,Email,1,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Phone,4,False,False,False
+Everything is clear now,Positive,Client to Advisor,Email,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,Phone,4,False,False,False
+Everything is clear now,Positive,Client to Advisor,SMS,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,SMS,4,False,False,False
+This is taking forever,Frustrated,Client to Advisor,Phone,4,False,False,True
+"Great, ready to proceed",Positive,Client to Advisor,Phone,4,False,False,False
+Getting frustrated with delays,Frustrated,Client to Advisor,SMS,4,False,False,True
+Really appreciate the guidance,Positive,Client to Advisor,SMS,4,False,False,False
+What does this mean?,Confused,Client to Advisor,WhatsApp,4,True,False,False
+Thanks so much for your help!,Positive,Advisor to Client,WhatsApp,6,False,False,False
+Why so long?,Frustrated,Client to Advisor,Phone,3,True,False,False
+Thanks so much for your help!,Positive,Advisor to Client,WhatsApp,6,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,SMS,4,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Email,4,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,WhatsApp,4,False,False,False
+This is taking forever,Frustrated,Client to Advisor,Phone,4,False,False,True
+Why so long?,Frustrated,Client to Advisor,Phone,3,True,False,False
+Can you clarify?,Confused,Client to Advisor,WhatsApp,3,True,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Email,4,False,False,False
+What does this mean?,Confused,Advisor to Client,Phone,4,True,False,False
+This is taking forever,Frustrated,Advisor to Client,SMS,4,False,False,True
+Everything is clear now,Positive,Advisor to Client,Email,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,WhatsApp,6,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,WhatsApp,6,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Phone,4,False,True,False
+No problem,Neutral,Client to Advisor,SMS,2,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,SMS,6,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,WhatsApp,4,False,False,False
+Just do this please,Frustrated,Advisor to Client,Phone,4,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,WhatsApp,4,False,False,False
+I'll do that,Neutral,Client to Advisor,Phone,3,False,False,False
+You've been very helpful,Positive,Advisor to Client,Email,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Phone,6,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Email,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,Email,4,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,Phone,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Email,6,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,SMS,4,False,False,False
+This is ridiculous,Frustrated,Advisor to Client,Phone,3,False,False,True
+Understood,Neutral,Client to Advisor,SMS,1,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,WhatsApp,6,False,False,False
+When do you need them?,Neutral,Advisor to Client,Email,5,True,True,False
+I'll do that,Neutral,Advisor to Client,Phone,3,False,False,False
+This is taking forever,Frustrated,Advisor to Client,SMS,4,False,False,True
+"Perfect, that makes sense",Positive,Client to Advisor,WhatsApp,4,False,False,False
+You've been very helpful,Positive,Client to Advisor,Phone,4,False,False,False
+Not sure what you need,Confused,Advisor to Client,Email,5,False,True,False
+When do you need them?,Neutral,Client to Advisor,Phone,5,True,True,False
+No problem,Neutral,Client to Advisor,WhatsApp,2,False,False,False
+No problem,Neutral,Client to Advisor,Email,2,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Email,6,False,False,False
+Can you clarify?,Confused,Advisor to Client,WhatsApp,3,True,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,SMS,4,False,False,False
+When do you need them?,Neutral,Advisor to Client,WhatsApp,5,True,True,False
+This is taking forever,Frustrated,Advisor to Client,Phone,4,False,False,True
+You've been very helpful,Positive,Advisor to Client,WhatsApp,4,False,False,False
+I'll do that,Neutral,Advisor to Client,Email,3,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,WhatsApp,6,False,False,False
+"Ok, I'll send documents",Neutral,Advisor to Client,Email,4,False,False,False
+Don't understand form,Confused,Client to Advisor,WhatsApp,3,False,False,False
+This is ridiculous,Frustrated,Advisor to Client,Email,3,False,False,True
+Understood,Neutral,Client to Advisor,SMS,1,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Phone,4,False,False,False
+When do you need them?,Neutral,Advisor to Client,Phone,5,True,True,False
+"Ok, I'll send documents",Neutral,Advisor to Client,SMS,4,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Email,6,False,False,False
+When do you need them?,Neutral,Client to Advisor,Phone,5,True,True,False
+"Perfect, that makes sense",Positive,Client to Advisor,SMS,4,False,False,False
+Understood,Neutral,Client to Advisor,WhatsApp,1,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,WhatsApp,4,False,False,False
+You've been very helpful,Positive,Advisor to Client,Phone,4,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,WhatsApp,4,False,False,False
+Just do this please,Frustrated,Client to Advisor,Email,4,False,False,False
+This is ridiculous,Frustrated,Client to Advisor,Email,3,False,False,True
+Understood,Neutral,Advisor to Client,SMS,1,False,False,False
+Everything is clear now,Positive,Advisor to Client,Phone,4,False,False,False
+Getting frustrated with delays,Frustrated,Advisor to Client,SMS,4,False,False,True
+Understood,Neutral,Client to Advisor,WhatsApp,1,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Phone,4,False,False,False
+How do I do this?,Confused,Advisor to Client,Phone,5,True,False,False
+Everything is clear now,Positive,Client to Advisor,Phone,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,SMS,4,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,Email,4,False,False,False
+This is ridiculous,Frustrated,Client to Advisor,WhatsApp,3,False,False,True
+Everything is clear now,Positive,Advisor to Client,WhatsApp,4,False,False,False
+You've been very helpful,Positive,Client to Advisor,Phone,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,SMS,6,False,False,False
+Which document?,Confused,Client to Advisor,WhatsApp,2,True,False,False
+Don't understand form,Confused,Advisor to Client,Email,3,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Email,4,False,False,False
+You've been very helpful,Positive,Client to Advisor,WhatsApp,4,False,False,False
+I'll do that,Neutral,Advisor to Client,Email,3,False,False,False
+Not sure what you need,Confused,Client to Advisor,SMS,5,False,True,False
+You've been very helpful,Positive,Client to Advisor,Email,4,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,SMS,4,False,False,False
+Really appreciate the guidance,Positive,Client to Advisor,WhatsApp,4,False,False,False
+No problem,Neutral,Client to Advisor,WhatsApp,2,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Phone,4,False,False,False
+Just do this please,Frustrated,Advisor to Client,WhatsApp,4,False,False,False
+Just do this please,Frustrated,Advisor to Client,Email,4,False,False,False
+Can you clarify?,Confused,Client to Advisor,WhatsApp,3,True,False,False
+You've been very helpful,Positive,Client to Advisor,Email,4,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,Email,4,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,SMS,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,Email,4,False,False,False
+Everything is clear now,Positive,Client to Advisor,Phone,4,False,False,False
+This is taking forever,Frustrated,Client to Advisor,WhatsApp,4,False,False,True
+This is ridiculous,Frustrated,Client to Advisor,WhatsApp,3,False,False,True
+Thanks so much for your help!,Positive,Client to Advisor,SMS,6,False,False,False
+Why so long?,Frustrated,Advisor to Client,SMS,3,True,False,False
+This is ridiculous,Frustrated,Client to Advisor,SMS,3,False,False,True
+Don't understand form,Confused,Client to Advisor,Email,3,False,False,False
+Why so long?,Frustrated,Client to Advisor,WhatsApp,3,True,False,False
+You've been very helpful,Positive,Client to Advisor,Phone,4,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Email,6,False,False,False
+I'll do that,Neutral,Client to Advisor,WhatsApp,3,False,False,False
+No problem,Neutral,Client to Advisor,Email,2,False,False,False
+Not sure what you need,Confused,Advisor to Client,Phone,5,False,True,False
+Understood,Neutral,Client to Advisor,Email,1,False,False,False
+What does this mean?,Confused,Client to Advisor,SMS,4,True,False,False
+Can you clarify?,Confused,Client to Advisor,WhatsApp,3,True,False,False
+Really appreciate the guidance,Positive,Client to Advisor,Phone,4,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Email,4,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,Phone,4,False,False,False
+"Great, ready to proceed",Positive,Advisor to Client,Email,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,SMS,4,False,False,False
+When do you need them?,Neutral,Client to Advisor,Email,5,True,True,False
+Thanks so much for your help!,Positive,Advisor to Client,Email,6,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,SMS,4,False,False,False
+I've sent this twice!,Frustrated,Client to Advisor,Phone,4,False,False,False
+"Perfect, that makes sense",Positive,Client to Advisor,Phone,4,False,False,False
+I've sent this twice!,Frustrated,Advisor to Client,Phone,4,False,False,False
+Really appreciate the guidance,Positive,Advisor to Client,Phone,4,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Email,6,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Email,4,False,True,False
+"Ok, I'll send documents",Neutral,Client to Advisor,SMS,4,False,False,False
+Just do this please,Frustrated,Client to Advisor,Phone,4,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Phone,4,False,True,False
+No problem,Neutral,Client to Advisor,Email,2,False,False,False
+"Perfect, that makes sense",Positive,Advisor to Client,SMS,4,False,False,False
+Not sure what you need,Confused,Advisor to Client,SMS,5,False,True,False
+This is taking forever,Frustrated,Client to Advisor,Email,4,False,False,True
+I'll do that,Neutral,Client to Advisor,Phone,3,False,False,False
+Understood,Neutral,Advisor to Client,Phone,1,False,False,False
+"Ok, I'll send documents",Neutral,Client to Advisor,Email,4,False,False,False
+Understood,Neutral,Advisor to Client,Phone,1,False,False,False
+You've been very helpful,Positive,Client to Advisor,WhatsApp,4,False,False,False
+Thanks so much for your help!,Positive,Advisor to Client,Phone,6,False,False,False
+I'll do that,Neutral,Client to Advisor,Phone,3,False,False,False
+Just do this please,Frustrated,Advisor to Client,WhatsApp,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,WhatsApp,4,False,False,False
+Which document?,Confused,Client to Advisor,Email,2,True,False,False
+No problem,Neutral,Advisor to Client,Phone,2,False,False,False
+What does this mean?,Confused,Client to Advisor,SMS,4,True,False,False
+Thanks so much for your help!,Positive,Advisor to Client,SMS,6,False,False,False
+You've been very helpful,Positive,Client to Advisor,SMS,4,False,False,False
+Why so long?,Frustrated,Client to Advisor,SMS,3,True,False,False
+No problem,Neutral,Advisor to Client,WhatsApp,2,False,False,False
+Everything is clear now,Positive,Client to Advisor,WhatsApp,4,False,False,False
+"Great, ready to proceed",Positive,Client to Advisor,Email,4,False,False,False
+I'll get back soon,Neutral,Advisor to Client,Email,4,False,True,False
+Why so long?,Frustrated,Client to Advisor,Email,3,True,False,False
+You've been very helpful,Positive,Advisor to Client,Email,4,False,False,False
+Everything is clear now,Positive,Advisor to Client,Email,4,False,False,False
+What does this mean?,Confused,Advisor to Client,Phone,4,True,False,False
+I've sent this twice!,Frustrated,Client to Advisor,Phone,4,False,False,False
+Thanks so much for your help!,Positive,Client to Advisor,Email,6,False,False,False
+I'll get back soon,Neutral,Client to Advisor,WhatsApp,4,False,True,False
+Understood,Neutral,Client to Advisor,SMS,1,False,False,False
+I've sent this twice!,Frustrated,Advisor to Client,WhatsApp,4,False,False,False

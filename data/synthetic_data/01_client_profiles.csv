@@ -1,0 +1,51 @@
+client_id,name,age,employment_type,annual_income,existing_pensions,existing_investments,case_type,phone,email,date_registered,risk_profile,communication_preference,document_responsiveness
+CLI_0001,Client_1,33,Retired,55373,2,0,General Review,07861942195,client_1@email.com,2025-03-10T16:33:17.844950,Moderate,WhatsApp,Low
+CLI_0002,Client_2,72,Student,8809,2,0,Pension Consolidation,07998982486,client_2@email.com,2025-11-07T16:33:17.845010,Conservative,WhatsApp,Low
+CLI_0003,Client_3,50,Unemployed,17525,3,1,Protection Review,07869517438,client_3@email.com,2025-02-09T16:33:17.845025,Balanced,SMS,High
+CLI_0004,Client_4,23,Student,14235,3,1,Pension Consolidation,07787763152,client_4@email.com,2025-05-14T16:33:17.845168,Growth,Email,High
+CLI_0005,Client_5,43,Unemployed,2946,1,3,Pension Consolidation,07938878082,client_5@email.com,2025-05-18T16:33:17.845290,Aggressive,Email,Very High
+CLI_0006,Client_6,60,Self-Employed,51767,1,1,Investment Planning,07709098226,client_6@email.com,2025-05-23T16:33:17.845302,Balanced,Email,Very High
+CLI_0007,Client_7,72,Self-Employed,42801,4,3,Pension Consolidation,07943157256,client_7@email.com,2025-08-12T16:33:17.845311,Balanced,Email,Medium
+CLI_0008,Client_8,62,Retired,73498,3,3,Protection Review,07761203017,client_8@email.com,2025-03-04T16:33:17.845320,Aggressive,WhatsApp,Very High
+CLI_0009,Client_9,75,Self-Employed,184213,2,3,Retirement Planning,07860601208,client_9@email.com,2025-05-30T16:33:17.845329,Moderate,Email,High
+CLI_0010,Client_10,46,Self-Employed,210125,3,1,Pension Consolidation,07821060215,client_10@email.com,2025-10-02T16:33:17.845338,Moderate,SMS,Medium
+CLI_0011,Client_11,51,Unemployed,16518,2,3,Investment Planning,07806176685,client_11@email.com,2025-10-01T16:33:17.845348,Aggressive,Email,Low
+CLI_0012,Client_12,30,Student,3848,1,3,Protection Review,07779581842,client_12@email.com,2025-10-02T16:33:17.845357,Growth,Email,Very High
+CLI_0013,Client_13,22,Self-Employed,147367,1,0,General Review,07837621673,client_13@email.com,2025-11-29T16:33:17.845365,Moderate,Phone,High
+CLI_0014,Client_14,39,Self-Employed,209720,1,1,General Review,07881291363,client_14@email.com,2025-04-22T16:33:17.845374,Aggressive,SMS,High
+CLI_0015,Client_15,24,Self-Employed,112048,1,2,Investment Planning,07844779048,client_15@email.com,2025-02-23T16:33:17.845382,Growth,SMS,Medium
+CLI_0016,Client_16,51,Employed,113077,3,3,Investment Planning,07877260569,client_16@email.com,2025-10-21T16:33:17.845390,Conservative,Phone,Very High
+CLI_0017,Client_17,57,Retired,68840,4,2,General Review,07904551372,client_17@email.com,2025-06-25T16:33:17.845399,Moderate,Email,Low
+CLI_0018,Client_18,40,Student,1897,1,3,General Review,07787602658,client_18@email.com,2025-02-11T16:33:17.845408,Moderate,Phone,Medium
+CLI_0019,Client_19,74,Retired,58160,2,0,Pension Consolidation,07921704656,client_19@email.com,2025-07-22T16:33:17.845417,Moderate,Phone,High
+CLI_0020,Client_20,67,Employed,72804,1,0,Protection Review,07887199457,client_20@email.com,2025-11-08T16:33:17.845425,Growth,Email,Low
+CLI_0021,Client_21,65,Student,10744,2,2,Investment Planning,07721395317,client_21@email.com,2025-05-08T16:33:17.845433,Conservative,SMS,High
+CLI_0022,Client_22,42,Self-Employed,127762,3,2,General Review,07932384354,client_22@email.com,2025-03-11T16:33:17.845441,Conservative,Phone,Low
+CLI_0023,Client_23,71,Student,10766,1,3,Pension Consolidation,07936649196,client_23@email.com,2025-12-03T16:33:17.845449,Aggressive,SMS,Medium
+CLI_0024,Client_24,71,Self-Employed,75308,3,2,Protection Review,07724673903,client_24@email.com,2025-02-02T16:33:17.845457,Aggressive,SMS,Low
+CLI_0025,Client_25,28,Student,7790,3,0,Protection Review,07934445536,client_25@email.com,2025-05-18T16:33:17.845465,Balanced,Email,Low
+CLI_0026,Client_26,64,Retired,34658,4,3,Retirement Planning,07711049476,client_26@email.com,2025-11-23T16:33:17.845473,Conservative,Email,High
+CLI_0027,Client_27,55,Student,10917,3,1,Investment Planning,07986321639,client_27@email.com,2025-07-12T16:33:17.845481,Growth,Phone,Low
+CLI_0028,Client_28,46,Self-Employed,220980,1,0,General Review,07934132039,client_28@email.com,2025-06-13T16:33:17.845489,Balanced,Phone,Medium
+CLI_0029,Client_29,74,Student,12030,3,1,Investment Planning,07945566345,client_29@email.com,2025-07-31T16:33:17.845497,Aggressive,Phone,Low
+CLI_0030,Client_30,60,Unemployed,1468,1,3,Investment Planning,07973152499,client_30@email.com,2025-06-10T16:33:17.845506,Aggressive,Phone,Very High
+CLI_0031,Client_31,68,Employed,114959,3,1,Investment Planning,07718946470,client_31@email.com,2025-09-30T16:33:17.845514,Growth,SMS,Very High
+CLI_0032,Client_32,36,Retired,56163,3,0,Investment Planning,07784792530,client_32@email.com,2025-03-10T16:33:17.845523,Moderate,Email,Medium
+CLI_0033,Client_33,25,Student,12471,2,3,Protection Review,07965291985,client_33@email.com,2025-11-29T16:33:17.845532,Conservative,SMS,High
+CLI_0034,Client_34,41,Student,12468,1,1,General Review,07971017872,client_34@email.com,2025-08-26T16:33:17.845541,Aggressive,WhatsApp,Medium
+CLI_0035,Client_35,22,Employed,34676,4,3,Investment Planning,07814877361,client_35@email.com,2025-07-13T16:33:17.845549,Aggressive,Email,Very High
+CLI_0036,Client_36,27,Student,5706,1,0,Retirement Planning,07944940617,client_36@email.com,2025-03-11T16:33:17.845557,Balanced,Email,Low
+CLI_0037,Client_37,28,Employed,86612,2,2,Investment Planning,07823417510,client_37@email.com,2025-03-29T16:33:17.845565,Growth,SMS,Very High
+CLI_0038,Client_38,55,Employed,111328,1,2,Protection Review,07916387405,client_38@email.com,2025-10-13T16:33:17.845573,Conservative,Email,Medium
+CLI_0039,Client_39,72,Retired,27243,1,1,Investment Planning,07780383108,client_39@email.com,2025-11-06T16:33:17.845582,Aggressive,SMS,Very High
+CLI_0040,Client_40,41,Self-Employed,105687,3,1,Investment Planning,07849490968,client_40@email.com,2025-09-03T16:33:17.845591,Conservative,Email,High
+CLI_0041,Client_41,73,Employed,119882,3,1,Investment Planning,07867712032,client_41@email.com,2025-05-30T16:33:17.845599,Moderate,SMS,Low
+CLI_0042,Client_42,56,Retired,55028,4,2,Protection Review,07954412920,client_42@email.com,2025-08-01T16:33:17.845607,Growth,WhatsApp,High
+CLI_0043,Client_43,58,Employed,76549,2,3,Protection Review,07884725487,client_43@email.com,2025-07-29T16:33:17.845616,Balanced,Email,High
+CLI_0044,Client_44,44,Retired,15631,2,1,Retirement Planning,07747198676,client_44@email.com,2025-05-01T16:33:17.845624,Growth,Phone,Low
+CLI_0045,Client_45,55,Retired,56876,3,0,General Review,07940247561,client_45@email.com,2025-04-21T16:33:17.845632,Moderate,Phone,Low
+CLI_0046,Client_46,31,Unemployed,15422,3,1,Protection Review,07760733254,client_46@email.com,2025-08-22T16:33:17.845641,Moderate,Email,High
+CLI_0047,Client_47,38,Unemployed,17560,2,0,Protection Review,07900021733,client_47@email.com,2025-04-29T16:33:17.845649,Balanced,WhatsApp,Medium
+CLI_0048,Client_48,44,Retired,15480,2,3,Investment Planning,07891183232,client_48@email.com,2025-06-01T16:33:17.845657,Aggressive,Email,High
+CLI_0049,Client_49,65,Self-Employed,61719,1,1,General Review,07756617801,client_49@email.com,2025-02-08T16:33:17.845665,Moderate,Phone,Low
+CLI_0050,Client_50,67,Employed,49962,1,1,Pension Consolidation,07900644102,client_50@email.com,2025-09-16T16:33:17.845674,Moderate,WhatsApp,Very High

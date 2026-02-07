@@ -1,0 +1,501 @@
+message_id,client_id,date,direction,channel,message_text,sentiment,length_words,contains_question,response_time_hours
+MSG_000001,CLI_0037,2025-12-29T16:34:15.576285,Advisor to Client,WhatsApp,"Great, ready to proceed",Positive,4,False,
+MSG_000002,CLI_0022,2026-01-14T16:34:15.576377,Advisor to Client,Phone,Thanks so much for your help!,Positive,6,False,
+MSG_000003,CLI_0028,2025-12-29T16:34:15.576450,Client to Advisor,SMS,No problem,Neutral,2,False,
+MSG_000004,CLI_0029,2025-11-11T16:34:15.576519,Advisor to Client,SMS,Can you clarify?,Confused,3,True,8.0
+MSG_000005,CLI_0042,2025-11-21T16:34:15.576599,Advisor to Client,WhatsApp,This is ridiculous,Frustrated,3,False,33.0
+MSG_000006,CLI_0049,2025-12-06T16:34:15.576685,Client to Advisor,SMS,Really appreciate the guidance,Positive,4,False,40.0
+MSG_000007,CLI_0028,2025-11-15T16:34:15.576739,Client to Advisor,SMS,Why so long?,Frustrated,3,True,42.0
+MSG_000008,CLI_0018,2026-01-25T16:34:15.576784,Advisor to Client,Phone,Thanks so much for your help!,Positive,6,False,
+MSG_000009,CLI_0044,2026-01-12T16:34:15.576824,Client to Advisor,Phone,Really appreciate the guidance,Positive,4,False,40.0
+MSG_000010,CLI_0003,2025-11-22T16:34:15.576867,Advisor to Client,SMS,"Perfect, that makes sense",Positive,4,False,9.0
+MSG_000011,CLI_0048,2025-12-15T16:34:15.576913,Client to Advisor,SMS,"Ok, I'll send documents",Neutral,4,False,
+MSG_000012,CLI_0014,2025-12-24T16:34:15.576953,Client to Advisor,WhatsApp,Everything is clear now,Positive,4,False,40.0
+MSG_000013,CLI_0010,2026-01-13T16:34:15.576995,Client to Advisor,Phone,I'll do that,Neutral,3,False,47.0
+MSG_000014,CLI_0014,2025-11-10T16:34:15.577037,Advisor to Client,SMS,Really appreciate the guidance,Positive,4,False,
+MSG_000015,CLI_0041,2025-11-17T16:34:15.577076,Advisor to Client,SMS,Understood,Neutral,1,False,
+MSG_000016,CLI_0040,2026-01-30T16:34:15.577115,Client to Advisor,WhatsApp,Getting frustrated with delays,Frustrated,4,False,
+MSG_000017,CLI_0033,2025-12-08T16:34:15.577154,Advisor to Client,Email,Why so long?,Frustrated,3,True,33.0
+MSG_000018,CLI_0047,2026-01-13T16:34:15.577195,Advisor to Client,WhatsApp,This is ridiculous,Frustrated,3,False,
+MSG_000019,CLI_0033,2026-01-15T16:34:15.577234,Advisor to Client,Phone,No problem,Neutral,2,False,34.0
+MSG_000020,CLI_0009,2025-11-22T16:34:15.577276,Client to Advisor,Email,Everything is clear now,Positive,4,False,25.0
+MSG_000021,CLI_0003,2026-01-08T16:34:15.577318,Advisor to Client,SMS,"Great, ready to proceed",Positive,4,False,
+MSG_000022,CLI_0048,2025-12-28T16:34:15.577357,Client to Advisor,SMS,I'll do that,Neutral,3,False,37.0
+MSG_000023,CLI_0027,2025-11-14T16:34:15.577399,Advisor to Client,WhatsApp,Really appreciate the guidance,Positive,4,False,47.0
+MSG_000024,CLI_0046,2026-01-23T16:34:15.577440,Client to Advisor,Phone,No problem,Neutral,2,False,
+MSG_000025,CLI_0013,2025-11-24T16:34:15.577479,Advisor to Client,SMS,No problem,Neutral,2,False,13.0
+MSG_000026,CLI_0001,2026-01-24T16:34:15.577521,Advisor to Client,Email,"Great, ready to proceed",Positive,4,False,3.0
+MSG_000027,CLI_0011,2025-12-14T16:34:15.577563,Client to Advisor,Email,"Ok, I'll send documents",Neutral,4,False,36.0
+MSG_000028,CLI_0039,2025-12-07T16:34:15.577605,Advisor to Client,Email,I'll get back soon,Neutral,4,False,
+MSG_000029,CLI_0004,2025-12-28T16:34:15.577679,Client to Advisor,Phone,Don't understand form,Confused,3,False,43.0
+MSG_000030,CLI_0023,2025-11-18T16:34:15.577762,Advisor to Client,Email,I'll get back soon,Neutral,4,False,
+MSG_000031,CLI_0039,2025-12-08T16:34:15.577819,Client to Advisor,SMS,I'll do that,Neutral,3,False,26.0
+MSG_000032,CLI_0040,2025-11-16T16:34:15.577863,Client to Advisor,WhatsApp,What does this mean?,Confused,4,True,
+MSG_000033,CLI_0024,2026-01-19T16:34:15.577903,Client to Advisor,Email,What does this mean?,Confused,4,True,
+MSG_000034,CLI_0027,2026-01-12T16:34:15.577942,Advisor to Client,Phone,"Ok, I'll send documents",Neutral,4,False,23.0
+MSG_000035,CLI_0008,2026-01-07T16:34:15.577985,Client to Advisor,WhatsApp,I'll get back soon,Neutral,4,False,31.0
+MSG_000036,CLI_0037,2025-12-09T16:34:15.578027,Client to Advisor,Email,Can you clarify?,Confused,3,True,25.0
+MSG_000037,CLI_0035,2025-11-26T16:34:15.578069,Advisor to Client,Email,Just do this please,Frustrated,4,False,
+MSG_000038,CLI_0050,2025-12-11T16:34:15.578108,Client to Advisor,Email,"Ok, I'll send documents",Neutral,4,False,42.0
+MSG_000039,CLI_0012,2026-01-05T16:34:15.578150,Advisor to Client,Phone,"Great, ready to proceed",Positive,4,False,42.0
+MSG_000040,CLI_0049,2026-01-12T16:34:15.578193,Advisor to Client,Email,I'll get back soon,Neutral,4,False,8.0
+MSG_000041,CLI_0038,2026-01-01T16:34:15.578236,Advisor to Client,Phone,No problem,Neutral,2,False,17.0
+MSG_000042,CLI_0015,2025-12-15T16:34:15.578279,Advisor to Client,Phone,Really appreciate the guidance,Positive,4,False,18.0
+MSG_000043,CLI_0015,2025-12-20T16:34:15.578323,Advisor to Client,WhatsApp,Understood,Neutral,1,False,5.0
+MSG_000044,CLI_0018,2025-11-07T16:34:15.578365,Client to Advisor,WhatsApp,Thanks so much for your help!,Positive,6,False,
+MSG_000045,CLI_0012,2026-01-12T16:34:15.578405,Client to Advisor,WhatsApp,"Great, ready to proceed",Positive,4,False,
+MSG_000046,CLI_0029,2026-01-10T16:34:15.578444,Advisor to Client,Phone,I'll get back soon,Neutral,4,False,14.0
+MSG_000047,CLI_0039,2025-11-18T16:34:15.578486,Advisor to Client,Phone,Really appreciate the guidance,Positive,4,False,44.0
+MSG_000048,CLI_0034,2025-12-01T16:34:15.578528,Client to Advisor,SMS,Really appreciate the guidance,Positive,4,False,25.0
+MSG_000049,CLI_0003,2025-12-29T16:34:15.578570,Client to Advisor,Phone,You've been very helpful,Positive,4,False,30.0
+MSG_000050,CLI_0017,2025-11-09T16:34:15.578611,Advisor to Client,SMS,Can you clarify?,Confused,3,True,27.0
+MSG_000051,CLI_0049,2026-01-21T16:34:15.578697,Advisor to Client,SMS,This is taking forever,Frustrated,4,False,47.0
+MSG_000052,CLI_0034,2025-12-09T16:34:15.578745,Advisor to Client,Email,I've sent this twice!,Frustrated,4,False,3.0
+MSG_000053,CLI_0018,2025-12-16T16:34:15.578787,Advisor to Client,Phone,Everything is clear now,Positive,4,False,18.0
+MSG_000054,CLI_0048,2026-01-20T16:34:15.578830,Client to Advisor,SMS,I've sent this twice!,Frustrated,4,False,1.0
+MSG_000055,CLI_0049,2026-01-08T16:34:15.578872,Client to Advisor,Email,Which document?,Confused,2,True,
+MSG_000056,CLI_0042,2025-11-22T16:34:15.578912,Client to Advisor,WhatsApp,Just do this please,Frustrated,4,False,11.0
+MSG_000057,CLI_0009,2025-12-06T16:34:15.578960,Client to Advisor,WhatsApp,You've been very helpful,Positive,4,False,37.0
+MSG_000058,CLI_0039,2026-01-20T16:34:15.579003,Advisor to Client,WhatsApp,Thanks so much for your help!,Positive,6,False,
+MSG_000059,CLI_0029,2026-01-01T16:34:15.579042,Advisor to Client,WhatsApp,"Perfect, that makes sense",Positive,4,False,11.0
+MSG_000060,CLI_0034,2026-01-03T16:34:15.579084,Advisor to Client,Email,Everything is clear now,Positive,4,False,
+MSG_000061,CLI_0013,2025-12-19T16:34:15.579123,Advisor to Client,WhatsApp,Which document?,Confused,2,True,
+MSG_000062,CLI_0008,2025-12-22T16:34:15.579162,Advisor to Client,WhatsApp,This is taking forever,Frustrated,4,False,26.0
+MSG_000063,CLI_0007,2025-11-23T16:34:15.579204,Client to Advisor,Email,Can you clarify?,Confused,3,True,
+MSG_000064,CLI_0002,2025-11-23T16:34:15.579243,Client to Advisor,Email,Understood,Neutral,1,False,28.0
+MSG_000065,CLI_0030,2025-11-28T16:34:15.579285,Client to Advisor,SMS,"Ok, I'll send documents",Neutral,4,False,
+MSG_000066,CLI_0028,2025-11-16T16:34:15.579324,Client to Advisor,Phone,I've sent this twice!,Frustrated,4,False,
+MSG_000067,CLI_0003,2026-01-01T16:34:15.579363,Client to Advisor,Email,Just do this please,Frustrated,4,False,
+MSG_000068,CLI_0029,2025-12-10T16:34:15.579402,Client to Advisor,SMS,Really appreciate the guidance,Positive,4,False,2.0
+MSG_000069,CLI_0022,2026-01-26T16:34:15.579444,Advisor to Client,Email,You've been very helpful,Positive,4,False,37.0
+MSG_000070,CLI_0025,2025-12-30T16:34:15.579486,Advisor to Client,Phone,Why so long?,Frustrated,3,True,21.0
+MSG_000071,CLI_0046,2026-01-03T16:34:15.579528,Advisor to Client,Phone,Why so long?,Frustrated,3,True,25.0
+MSG_000072,CLI_0019,2025-11-19T16:34:15.579569,Advisor to Client,SMS,How do I do this?,Confused,5,True,27.0
+MSG_000073,CLI_0013,2025-11-16T16:34:15.579611,Client to Advisor,Email,Really appreciate the guidance,Positive,4,False,24.0
+MSG_000074,CLI_0003,2025-12-15T16:34:15.579693,Client to Advisor,SMS,Thanks so much for your help!,Positive,6,False,
+MSG_000075,CLI_0044,2025-12-23T16:34:15.579738,Client to Advisor,Email,Not sure what you need,Confused,5,False,20.0
+MSG_000076,CLI_0011,2025-11-19T16:34:15.579786,Advisor to Client,WhatsApp,Understood,Neutral,1,False,36.0
+MSG_000077,CLI_0024,2025-12-05T16:34:15.579829,Client to Advisor,Email,Getting frustrated with delays,Frustrated,4,False,
+MSG_000078,CLI_0001,2025-11-05T16:34:15.579869,Client to Advisor,Email,"Great, ready to proceed",Positive,4,False,8.0
+MSG_000079,CLI_0024,2025-11-23T16:34:15.579912,Advisor to Client,WhatsApp,"Perfect, that makes sense",Positive,4,False,46.0
+MSG_000080,CLI_0036,2026-01-21T16:34:15.579954,Advisor to Client,SMS,"Great, ready to proceed",Positive,4,False,7.0
+MSG_000081,CLI_0011,2026-01-19T16:34:15.579997,Advisor to Client,Email,I've sent this twice!,Frustrated,4,False,24.0
+MSG_000082,CLI_0009,2026-01-22T16:34:15.580039,Advisor to Client,SMS,Which document?,Confused,2,True,3.0
+MSG_000083,CLI_0043,2025-12-07T16:34:15.580082,Client to Advisor,WhatsApp,I'll do that,Neutral,3,False,28.0
+MSG_000084,CLI_0010,2025-12-13T16:34:15.580124,Advisor to Client,WhatsApp,Thanks so much for your help!,Positive,6,False,
+MSG_000085,CLI_0018,2025-11-09T16:34:15.580230,Advisor to Client,WhatsApp,Really appreciate the guidance,Positive,4,False,
+MSG_000086,CLI_0038,2026-01-21T16:34:15.580271,Client to Advisor,SMS,"Perfect, that makes sense",Positive,4,False,19.0
+MSG_000087,CLI_0002,2025-11-06T16:34:15.580314,Client to Advisor,Phone,"Perfect, that makes sense",Positive,4,False,
+MSG_000088,CLI_0012,2026-01-31T16:34:15.580354,Advisor to Client,SMS,This is taking forever,Frustrated,4,False,14.0
+MSG_000089,CLI_0036,2025-12-08T16:34:15.580395,Client to Advisor,Phone,You've been very helpful,Positive,4,False,24.0
+MSG_000090,CLI_0026,2025-11-28T16:34:15.580438,Client to Advisor,WhatsApp,"Great, ready to proceed",Positive,4,False,43.0
+MSG_000091,CLI_0029,2025-12-09T16:34:15.580480,Client to Advisor,SMS,Understood,Neutral,1,False,43.0
+MSG_000092,CLI_0003,2026-01-18T16:34:15.580521,Advisor to Client,WhatsApp,Everything is clear now,Positive,4,False,
+MSG_000093,CLI_0032,2026-01-31T16:34:15.580560,Advisor to Client,Email,Understood,Neutral,1,False,2.0
+MSG_000094,CLI_0017,2026-01-23T16:34:15.580603,Advisor to Client,SMS,When do you need them?,Neutral,5,True,1.0
+MSG_000095,CLI_0009,2025-12-23T16:34:15.580682,Client to Advisor,Phone,Everything is clear now,Positive,4,False,22.0
+MSG_000096,CLI_0018,2025-12-24T16:34:15.580739,Client to Advisor,SMS,Getting frustrated with delays,Frustrated,4,False,
+MSG_000097,CLI_0047,2026-01-16T16:34:15.580780,Client to Advisor,WhatsApp,"Perfect, that makes sense",Positive,4,False,
+MSG_000098,CLI_0019,2025-11-12T16:34:15.580820,Advisor to Client,SMS,This is ridiculous,Frustrated,3,False,8.0
+MSG_000099,CLI_0033,2025-12-03T16:34:15.580862,Advisor to Client,WhatsApp,Why so long?,Frustrated,3,True,24.0
+MSG_000100,CLI_0004,2025-11-04T16:34:15.580904,Client to Advisor,SMS,No problem,Neutral,2,False,24.0
+MSG_000101,CLI_0002,2025-11-10T16:34:15.580946,Client to Advisor,Phone,Really appreciate the guidance,Positive,4,False,39.0
+MSG_000102,CLI_0010,2026-01-23T16:34:15.580990,Advisor to Client,WhatsApp,Which document?,Confused,2,True,5.0
+MSG_000103,CLI_0041,2025-11-06T16:34:15.581033,Client to Advisor,Phone,Thanks so much for your help!,Positive,6,False,
+MSG_000104,CLI_0025,2025-12-29T16:34:15.581072,Client to Advisor,Email,"Great, ready to proceed",Positive,4,False,
+MSG_000105,CLI_0049,2025-11-23T16:34:15.581111,Client to Advisor,WhatsApp,When do you need them?,Neutral,5,True,29.0
+MSG_000106,CLI_0014,2025-11-14T16:34:15.581154,Advisor to Client,SMS,No problem,Neutral,2,False,
+MSG_000107,CLI_0021,2025-11-13T16:34:15.581193,Advisor to Client,Phone,Just do this please,Frustrated,4,False,40.0
+MSG_000108,CLI_0038,2025-11-11T16:34:15.581234,Advisor to Client,SMS,This is ridiculous,Frustrated,3,False,
+MSG_000109,CLI_0001,2026-01-17T16:34:15.581273,Advisor to Client,Phone,"Ok, I'll send documents",Neutral,4,False,10.0
+MSG_000110,CLI_0023,2025-12-15T16:34:15.581316,Client to Advisor,SMS,Don't understand form,Confused,3,False,10.0
+MSG_000111,CLI_0020,2026-01-27T16:34:15.581358,Advisor to Client,WhatsApp,Thanks so much for your help!,Positive,6,False,
+MSG_000112,CLI_0031,2026-01-15T16:34:15.581397,Client to Advisor,SMS,Which document?,Confused,2,True,
+MSG_000113,CLI_0011,2025-12-02T16:34:15.581436,Client to Advisor,Phone,I'll do that,Neutral,3,False,47.0
+MSG_000114,CLI_0009,2025-11-16T16:34:15.581478,Client to Advisor,SMS,No problem,Neutral,2,False,30.0
+MSG_000115,CLI_0031,2025-12-15T16:34:15.581523,Client to Advisor,SMS,You've been very helpful,Positive,4,False,
+MSG_000116,CLI_0004,2026-01-07T16:34:15.581561,Client to Advisor,Email,Understood,Neutral,1,False,12.0
+MSG_000117,CLI_0010,2026-01-10T16:34:15.581603,Advisor to Client,SMS,What does this mean?,Confused,4,True,2.0
+MSG_000118,CLI_0032,2026-01-31T16:34:15.581679,Client to Advisor,Phone,You've been very helpful,Positive,4,False,13.0
+MSG_000119,CLI_0015,2025-12-17T16:34:15.581759,Client to Advisor,SMS,Understood,Neutral,1,False,38.0
+MSG_000120,CLI_0011,2026-01-12T16:34:15.581829,Client to Advisor,SMS,You've been very helpful,Positive,4,False,
+MSG_000121,CLI_0010,2025-11-20T16:34:15.581894,Advisor to Client,WhatsApp,Just do this please,Frustrated,4,False,4.0
+MSG_000122,CLI_0006,2026-01-15T16:34:15.581939,Client to Advisor,Email,Really appreciate the guidance,Positive,4,False,6.0
+MSG_000123,CLI_0029,2026-01-07T16:34:15.581982,Advisor to Client,WhatsApp,I'll get back soon,Neutral,4,False,26.0
+MSG_000124,CLI_0022,2025-12-21T16:34:15.582025,Client to Advisor,Phone,This is taking forever,Frustrated,4,False,13.0
+MSG_000125,CLI_0025,2026-01-04T16:34:15.582067,Client to Advisor,WhatsApp,Thanks so much for your help!,Positive,6,False,31.0
+MSG_000126,CLI_0021,2025-11-21T16:34:15.582109,Client to Advisor,Email,Really appreciate the guidance,Positive,4,False,38.0
+MSG_000127,CLI_0032,2026-01-04T16:34:15.582151,Client to Advisor,Email,Understood,Neutral,1,False,
+MSG_000128,CLI_0010,2026-01-22T16:34:15.582189,Client to Advisor,WhatsApp,Everything is clear now,Positive,4,False,12.0
+MSG_000129,CLI_0045,2025-11-27T16:34:15.582231,Client to Advisor,Email,Getting frustrated with delays,Frustrated,4,False,29.0
+MSG_000130,CLI_0018,2025-12-29T16:34:15.582274,Client to Advisor,SMS,Just do this please,Frustrated,4,False,
+MSG_000131,CLI_0040,2026-01-02T16:34:15.582313,Client to Advisor,WhatsApp,Really appreciate the guidance,Positive,4,False,8.0
+MSG_000132,CLI_0028,2025-11-26T16:34:15.582360,Advisor to Client,WhatsApp,I'll do that,Neutral,3,False,36.0
+MSG_000133,CLI_0017,2025-12-01T16:34:15.582402,Advisor to Client,Email,I've sent this twice!,Frustrated,4,False,
+MSG_000134,CLI_0032,2025-12-10T16:34:15.582440,Client to Advisor,SMS,Everything is clear now,Positive,4,False,
+MSG_000135,CLI_0008,2025-12-23T16:34:15.582482,Advisor to Client,WhatsApp,When do you need them?,Neutral,5,True,27.0
+MSG_000136,CLI_0021,2025-11-25T16:34:15.582524,Client to Advisor,Email,Why so long?,Frustrated,3,True,4.0
+MSG_000137,CLI_0012,2025-11-16T16:34:15.582566,Client to Advisor,Phone,Really appreciate the guidance,Positive,4,False,
+MSG_000138,CLI_0024,2025-11-16T16:34:15.582605,Advisor to Client,Phone,Which document?,Confused,2,True,10.0
+MSG_000139,CLI_0022,2026-01-18T16:34:15.582687,Client to Advisor,Phone,Thanks so much for your help!,Positive,6,False,
+MSG_000140,CLI_0032,2025-12-01T16:34:15.582735,Client to Advisor,SMS,"Great, ready to proceed",Positive,4,False,16.0
+MSG_000141,CLI_0002,2026-01-24T16:34:15.582779,Advisor to Client,WhatsApp,Everything is clear now,Positive,4,False,20.0
+MSG_000142,CLI_0016,2025-12-14T16:34:15.582826,Client to Advisor,SMS,I'll do that,Neutral,3,False,33.0
+MSG_000143,CLI_0030,2026-01-09T16:34:15.582868,Advisor to Client,SMS,What does this mean?,Confused,4,True,15.0
+MSG_000144,CLI_0007,2025-12-17T16:34:15.582910,Advisor to Client,SMS,Really appreciate the guidance,Positive,4,False,44.0
+MSG_000145,CLI_0011,2025-11-04T16:34:15.582952,Advisor to Client,SMS,"Great, ready to proceed",Positive,4,False,
+MSG_000146,CLI_0019,2025-12-30T16:34:15.582991,Advisor to Client,Email,You've been very helpful,Positive,4,False,34.0
+MSG_000147,CLI_0023,2025-11-04T16:34:15.583032,Advisor to Client,Phone,This is ridiculous,Frustrated,3,False,45.0
+MSG_000148,CLI_0015,2025-12-09T16:34:15.583074,Advisor to Client,Phone,Everything is clear now,Positive,4,False,41.0
+MSG_000149,CLI_0018,2025-11-28T16:34:15.583116,Client to Advisor,Email,Not sure what you need,Confused,5,False,
+MSG_000150,CLI_0049,2025-12-06T16:34:15.583155,Advisor to Client,Email,Everything is clear now,Positive,4,False,47.0
+MSG_000151,CLI_0037,2026-01-12T16:34:15.583197,Client to Advisor,WhatsApp,"Great, ready to proceed",Positive,4,False,
+MSG_000152,CLI_0041,2026-01-09T16:34:15.583236,Client to Advisor,WhatsApp,Really appreciate the guidance,Positive,4,False,9.0
+MSG_000153,CLI_0013,2025-11-29T16:34:15.583277,Advisor to Client,Email,Everything is clear now,Positive,4,False,1.0
+MSG_000154,CLI_0018,2026-01-19T16:34:15.583321,Advisor to Client,WhatsApp,Not sure what you need,Confused,5,False,43.0
+MSG_000155,CLI_0044,2026-01-08T16:34:15.583363,Advisor to Client,WhatsApp,Not sure what you need,Confused,5,False,10.0
+MSG_000156,CLI_0036,2025-11-18T16:34:15.583405,Advisor to Client,SMS,"Ok, I'll send documents",Neutral,4,False,
+MSG_000157,CLI_0044,2026-01-07T16:34:15.583444,Advisor to Client,Email,You've been very helpful,Positive,4,False,9.0
+MSG_000158,CLI_0050,2025-12-14T16:34:15.583486,Advisor to Client,Email,Not sure what you need,Confused,5,False,
+MSG_000159,CLI_0008,2026-01-13T16:34:15.583524,Client to Advisor,Email,I've sent this twice!,Frustrated,4,False,16.0
+MSG_000160,CLI_0033,2026-01-31T16:34:15.583569,Advisor to Client,SMS,I'll get back soon,Neutral,4,False,15.0
+MSG_000161,CLI_0026,2026-01-08T16:34:15.583612,Client to Advisor,WhatsApp,"Great, ready to proceed",Positive,4,False,8.0
+MSG_000162,CLI_0034,2025-11-06T16:34:15.583785,Client to Advisor,Phone,Really appreciate the guidance,Positive,4,False,4.0
+MSG_000163,CLI_0014,2025-11-28T16:34:15.583842,Advisor to Client,Phone,Really appreciate the guidance,Positive,4,False,33.0
+MSG_000164,CLI_0049,2025-11-14T16:34:15.583886,Client to Advisor,Phone,When do you need them?,Neutral,5,True,
+MSG_000165,CLI_0019,2025-12-04T16:34:15.583927,Advisor to Client,WhatsApp,Everything is clear now,Positive,4,False,
+MSG_000166,CLI_0027,2026-01-04T16:34:15.583966,Client to Advisor,Email,You've been very helpful,Positive,4,False,
+MSG_000167,CLI_0010,2025-11-11T16:34:15.584005,Client to Advisor,SMS,I'll get back soon,Neutral,4,False,
+MSG_000168,CLI_0006,2025-11-15T16:34:15.584044,Advisor to Client,WhatsApp,"Perfect, that makes sense",Positive,4,False,20.0
+MSG_000169,CLI_0015,2026-01-22T16:34:15.584085,Advisor to Client,Phone,Really appreciate the guidance,Positive,4,False,28.0
+MSG_000170,CLI_0030,2025-12-20T16:34:15.584159,Client to Advisor,Email,Everything is clear now,Positive,4,False,12.0
+MSG_000171,CLI_0004,2026-01-09T16:34:15.584219,Client to Advisor,Email,Really appreciate the guidance,Positive,4,False,
+MSG_000172,CLI_0044,2025-12-05T16:34:15.584260,Advisor to Client,SMS,Getting frustrated with delays,Frustrated,4,False,22.0
+MSG_000173,CLI_0049,2025-11-11T16:34:15.584302,Client to Advisor,SMS,Understood,Neutral,1,False,6.0
+MSG_000174,CLI_0030,2025-12-06T16:34:15.584345,Client to Advisor,Email,"Great, ready to proceed",Positive,4,False,9.0
+MSG_000175,CLI_0013,2026-01-11T16:34:15.584388,Advisor to Client,WhatsApp,Getting frustrated with delays,Frustrated,4,False,
+MSG_000176,CLI_0032,2025-11-08T16:34:15.584431,Client to Advisor,Phone,I'll get back soon,Neutral,4,False,33.0
+MSG_000177,CLI_0028,2025-11-29T16:34:15.584473,Client to Advisor,SMS,How do I do this?,Confused,5,True,15.0
+MSG_000178,CLI_0006,2025-11-09T16:34:15.584515,Advisor to Client,SMS,"Perfect, that makes sense",Positive,4,False,28.0
+MSG_000179,CLI_0009,2025-12-07T16:34:15.584557,Client to Advisor,SMS,No problem,Neutral,2,False,24.0
+MSG_000180,CLI_0013,2026-01-13T16:34:15.584599,Client to Advisor,WhatsApp,Getting frustrated with delays,Frustrated,4,False,24.0
+MSG_000181,CLI_0026,2025-11-11T16:34:15.584676,Advisor to Client,Phone,How do I do this?,Confused,5,True,17.0
+MSG_000182,CLI_0004,2025-11-25T16:34:15.584729,Advisor to Client,Email,No problem,Neutral,2,False,47.0
+MSG_000183,CLI_0002,2025-11-23T16:34:15.584773,Advisor to Client,Phone,Thanks so much for your help!,Positive,6,False,25.0
+MSG_000184,CLI_0018,2026-01-29T16:34:15.584815,Client to Advisor,Phone,No problem,Neutral,2,False,
+MSG_000185,CLI_0015,2025-11-10T16:34:15.584854,Advisor to Client,WhatsApp,What does this mean?,Confused,4,True,
+MSG_000186,CLI_0010,2025-12-22T16:34:15.584893,Client to Advisor,SMS,Thanks so much for your help!,Positive,6,False,31.0
+MSG_000187,CLI_0007,2025-11-05T16:34:15.584939,Advisor to Client,Email,Why so long?,Frustrated,3,True,45.0
+MSG_000188,CLI_0040,2026-01-05T16:34:15.584981,Client to Advisor,Email,I've sent this twice!,Frustrated,4,False,7.0
+MSG_000189,CLI_0027,2026-01-19T16:34:15.585023,Client to Advisor,Phone,I'll get back soon,Neutral,4,False,22.0
+MSG_000190,CLI_0028,2026-01-28T16:34:15.585065,Client to Advisor,SMS,Not sure what you need,Confused,5,False,43.0
+MSG_000191,CLI_0016,2026-01-22T16:34:15.585107,Client to Advisor,WhatsApp,You've been very helpful,Positive,4,False,3.0
+MSG_000192,CLI_0014,2026-01-08T16:34:15.585148,Advisor to Client,Phone,Understood,Neutral,1,False,
+MSG_000193,CLI_0036,2025-12-26T16:34:15.585188,Advisor to Client,SMS,I'll do that,Neutral,3,False,15.0
+MSG_000194,CLI_0026,2026-01-03T16:34:15.585230,Client to Advisor,Email,You've been very helpful,Positive,4,False,46.0
+MSG_000195,CLI_0022,2025-12-01T16:34:15.585273,Client to Advisor,Phone,I'll do that,Neutral,3,False,26.0
+MSG_000196,CLI_0048,2026-01-21T16:34:15.585318,Client to Advisor,SMS,Not sure what you need,Confused,5,False,6.0
+MSG_000197,CLI_0013,2025-12-26T16:34:15.585362,Client to Advisor,WhatsApp,"Great, ready to proceed",Positive,4,False,14.0
+MSG_000198,CLI_0047,2025-12-27T16:34:15.585404,Advisor to Client,SMS,This is taking forever,Frustrated,4,False,
+MSG_000199,CLI_0042,2025-11-12T16:34:15.585443,Advisor to Client,Email,Understood,Neutral,1,False,
+MSG_000200,CLI_0001,2025-12-25T16:34:15.585482,Client to Advisor,SMS,Not sure what you need,Confused,5,False,
+MSG_000201,CLI_0028,2026-01-02T16:34:15.585520,Client to Advisor,Email,"Ok, I'll send documents",Neutral,4,False,47.0
+MSG_000202,CLI_0001,2025-11-04T16:34:15.585563,Client to Advisor,Email,"Great, ready to proceed",Positive,4,False,42.0
+MSG_000203,CLI_0042,2025-12-03T16:34:15.585605,Client to Advisor,Email,Getting frustrated with delays,Frustrated,4,False,9.0
+MSG_000204,CLI_0017,2025-12-02T16:34:15.585686,Client to Advisor,Email,When do you need them?,Neutral,5,True,
+MSG_000205,CLI_0020,2025-12-06T16:34:15.585766,Advisor to Client,Phone,Everything is clear now,Positive,4,False,37.0
+MSG_000206,CLI_0046,2025-11-13T16:34:15.585822,Client to Advisor,WhatsApp,"Ok, I'll send documents",Neutral,4,False,
+MSG_000207,CLI_0024,2025-11-13T16:34:15.585862,Advisor to Client,SMS,How do I do this?,Confused,5,True,24.0
+MSG_000208,CLI_0009,2025-11-04T16:34:15.585907,Advisor to Client,Email,Thanks so much for your help!,Positive,6,False,
+MSG_000209,CLI_0027,2025-12-05T16:34:15.585946,Client to Advisor,WhatsApp,This is ridiculous,Frustrated,3,False,
+MSG_000210,CLI_0031,2025-12-10T16:34:15.585985,Client to Advisor,SMS,Thanks so much for your help!,Positive,6,False,16.0
+MSG_000211,CLI_0007,2025-11-04T16:34:15.586026,Client to Advisor,WhatsApp,Don't understand form,Confused,3,False,36.0
+MSG_000212,CLI_0017,2026-01-10T16:34:15.586068,Client to Advisor,WhatsApp,I'll get back soon,Neutral,4,False,27.0
+MSG_000213,CLI_0037,2026-01-28T16:34:15.586109,Advisor to Client,Phone,I'll do that,Neutral,3,False,36.0
+MSG_000214,CLI_0019,2026-01-06T16:34:15.586151,Advisor to Client,WhatsApp,Which document?,Confused,2,True,28.0
+MSG_000215,CLI_0001,2025-12-26T16:34:15.586197,Advisor to Client,Email,I'll do that,Neutral,3,False,21.0
+MSG_000216,CLI_0009,2025-11-13T16:34:15.586238,Advisor to Client,WhatsApp,No problem,Neutral,2,False,44.0
+MSG_000217,CLI_0008,2025-11-16T16:34:15.586282,Client to Advisor,Email,Really appreciate the guidance,Positive,4,False,
+MSG_000218,CLI_0003,2026-01-13T16:34:15.586321,Client to Advisor,Email,"Perfect, that makes sense",Positive,4,False,40.0
+MSG_000219,CLI_0022,2025-12-13T16:34:15.586363,Advisor to Client,WhatsApp,What does this mean?,Confused,4,True,
+MSG_000220,CLI_0014,2026-01-25T16:34:15.586401,Advisor to Client,WhatsApp,Not sure what you need,Confused,5,False,
+MSG_000221,CLI_0046,2025-12-10T16:34:15.586440,Client to Advisor,Phone,When do you need them?,Neutral,5,True,
+MSG_000222,CLI_0026,2025-11-20T16:34:15.586478,Advisor to Client,Email,"Ok, I'll send documents",Neutral,4,False,23.0
+MSG_000223,CLI_0005,2025-12-27T16:34:15.586520,Client to Advisor,SMS,I'll do that,Neutral,3,False,17.0
+MSG_000224,CLI_0039,2025-11-17T16:34:15.586579,Client to Advisor,Email,No problem,Neutral,2,False,18.0
+MSG_000225,CLI_0043,2025-12-19T16:34:15.586622,Advisor to Client,SMS,"Perfect, that makes sense",Positive,4,False,15.0
+MSG_000226,CLI_0005,2025-12-10T16:34:15.586705,Advisor to Client,WhatsApp,You've been very helpful,Positive,4,False,15.0
+MSG_000227,CLI_0017,2025-12-16T16:34:15.586750,Advisor to Client,Phone,This is taking forever,Frustrated,4,False,1.0
+MSG_000228,CLI_0035,2025-12-04T16:34:15.586792,Advisor to Client,Email,Really appreciate the guidance,Positive,4,False,37.0
+MSG_000229,CLI_0019,2025-12-02T16:34:15.586835,Client to Advisor,SMS,Thanks so much for your help!,Positive,6,False,14.0
+MSG_000230,CLI_0050,2025-12-15T16:34:15.586877,Client to Advisor,WhatsApp,I'll get back soon,Neutral,4,False,23.0
+MSG_000231,CLI_0004,2025-11-08T16:34:15.586919,Advisor to Client,Email,I'll do that,Neutral,3,False,38.0
+MSG_000232,CLI_0024,2025-12-03T16:34:15.586960,Client to Advisor,Email,No problem,Neutral,2,False,19.0
+MSG_000233,CLI_0046,2025-12-06T16:34:15.587002,Client to Advisor,SMS,I'll get back soon,Neutral,4,False,33.0
+MSG_000234,CLI_0013,2025-12-08T16:34:15.587050,Client to Advisor,SMS,Why so long?,Frustrated,3,True,33.0
+MSG_000235,CLI_0029,2025-12-17T16:34:15.587092,Client to Advisor,Email,Thanks so much for your help!,Positive,6,False,24.0
+MSG_000236,CLI_0010,2026-01-29T16:34:15.587134,Client to Advisor,SMS,No problem,Neutral,2,False,
+MSG_000237,CLI_0049,2026-01-19T16:34:15.587172,Client to Advisor,SMS,No problem,Neutral,2,False,5.0
+MSG_000238,CLI_0003,2025-12-02T16:34:15.587215,Client to Advisor,SMS,Just do this please,Frustrated,4,False,
+MSG_000239,CLI_0032,2025-11-24T16:34:15.587253,Client to Advisor,Phone,Thanks so much for your help!,Positive,6,False,15.0
+MSG_000240,CLI_0004,2025-11-24T16:34:15.587295,Advisor to Client,SMS,I've sent this twice!,Frustrated,4,False,
+MSG_000241,CLI_0001,2025-12-30T16:34:15.587333,Client to Advisor,Phone,I'll get back soon,Neutral,4,False,21.0
+MSG_000242,CLI_0045,2025-11-06T16:34:15.587375,Advisor to Client,SMS,Really appreciate the guidance,Positive,4,False,42.0
+MSG_000243,CLI_0012,2026-01-29T16:34:15.587416,Advisor to Client,WhatsApp,I've sent this twice!,Frustrated,4,False,42.0
+MSG_000244,CLI_0016,2026-01-29T16:34:15.587457,Advisor to Client,Email,Just do this please,Frustrated,4,False,
+MSG_000245,CLI_0009,2026-01-13T16:34:15.587496,Client to Advisor,WhatsApp,No problem,Neutral,2,False,
+MSG_000246,CLI_0033,2025-12-24T16:34:15.587535,Advisor to Client,Phone,This is ridiculous,Frustrated,3,False,37.0
+MSG_000247,CLI_0009,2026-01-30T16:34:15.587577,Client to Advisor,SMS,Thanks so much for your help!,Positive,6,False,41.0
+MSG_000248,CLI_0042,2025-11-04T16:34:15.587621,Advisor to Client,Phone,Not sure what you need,Confused,5,False,3.0
+MSG_000249,CLI_0023,2025-12-07T16:34:15.587711,Advisor to Client,Phone,What does this mean?,Confused,4,True,31.0
+MSG_000250,CLI_0037,2026-01-05T16:34:15.587759,Client to Advisor,Phone,"Ok, I'll send documents",Neutral,4,False,26.0
+MSG_000251,CLI_0032,2025-12-26T16:34:15.587803,Advisor to Client,WhatsApp,Getting frustrated with delays,Frustrated,4,False,12.0
+MSG_000252,CLI_0011,2025-12-25T16:34:15.587846,Advisor to Client,SMS,Not sure what you need,Confused,5,False,
+MSG_000253,CLI_0020,2026-01-22T16:34:15.587886,Advisor to Client,Phone,"Ok, I'll send documents",Neutral,4,False,4.0
+MSG_000254,CLI_0027,2025-11-13T16:34:15.587930,Client to Advisor,Phone,Can you clarify?,Confused,3,True,19.0
+MSG_000255,CLI_0021,2025-11-20T16:34:15.587972,Client to Advisor,Email,I've sent this twice!,Frustrated,4,False,45.0
+MSG_000256,CLI_0008,2025-12-30T16:34:15.588013,Client to Advisor,Phone,"Perfect, that makes sense",Positive,4,False,
+MSG_000257,CLI_0005,2025-12-14T16:34:15.588052,Advisor to Client,Email,This is taking forever,Frustrated,4,False,8.0
+MSG_000258,CLI_0003,2025-11-24T16:34:15.588094,Client to Advisor,Phone,Really appreciate the guidance,Positive,4,False,
+MSG_000259,CLI_0050,2026-01-14T16:34:15.588170,Client to Advisor,Email,"Ok, I'll send documents",Neutral,4,False,16.0
+MSG_000260,CLI_0047,2025-12-10T16:34:15.588225,Client to Advisor,Phone,"Great, ready to proceed",Positive,4,False,38.0
+MSG_000261,CLI_0022,2026-01-03T16:34:15.588268,Advisor to Client,Phone,You've been very helpful,Positive,4,False,27.0
+MSG_000262,CLI_0025,2026-01-20T16:34:15.588311,Client to Advisor,WhatsApp,"Perfect, that makes sense",Positive,4,False,22.0
+MSG_000263,CLI_0050,2025-11-11T16:34:15.588353,Advisor to Client,Email,Thanks so much for your help!,Positive,6,False,36.0
+MSG_000264,CLI_0045,2025-12-17T16:34:15.588395,Client to Advisor,Email,Understood,Neutral,1,False,23.0
+MSG_000265,CLI_0039,2025-12-02T16:34:15.588436,Client to Advisor,WhatsApp,"Perfect, that makes sense",Positive,4,False,
+MSG_000266,CLI_0025,2025-12-08T16:34:15.588476,Advisor to Client,Email,Not sure what you need,Confused,5,False,
+MSG_000267,CLI_0017,2025-12-14T16:34:15.588514,Client to Advisor,Phone,When do you need them?,Neutral,5,True,22.0
+MSG_000268,CLI_0043,2025-11-28T16:34:15.588556,Client to Advisor,Phone,Getting frustrated with delays,Frustrated,4,False,13.0
+MSG_000269,CLI_0031,2026-01-25T16:34:15.588598,Client to Advisor,Phone,I'll do that,Neutral,3,False,5.0
+MSG_000270,CLI_0017,2025-11-04T16:34:15.588675,Client to Advisor,Phone,"Great, ready to proceed",Positive,4,False,10.0
+MSG_000271,CLI_0016,2025-11-16T16:34:15.588729,Advisor to Client,Email,No problem,Neutral,2,False,8.0
+MSG_000272,CLI_0043,2026-01-06T16:34:15.588772,Advisor to Client,WhatsApp,Don't understand form,Confused,3,False,5.0
+MSG_000273,CLI_0013,2025-11-26T16:34:15.588818,Client to Advisor,Phone,Everything is clear now,Positive,4,False,40.0
+MSG_000274,CLI_0003,2025-11-18T16:34:15.588861,Client to Advisor,Email,Really appreciate the guidance,Positive,4,False,40.0
+MSG_000275,CLI_0001,2026-01-13T16:34:15.588902,Client to Advisor,Phone,When do you need them?,Neutral,5,True,33.0
+MSG_000276,CLI_0041,2025-11-13T16:34:15.588944,Advisor to Client,Email,No problem,Neutral,2,False,
+MSG_000277,CLI_0033,2025-11-06T16:34:15.588983,Advisor to Client,Phone,"Great, ready to proceed",Positive,4,False,
+MSG_000278,CLI_0019,2025-11-10T16:34:15.589025,Client to Advisor,WhatsApp,When do you need them?,Neutral,5,True,
+MSG_000279,CLI_0013,2025-12-17T16:34:15.589064,Advisor to Client,SMS,You've been very helpful,Positive,4,False,
+MSG_000280,CLI_0037,2025-11-27T16:34:15.589103,Client to Advisor,Email,"Great, ready to proceed",Positive,4,False,19.0
+MSG_000281,CLI_0001,2025-11-27T16:34:15.589145,Advisor to Client,SMS,"Great, ready to proceed",Positive,4,False,
+MSG_000282,CLI_0011,2025-12-03T16:34:15.589183,Advisor to Client,SMS,Getting frustrated with delays,Frustrated,4,False,
+MSG_000283,CLI_0008,2025-11-13T16:34:15.589222,Client to Advisor,SMS,Really appreciate the guidance,Positive,4,False,26.0
+MSG_000284,CLI_0019,2026-01-08T16:34:15.589263,Advisor to Client,Phone,I'll get back soon,Neutral,4,False,
+MSG_000285,CLI_0026,2025-12-31T16:34:15.589302,Advisor to Client,Email,Getting frustrated with delays,Frustrated,4,False,44.0
+MSG_000286,CLI_0002,2025-11-17T16:34:15.589344,Client to Advisor,Phone,Don't understand form,Confused,3,False,
+MSG_000287,CLI_0028,2025-12-02T16:34:15.589382,Advisor to Client,SMS,Understood,Neutral,1,False,18.0
+MSG_000288,CLI_0006,2025-12-20T16:34:15.589424,Advisor to Client,Email,No problem,Neutral,2,False,17.0
+MSG_000289,CLI_0050,2025-12-06T16:34:15.589466,Client to Advisor,WhatsApp,Everything is clear now,Positive,4,False,29.0
+MSG_000290,CLI_0022,2025-12-28T16:34:15.589507,Client to Advisor,SMS,"Perfect, that makes sense",Positive,4,False,7.0
+MSG_000291,CLI_0046,2026-01-22T16:34:15.589549,Advisor to Client,SMS,This is ridiculous,Frustrated,3,False,
+MSG_000292,CLI_0025,2026-01-09T16:34:15.589588,Client to Advisor,SMS,I'll get back soon,Neutral,4,False,21.0
+MSG_000293,CLI_0001,2025-12-03T16:34:15.589657,Client to Advisor,Phone,"Perfect, that makes sense",Positive,4,False,27.0
+MSG_000294,CLI_0041,2025-11-23T16:34:15.589750,Client to Advisor,Email,"Great, ready to proceed",Positive,4,False,
+MSG_000295,CLI_0033,2025-12-22T16:34:15.589810,Advisor to Client,Email,"Perfect, that makes sense",Positive,4,False,5.0
+MSG_000296,CLI_0037,2026-01-02T16:34:15.589854,Advisor to Client,Phone,Don't understand form,Confused,3,False,26.0
+MSG_000297,CLI_0039,2026-01-14T16:34:15.589896,Client to Advisor,Email,You've been very helpful,Positive,4,False,
+MSG_000298,CLI_0037,2025-12-24T16:34:15.589935,Client to Advisor,WhatsApp,Understood,Neutral,1,False,32.0
+MSG_000299,CLI_0018,2025-12-09T16:34:15.589981,Client to Advisor,WhatsApp,Really appreciate the guidance,Positive,4,False,35.0
+MSG_000300,CLI_0011,2025-11-25T16:34:15.590023,Client to Advisor,Phone,Thanks so much for your help!,Positive,6,False,
+MSG_000301,CLI_0050,2025-12-25T16:34:15.590062,Client to Advisor,WhatsApp,Just do this please,Frustrated,4,False,3.0
+MSG_000302,CLI_0037,2025-11-15T16:34:15.590103,Client to Advisor,SMS,Not sure what you need,Confused,5,False,
+MSG_000303,CLI_0013,2025-12-07T16:34:15.590142,Client to Advisor,Email,Really appreciate the guidance,Positive,4,False,16.0
+MSG_000304,CLI_0018,2025-12-22T16:34:15.590183,Advisor to Client,SMS,You've been very helpful,Positive,4,False,15.0
+MSG_000305,CLI_0040,2025-11-27T16:34:15.590225,Advisor to Client,Phone,No problem,Neutral,2,False,40.0
+MSG_000306,CLI_0041,2025-11-13T16:34:15.590273,Advisor to Client,Email,This is taking forever,Frustrated,4,False,6.0
+MSG_000307,CLI_0028,2026-01-14T16:34:15.590314,Advisor to Client,WhatsApp,What does this mean?,Confused,4,True,
+MSG_000308,CLI_0050,2026-01-25T16:34:15.590353,Client to Advisor,Phone,Getting frustrated with delays,Frustrated,4,False,2.0
+MSG_000309,CLI_0015,2025-12-11T16:34:15.590395,Advisor to Client,Phone,Understood,Neutral,1,False,6.0
+MSG_000310,CLI_0038,2026-01-15T16:34:15.590437,Advisor to Client,Phone,This is taking forever,Frustrated,4,False,13.0
+MSG_000311,CLI_0035,2026-01-14T16:34:15.590478,Client to Advisor,Email,Everything is clear now,Positive,4,False,41.0
+MSG_000312,CLI_0027,2025-12-18T16:34:15.590523,Advisor to Client,WhatsApp,Why so long?,Frustrated,3,True,38.0
+MSG_000313,CLI_0009,2025-12-11T16:34:15.590565,Client to Advisor,SMS,"Perfect, that makes sense",Positive,4,False,19.0
+MSG_000314,CLI_0023,2025-11-28T16:34:15.590607,Client to Advisor,Email,Why so long?,Frustrated,3,True,
+MSG_000315,CLI_0025,2025-12-16T16:34:15.590688,Advisor to Client,WhatsApp,Why so long?,Frustrated,3,True,11.0
+MSG_000316,CLI_0003,2025-12-14T16:34:15.590737,Advisor to Client,Email,"Ok, I'll send documents",Neutral,4,False,23.0
+MSG_000317,CLI_0045,2025-11-22T16:34:15.590780,Advisor to Client,WhatsApp,You've been very helpful,Positive,4,False,
+MSG_000318,CLI_0020,2025-12-27T16:34:15.590819,Client to Advisor,Email,Thanks so much for your help!,Positive,6,False,
+MSG_000319,CLI_0047,2026-01-18T16:34:15.590858,Advisor to Client,Email,You've been very helpful,Positive,4,False,15.0
+MSG_000320,CLI_0006,2025-11-16T16:34:15.590900,Client to Advisor,Email,I'll do that,Neutral,3,False,16.0
+MSG_000321,CLI_0024,2025-12-09T16:34:15.590941,Client to Advisor,Email,Really appreciate the guidance,Positive,4,False,
+MSG_000322,CLI_0049,2026-01-02T16:34:15.590980,Advisor to Client,SMS,Which document?,Confused,2,True,19.0
+MSG_000323,CLI_0029,2026-01-25T16:34:15.591021,Advisor to Client,WhatsApp,Everything is clear now,Positive,4,False,38.0
+MSG_000324,CLI_0003,2025-11-22T16:34:15.591063,Advisor to Client,WhatsApp,This is taking forever,Frustrated,4,False,
+MSG_000325,CLI_0007,2025-12-24T16:34:15.591102,Advisor to Client,Phone,When do you need them?,Neutral,5,True,5.0
+MSG_000326,CLI_0029,2026-01-06T16:34:15.591143,Client to Advisor,SMS,No problem,Neutral,2,False,
+MSG_000327,CLI_0030,2026-01-29T16:34:15.591182,Client to Advisor,SMS,I'll get back soon,Neutral,4,False,9.0
+MSG_000328,CLI_0041,2025-11-24T16:34:15.591223,Client to Advisor,WhatsApp,Just do this please,Frustrated,4,False,8.0
+MSG_000329,CLI_0032,2026-01-19T16:34:15.591264,Client to Advisor,Email,Understood,Neutral,1,False,8.0
+MSG_000330,CLI_0029,2025-11-07T16:34:15.591306,Client to Advisor,Phone,"Great, ready to proceed",Positive,4,False,41.0
+MSG_000331,CLI_0002,2025-11-25T16:34:15.591347,Client to Advisor,Email,Everything is clear now,Positive,4,False,25.0
+MSG_000332,CLI_0030,2026-01-15T16:34:15.591393,Advisor to Client,Phone,Everything is clear now,Positive,4,False,20.0
+MSG_000333,CLI_0045,2026-01-30T16:34:15.591434,Client to Advisor,SMS,Everything is clear now,Positive,4,False,13.0
+MSG_000334,CLI_0036,2025-11-21T16:34:15.591476,Advisor to Client,SMS,"Great, ready to proceed",Positive,4,False,10.0
+MSG_000335,CLI_0044,2026-01-09T16:34:15.591517,Client to Advisor,Phone,This is taking forever,Frustrated,4,False,29.0
+MSG_000336,CLI_0041,2025-12-29T16:34:15.591558,Client to Advisor,Phone,"Great, ready to proceed",Positive,4,False,
+MSG_000337,CLI_0008,2025-11-11T16:34:15.591599,Client to Advisor,SMS,Getting frustrated with delays,Frustrated,4,False,25.0
+MSG_000338,CLI_0021,2025-11-05T16:34:15.591688,Client to Advisor,SMS,Really appreciate the guidance,Positive,4,False,12.0
+MSG_000339,CLI_0007,2026-01-06T16:34:15.591771,Client to Advisor,WhatsApp,What does this mean?,Confused,4,True,37.0
+MSG_000340,CLI_0047,2025-11-21T16:34:15.591845,Advisor to Client,WhatsApp,Thanks so much for your help!,Positive,6,False,19.0
+MSG_000341,CLI_0025,2025-11-30T16:34:15.591924,Client to Advisor,Phone,Why so long?,Frustrated,3,True,6.0
+MSG_000342,CLI_0008,2025-11-07T16:34:15.592000,Advisor to Client,WhatsApp,Thanks so much for your help!,Positive,6,False,4.0
+MSG_000343,CLI_0047,2025-12-07T16:34:15.592077,Client to Advisor,SMS,"Perfect, that makes sense",Positive,4,False,16.0
+MSG_000344,CLI_0017,2025-11-18T16:34:15.592217,Advisor to Client,Email,Really appreciate the guidance,Positive,4,False,23.0
+MSG_000345,CLI_0041,2025-11-14T16:34:15.592320,Advisor to Client,WhatsApp,Really appreciate the guidance,Positive,4,False,23.0
+MSG_000346,CLI_0017,2025-12-27T16:34:15.592420,Client to Advisor,Phone,This is taking forever,Frustrated,4,False,33.0
+MSG_000347,CLI_0031,2026-01-10T16:34:15.592516,Client to Advisor,Phone,Why so long?,Frustrated,3,True,
+MSG_000348,CLI_0029,2025-11-05T16:34:15.592608,Client to Advisor,WhatsApp,Can you clarify?,Confused,3,True,
+MSG_000349,CLI_0001,2025-11-17T16:34:15.592747,Advisor to Client,Email,Really appreciate the guidance,Positive,4,False,
+MSG_000350,CLI_0004,2025-12-06T16:34:15.592846,Advisor to Client,Phone,What does this mean?,Confused,4,True,14.0
+MSG_000351,CLI_0016,2025-11-12T16:34:15.592948,Advisor to Client,SMS,This is taking forever,Frustrated,4,False,2.0
+MSG_000352,CLI_0039,2026-01-16T16:34:15.593032,Advisor to Client,Email,Everything is clear now,Positive,4,False,23.0
+MSG_000353,CLI_0021,2025-11-25T16:34:15.593115,Client to Advisor,WhatsApp,Thanks so much for your help!,Positive,6,False,
+MSG_000354,CLI_0045,2025-12-02T16:34:15.593191,Advisor to Client,WhatsApp,Thanks so much for your help!,Positive,6,False,12.0
+MSG_000355,CLI_0002,2025-11-24T16:34:15.593273,Advisor to Client,Phone,I'll get back soon,Neutral,4,False,
+MSG_000356,CLI_0004,2026-01-10T16:34:15.593348,Client to Advisor,SMS,No problem,Neutral,2,False,42.0
+MSG_000357,CLI_0010,2026-01-27T16:34:15.593429,Advisor to Client,SMS,Thanks so much for your help!,Positive,6,False,47.0
+MSG_000358,CLI_0025,2026-01-28T16:34:15.593510,Advisor to Client,WhatsApp,Really appreciate the guidance,Positive,4,False,35.0
+MSG_000359,CLI_0010,2025-12-20T16:34:15.593591,Advisor to Client,Phone,Just do this please,Frustrated,4,False,19.0
+MSG_000360,CLI_0034,2025-12-22T16:34:15.593730,Client to Advisor,WhatsApp,"Ok, I'll send documents",Neutral,4,False,
+MSG_000361,CLI_0031,2025-12-04T16:34:15.593803,Client to Advisor,Phone,I'll do that,Neutral,3,False,26.0
+MSG_000362,CLI_0040,2025-12-06T16:34:15.593881,Advisor to Client,Email,You've been very helpful,Positive,4,False,
+MSG_000363,CLI_0043,2025-12-16T16:34:15.593958,Client to Advisor,Phone,Thanks so much for your help!,Positive,6,False,
+MSG_000364,CLI_0019,2025-12-07T16:34:15.594033,Advisor to Client,Email,Really appreciate the guidance,Positive,4,False,17.0
+MSG_000365,CLI_0010,2026-01-15T16:34:15.594114,Advisor to Client,Email,"Great, ready to proceed",Positive,4,False,
+MSG_000366,CLI_0026,2026-01-03T16:34:15.594190,Advisor to Client,Phone,"Perfect, that makes sense",Positive,4,False,32.0
+MSG_000367,CLI_0006,2026-01-14T16:34:15.594271,Client to Advisor,Email,Thanks so much for your help!,Positive,6,False,26.0
+MSG_000368,CLI_0046,2025-11-30T16:34:15.594357,Client to Advisor,SMS,"Ok, I'll send documents",Neutral,4,False,20.0
+MSG_000369,CLI_0007,2026-01-03T16:34:15.594438,Advisor to Client,Phone,This is ridiculous,Frustrated,3,False,20.0
+MSG_000370,CLI_0026,2026-01-20T16:34:15.594520,Client to Advisor,SMS,Understood,Neutral,1,False,34.0
+MSG_000371,CLI_0007,2026-01-07T16:34:15.594602,Advisor to Client,WhatsApp,Thanks so much for your help!,Positive,6,False,
+MSG_000372,CLI_0022,2025-11-14T16:34:15.594731,Advisor to Client,Email,When do you need them?,Neutral,5,True,29.0
+MSG_000373,CLI_0032,2025-11-24T16:34:15.594816,Advisor to Client,Phone,I'll do that,Neutral,3,False,
+MSG_000374,CLI_0035,2025-12-07T16:34:15.594886,Advisor to Client,SMS,This is taking forever,Frustrated,4,False,15.0
+MSG_000375,CLI_0005,2026-01-29T16:34:15.594962,Client to Advisor,WhatsApp,"Perfect, that makes sense",Positive,4,False,28.0
+MSG_000376,CLI_0030,2025-12-27T16:34:15.595036,Client to Advisor,Phone,You've been very helpful,Positive,4,False,40.0
+MSG_000377,CLI_0017,2026-01-24T16:34:15.595109,Advisor to Client,Email,Not sure what you need,Confused,5,False,
+MSG_000378,CLI_0031,2025-12-15T16:34:15.595176,Client to Advisor,Phone,When do you need them?,Neutral,5,True,10.0
+MSG_000379,CLI_0039,2025-12-15T16:34:15.595250,Client to Advisor,WhatsApp,No problem,Neutral,2,False,
+MSG_000380,CLI_0014,2025-11-19T16:34:15.595317,Client to Advisor,Email,No problem,Neutral,2,False,10.0
+MSG_000381,CLI_0019,2026-01-23T16:34:15.595388,Client to Advisor,Email,Thanks so much for your help!,Positive,6,False,
+MSG_000382,CLI_0024,2026-01-26T16:34:15.595454,Advisor to Client,WhatsApp,Can you clarify?,Confused,3,True,12.0
+MSG_000383,CLI_0042,2025-11-19T16:34:15.595527,Advisor to Client,SMS,"Perfect, that makes sense",Positive,4,False,24.0
+MSG_000384,CLI_0005,2026-01-20T16:34:15.595598,Advisor to Client,WhatsApp,When do you need them?,Neutral,5,True,2.0
+MSG_000385,CLI_0050,2026-01-23T16:34:15.595723,Advisor to Client,Phone,This is taking forever,Frustrated,4,False,
+MSG_000386,CLI_0005,2026-01-10T16:34:15.595795,Advisor to Client,WhatsApp,You've been very helpful,Positive,4,False,31.0
+MSG_000387,CLI_0003,2025-11-11T16:34:15.595868,Advisor to Client,Email,I'll do that,Neutral,3,False,3.0
+MSG_000388,CLI_0023,2025-12-05T16:34:15.595942,Advisor to Client,WhatsApp,Thanks so much for your help!,Positive,6,False,39.0
+MSG_000389,CLI_0025,2025-12-26T16:34:15.596013,Advisor to Client,Email,"Ok, I'll send documents",Neutral,4,False,16.0
+MSG_000390,CLI_0024,2025-12-23T16:34:15.596088,Client to Advisor,WhatsApp,Don't understand form,Confused,3,False,6.0
+MSG_000391,CLI_0005,2025-12-21T16:34:15.596219,Advisor to Client,Email,This is ridiculous,Frustrated,3,False,8.0
+MSG_000392,CLI_0024,2025-11-08T16:34:15.596299,Client to Advisor,SMS,Understood,Neutral,1,False,44.0
+MSG_000393,CLI_0045,2025-12-30T16:34:15.596372,Client to Advisor,Phone,Really appreciate the guidance,Positive,4,False,44.0
+MSG_000394,CLI_0008,2025-12-10T16:34:15.596446,Advisor to Client,Phone,When do you need them?,Neutral,5,True,
+MSG_000395,CLI_0009,2026-01-20T16:34:15.596515,Advisor to Client,SMS,"Ok, I'll send documents",Neutral,4,False,41.0
+MSG_000396,CLI_0029,2025-11-29T16:34:15.596604,Advisor to Client,Email,Thanks so much for your help!,Positive,6,False,16.0
+MSG_000397,CLI_0006,2025-12-25T16:34:15.596734,Client to Advisor,Phone,When do you need them?,Neutral,5,True,7.0
+MSG_000398,CLI_0022,2025-12-11T16:34:15.596810,Client to Advisor,SMS,"Perfect, that makes sense",Positive,4,False,18.0
+MSG_000399,CLI_0035,2025-12-21T16:34:15.596884,Client to Advisor,WhatsApp,Understood,Neutral,1,False,39.0
+MSG_000400,CLI_0008,2025-12-18T16:34:15.596972,Advisor to Client,WhatsApp,"Perfect, that makes sense",Positive,4,False,
+MSG_000401,CLI_0049,2026-01-10T16:34:15.597057,Advisor to Client,Phone,You've been very helpful,Positive,4,False,25.0
+MSG_000402,CLI_0044,2026-01-26T16:34:15.597133,Advisor to Client,WhatsApp,"Perfect, that makes sense",Positive,4,False,9.0
+MSG_000403,CLI_0048,2025-12-23T16:34:15.597204,Client to Advisor,Email,Just do this please,Frustrated,4,False,5.0
+MSG_000404,CLI_0042,2026-01-18T16:34:15.597275,Client to Advisor,Email,This is ridiculous,Frustrated,3,False,
+MSG_000405,CLI_0007,2025-11-06T16:34:15.597344,Advisor to Client,SMS,Understood,Neutral,1,False,4.0
+MSG_000406,CLI_0044,2025-12-03T16:34:15.597416,Advisor to Client,Phone,Everything is clear now,Positive,4,False,8.0
+MSG_000407,CLI_0043,2025-11-24T16:34:15.597487,Advisor to Client,SMS,Getting frustrated with delays,Frustrated,4,False,26.0
+MSG_000408,CLI_0047,2025-12-23T16:34:15.597558,Client to Advisor,WhatsApp,Understood,Neutral,1,False,32.0
+MSG_000409,CLI_0016,2026-01-21T16:34:15.597627,Client to Advisor,Phone,"Great, ready to proceed",Positive,4,False,
+MSG_000410,CLI_0032,2026-01-29T16:34:15.597770,Advisor to Client,Phone,How do I do this?,Confused,5,True,20.0
+MSG_000411,CLI_0047,2025-12-18T16:34:15.597853,Client to Advisor,Phone,Everything is clear now,Positive,4,False,44.0
+MSG_000412,CLI_0046,2026-01-24T16:34:15.597931,Advisor to Client,SMS,"Great, ready to proceed",Positive,4,False,
+MSG_000413,CLI_0018,2025-12-08T16:34:15.597999,Client to Advisor,Email,"Ok, I'll send documents",Neutral,4,False,15.0
+MSG_000414,CLI_0035,2025-11-06T16:34:15.598073,Client to Advisor,WhatsApp,This is ridiculous,Frustrated,3,False,14.0
+MSG_000415,CLI_0030,2025-12-16T16:34:15.598151,Advisor to Client,WhatsApp,Everything is clear now,Positive,4,False,
+MSG_000416,CLI_0033,2026-01-12T16:34:15.598225,Client to Advisor,Phone,You've been very helpful,Positive,4,False,29.0
+MSG_000417,CLI_0030,2025-12-16T16:34:15.598307,Client to Advisor,SMS,Thanks so much for your help!,Positive,6,False,9.0
+MSG_000418,CLI_0024,2025-12-19T16:34:15.598392,Client to Advisor,WhatsApp,Which document?,Confused,2,True,41.0
+MSG_000419,CLI_0014,2025-12-02T16:34:15.598470,Advisor to Client,Email,Don't understand form,Confused,3,False,29.0
+MSG_000420,CLI_0027,2025-11-25T16:34:15.598538,Advisor to Client,Email,Really appreciate the guidance,Positive,4,False,
+MSG_000421,CLI_0001,2025-12-12T16:34:15.598602,Client to Advisor,WhatsApp,You've been very helpful,Positive,4,False,
+MSG_000422,CLI_0010,2025-12-04T16:34:15.598721,Advisor to Client,Email,I'll do that,Neutral,3,False,
+MSG_000423,CLI_0022,2025-11-08T16:34:15.598791,Client to Advisor,SMS,Not sure what you need,Confused,5,False,7.0
+MSG_000424,CLI_0042,2025-12-15T16:34:15.598860,Client to Advisor,Email,You've been very helpful,Positive,4,False,35.0
+MSG_000425,CLI_0020,2025-12-12T16:34:15.598932,Advisor to Client,SMS,"Perfect, that makes sense",Positive,4,False,37.0
+MSG_000426,CLI_0006,2026-01-24T16:34:15.599002,Client to Advisor,WhatsApp,Really appreciate the guidance,Positive,4,False,31.0
+MSG_000427,CLI_0021,2025-12-28T16:34:15.599070,Client to Advisor,WhatsApp,No problem,Neutral,2,False,42.0
+MSG_000428,CLI_0047,2025-11-25T16:34:15.599156,Client to Advisor,Phone,"Great, ready to proceed",Positive,4,False,33.0
+MSG_000429,CLI_0024,2026-01-02T16:34:15.599213,Advisor to Client,WhatsApp,Just do this please,Frustrated,4,False,36.0
+MSG_000430,CLI_0038,2026-01-09T16:34:15.599259,Advisor to Client,Email,Just do this please,Frustrated,4,False,
+MSG_000431,CLI_0015,2025-12-14T16:34:15.599299,Client to Advisor,WhatsApp,Can you clarify?,Confused,3,True,44.0
+MSG_000432,CLI_0016,2026-01-05T16:34:15.599341,Client to Advisor,Email,You've been very helpful,Positive,4,False,9.0
+MSG_000433,CLI_0043,2025-12-21T16:34:15.599382,Advisor to Client,Email,"Perfect, that makes sense",Positive,4,False,41.0
+MSG_000434,CLI_0028,2026-01-28T16:34:15.599424,Client to Advisor,SMS,"Great, ready to proceed",Positive,4,False,
+MSG_000435,CLI_0050,2025-11-11T16:34:15.599463,Advisor to Client,Email,Everything is clear now,Positive,4,False,
+MSG_000436,CLI_0028,2026-01-29T16:34:15.599501,Client to Advisor,Phone,Everything is clear now,Positive,4,False,
+MSG_000437,CLI_0049,2025-11-24T16:34:15.599540,Client to Advisor,WhatsApp,This is taking forever,Frustrated,4,False,28.0
+MSG_000438,CLI_0003,2025-12-04T16:34:15.599581,Client to Advisor,WhatsApp,This is ridiculous,Frustrated,3,False,1.0
+MSG_000439,CLI_0009,2026-01-29T16:34:15.599623,Client to Advisor,SMS,Thanks so much for your help!,Positive,6,False,26.0
+MSG_000440,CLI_0023,2025-11-04T16:34:15.599709,Advisor to Client,SMS,Why so long?,Frustrated,3,True,41.0
+MSG_000441,CLI_0010,2025-12-10T16:34:15.599755,Client to Advisor,SMS,This is ridiculous,Frustrated,3,False,
+MSG_000442,CLI_0014,2026-01-06T16:34:15.599795,Client to Advisor,Email,Don't understand form,Confused,3,False,
+MSG_000443,CLI_0001,2025-12-06T16:34:15.599834,Client to Advisor,WhatsApp,Why so long?,Frustrated,3,True,34.0
+MSG_000444,CLI_0032,2026-01-06T16:34:15.599876,Client to Advisor,Phone,You've been very helpful,Positive,4,False,47.0
+MSG_000445,CLI_0042,2025-12-25T16:34:15.599918,Advisor to Client,Email,Thanks so much for your help!,Positive,6,False,
+MSG_000446,CLI_0043,2026-01-22T16:34:15.599957,Client to Advisor,WhatsApp,I'll do that,Neutral,3,False,26.0
+MSG_000447,CLI_0024,2026-01-28T16:34:15.599998,Client to Advisor,Email,No problem,Neutral,2,False,34.0
+MSG_000448,CLI_0037,2025-12-03T16:34:15.600040,Advisor to Client,Phone,Not sure what you need,Confused,5,False,44.0
+MSG_000449,CLI_0044,2025-12-29T16:34:15.600085,Client to Advisor,Email,Understood,Neutral,1,False,26.0
+MSG_000450,CLI_0016,2025-12-28T16:34:15.600159,Client to Advisor,SMS,What does this mean?,Confused,4,True,
+MSG_000451,CLI_0008,2025-12-25T16:34:15.600219,Client to Advisor,WhatsApp,Can you clarify?,Confused,3,True,18.0
+MSG_000452,CLI_0046,2026-01-22T16:34:15.600263,Client to Advisor,Phone,Really appreciate the guidance,Positive,4,False,3.0
+MSG_000453,CLI_0007,2026-01-13T16:34:15.600311,Advisor to Client,Email,Really appreciate the guidance,Positive,4,False,37.0
+MSG_000454,CLI_0023,2025-12-20T16:34:15.600354,Client to Advisor,Phone,"Perfect, that makes sense",Positive,4,False,28.0
+MSG_000455,CLI_0019,2025-12-24T16:34:15.600398,Advisor to Client,Email,"Great, ready to proceed",Positive,4,False,40.0
+MSG_000456,CLI_0033,2026-01-04T16:34:15.600440,Advisor to Client,SMS,Everything is clear now,Positive,4,False,3.0
+MSG_000457,CLI_0007,2025-11-17T16:34:15.600483,Client to Advisor,Email,When do you need them?,Neutral,5,True,10.0
+MSG_000458,CLI_0022,2025-11-07T16:34:15.600527,Advisor to Client,Email,Thanks so much for your help!,Positive,6,False,15.0
+MSG_000459,CLI_0022,2025-12-03T16:34:15.600569,Advisor to Client,SMS,"Perfect, that makes sense",Positive,4,False,35.0
+MSG_000460,CLI_0042,2025-12-19T16:34:15.600611,Client to Advisor,Phone,I've sent this twice!,Frustrated,4,False,25.0
+MSG_000461,CLI_0036,2026-01-30T16:34:15.600696,Client to Advisor,Phone,"Perfect, that makes sense",Positive,4,False,12.0
+MSG_000462,CLI_0044,2025-12-14T16:34:15.600746,Advisor to Client,Phone,I've sent this twice!,Frustrated,4,False,11.0
+MSG_000463,CLI_0013,2025-11-21T16:34:15.600790,Advisor to Client,Phone,Really appreciate the guidance,Positive,4,False,7.0
+MSG_000464,CLI_0014,2025-12-20T16:34:15.600833,Advisor to Client,Email,Thanks so much for your help!,Positive,6,False,28.0
+MSG_000465,CLI_0035,2026-01-17T16:34:15.600876,Advisor to Client,Email,I'll get back soon,Neutral,4,False,36.0
+MSG_000466,CLI_0003,2025-12-16T16:34:15.600919,Client to Advisor,SMS,"Ok, I'll send documents",Neutral,4,False,17.0
+MSG_000467,CLI_0014,2025-11-19T16:34:15.600962,Client to Advisor,Phone,Just do this please,Frustrated,4,False,25.0
+MSG_000468,CLI_0022,2026-01-11T16:34:15.601007,Advisor to Client,Phone,I'll get back soon,Neutral,4,False,
+MSG_000469,CLI_0026,2026-01-31T16:34:15.601047,Client to Advisor,Email,No problem,Neutral,2,False,
+MSG_000470,CLI_0009,2025-12-04T16:34:15.601086,Advisor to Client,SMS,"Perfect, that makes sense",Positive,4,False,6.0
+MSG_000471,CLI_0016,2025-12-17T16:34:15.601128,Advisor to Client,SMS,Not sure what you need,Confused,5,False,42.0
+MSG_000472,CLI_0030,2025-12-10T16:34:15.601171,Client to Advisor,Email,This is taking forever,Frustrated,4,False,8.0
+MSG_000473,CLI_0023,2025-12-10T16:34:15.601212,Client to Advisor,Phone,I'll do that,Neutral,3,False,16.0
+MSG_000474,CLI_0017,2025-12-11T16:34:15.601254,Advisor to Client,Phone,Understood,Neutral,1,False,
+MSG_000475,CLI_0020,2025-12-05T16:34:15.601293,Client to Advisor,Email,"Ok, I'll send documents",Neutral,4,False,40.0
+MSG_000476,CLI_0006,2025-11-21T16:34:15.601335,Advisor to Client,Phone,Understood,Neutral,1,False,5.0
+MSG_000477,CLI_0041,2025-11-13T16:34:15.601378,Client to Advisor,WhatsApp,You've been very helpful,Positive,4,False,27.0
+MSG_000478,CLI_0014,2025-12-30T16:34:15.601419,Advisor to Client,Phone,Thanks so much for your help!,Positive,6,False,36.0
+MSG_000479,CLI_0007,2025-12-24T16:34:15.601461,Client to Advisor,Phone,I'll do that,Neutral,3,False,24.0
+MSG_000480,CLI_0040,2025-11-19T16:34:15.601503,Advisor to Client,WhatsApp,Just do this please,Frustrated,4,False,6.0
+MSG_000481,CLI_0024,2025-11-17T16:34:15.601544,Advisor to Client,WhatsApp,Everything is clear now,Positive,4,False,
+MSG_000482,CLI_0018,2026-01-02T16:34:15.601583,Client to Advisor,Email,Which document?,Confused,2,True,13.0
+MSG_000483,CLI_0034,2026-01-07T16:34:15.601625,Advisor to Client,Phone,No problem,Neutral,2,False,
+MSG_000484,CLI_0005,2025-12-31T16:34:15.601717,Client to Advisor,SMS,What does this mean?,Confused,4,True,22.0
+MSG_000485,CLI_0013,2025-11-05T16:34:15.601799,Advisor to Client,SMS,Thanks so much for your help!,Positive,6,False,
+MSG_000486,CLI_0037,2025-12-17T16:34:15.601843,Client to Advisor,SMS,You've been very helpful,Positive,4,False,26.0
+MSG_000487,CLI_0040,2025-12-17T16:34:15.601885,Client to Advisor,SMS,Why so long?,Frustrated,3,True,8.0
+MSG_000488,CLI_0003,2025-11-06T16:34:15.601934,Advisor to Client,WhatsApp,No problem,Neutral,2,False,12.0
+MSG_000489,CLI_0047,2025-12-04T16:34:15.601977,Client to Advisor,WhatsApp,Everything is clear now,Positive,4,False,47.0
+MSG_000490,CLI_0031,2025-11-04T16:34:15.602019,Client to Advisor,Email,"Great, ready to proceed",Positive,4,False,16.0
+MSG_000491,CLI_0044,2026-01-26T16:34:15.602061,Advisor to Client,Email,I'll get back soon,Neutral,4,False,4.0
+MSG_000492,CLI_0030,2026-01-23T16:34:15.602102,Client to Advisor,Email,Why so long?,Frustrated,3,True,
+MSG_000493,CLI_0033,2025-12-06T16:34:15.602142,Advisor to Client,Email,You've been very helpful,Positive,4,False,4.0
+MSG_000494,CLI_0020,2025-11-15T16:34:15.602184,Advisor to Client,Email,Everything is clear now,Positive,4,False,41.0
+MSG_000495,CLI_0038,2025-12-08T16:34:15.602226,Advisor to Client,Phone,What does this mean?,Confused,4,True,42.0
+MSG_000496,CLI_0040,2025-11-04T16:34:15.602268,Client to Advisor,Phone,I've sent this twice!,Frustrated,4,False,13.0
+MSG_000497,CLI_0019,2025-12-04T16:34:15.602309,Client to Advisor,Email,Thanks so much for your help!,Positive,6,False,38.0
+MSG_000498,CLI_0043,2026-01-26T16:34:15.602351,Client to Advisor,WhatsApp,I'll get back soon,Neutral,4,False,43.0
+MSG_000499,CLI_0012,2026-01-26T16:34:15.602393,Client to Advisor,SMS,Understood,Neutral,1,False,40.0
+MSG_000500,CLI_0008,2025-12-29T16:34:15.602435,Advisor to Client,WhatsApp,I've sent this twice!,Frustrated,4,False,35.0

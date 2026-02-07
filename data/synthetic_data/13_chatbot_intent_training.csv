@@ -1,0 +1,301 @@
+client_message,document_requested,document_received,document_correct,follow_up_needed,intent,client_sentiment,channel,message_length,has_question
+"Bank won't give statement, what now?",P60,True,True,True,document_submission,Confused,Phone,6,True
+Is this urgent?,Pension Statement,True,True,False,document_submission,Helpful,SMS,3,True
+I can't find my pension statement,Driving Licence,True,True,False,document_submission,Helpful,WhatsApp,6,False
+I'm not sure what documents I need,Driving Licence,True,True,True,document_submission,Helpful,SMS,7,False
+I've attached my bank statement,Council Tax,True,True,True,document_submission,Helpful,WhatsApp,5,False
+I can't find my pension statement,Pension Statement,True,False,False,document_submission,Frustrated,Phone,6,False
+Does the utility bill need to be in my name?,Pension Statement,False,True,False,document_clarification,Neutral,Phone,10,True
+I've attached my bank statement,Driving Licence,True,True,True,document_submission,Frustrated,Phone,5,False
+"I found my P60 from 2023, will that work?",Passport,False,False,False,document_clarification,Frustrated,SMS,9,True
+Does the utility bill need to be in my name?,Pension Statement,True,True,False,document_submission,Neutral,Phone,10,True
+Is this urgent?,Driving Licence,False,True,False,document_clarification,Frustrated,SMS,3,True
+Documents requested - I've scanned them,Council Tax,True,True,False,document_submission,Neutral,Phone,6,False
+"My driving licence is expired, is that ok?",Pension Statement,False,True,False,document_clarification,Neutral,SMS,8,True
+Do you need all of these?,Driving Licence,False,True,False,document_clarification,Helpful,WhatsApp,6,True
+I don't have a recent payslip,Investment Statement,False,False,True,document_clarification,Neutral,Phone,6,False
+How do I prove address?,Utility Bill,True,True,False,document_submission,Neutral,WhatsApp,5,True
+How do I prove address?,Utility Bill,True,True,False,document_submission,Frustrated,WhatsApp,5,True
+Hope this is everything,Mortgage Statement,True,True,False,document_submission,Neutral,Phone,4,False
+Can you remind me what you need?,P60,True,True,True,document_submission,Neutral,SMS,7,True
+I don't have a recent payslip,Council Tax,True,True,False,document_submission,Confused,SMS,6,False
+I've attached my bank statement,Driving Licence,True,True,False,document_submission,Helpful,WhatsApp,5,False
+Does the utility bill need to be in my name?,Council Tax,True,True,True,document_submission,Neutral,SMS,10,True
+Does the utility bill need to be in my name?,Mortgage Statement,True,True,False,document_submission,Neutral,WhatsApp,10,True
+I've sent everything,Passport,True,True,True,document_submission,Frustrated,SMS,3,False
+I'm not sure what documents I need,Council Tax,False,True,False,document_clarification,Confused,Phone,7,False
+I'm not sure what documents I need,Investment Statement,False,False,False,document_clarification,Confused,WhatsApp,7,False
+"I found my P60 from 2023, will that work?",P60,True,True,False,document_submission,Frustrated,Phone,9,True
+"My driving licence is expired, is that ok?",Bank Statement,True,True,False,document_submission,Frustrated,Phone,8,True
+Can you remind me what you need?,Driving Licence,True,True,True,document_submission,Neutral,SMS,7,True
+I don't have a recent payslip,Passport,True,False,False,document_submission,Neutral,Phone,6,False
+I don't have a recent payslip,Pension Statement,True,True,False,document_submission,Confused,Phone,6,False
+Can you remind me what you need?,Driving Licence,False,True,False,document_clarification,Neutral,WhatsApp,7,True
+"Sorry, I've been busy",Investment Statement,True,True,False,document_submission,Neutral,WhatsApp,4,False
+"I found my P60 from 2023, will that work?",Mortgage Statement,False,True,False,document_clarification,Frustrated,Phone,9,True
+I don't have a recent payslip,Utility Bill,True,True,False,document_submission,Neutral,WhatsApp,6,False
+Still need documents?,Pension Statement,True,True,True,document_submission,Confused,SMS,3,True
+Documents requested - I've scanned them,Payslip,True,True,False,document_submission,Helpful,Phone,6,False
+Documents requested - I've scanned them,P60,True,True,False,document_submission,Helpful,Phone,6,False
+"Sorry, I've been busy",Passport,True,True,True,document_submission,Neutral,SMS,4,False
+Can you remind me what you need?,Bank Statement,True,True,True,document_submission,Frustrated,Phone,7,True
+How do I prove address?,Council Tax,False,True,False,document_clarification,Neutral,WhatsApp,5,True
+Hope this is everything,Driving Licence,True,False,True,document_submission,Helpful,Email,4,False
+Hope this is everything,Passport,True,True,False,document_submission,Neutral,Phone,4,False
+I don't have a recent payslip,Council Tax,True,True,True,document_submission,Helpful,WhatsApp,6,False
+I've lost some documents,Driving Licence,True,True,True,document_submission,Confused,WhatsApp,4,False
+Still need documents?,P60,True,True,False,document_submission,Helpful,SMS,3,True
+Hope this is everything,Mortgage Statement,False,False,False,document_clarification,Confused,Phone,4,False
+I've lost some documents,Pension Statement,False,False,False,document_clarification,Neutral,WhatsApp,4,False
+I've sent everything,Utility Bill,False,True,False,document_clarification,Helpful,Email,3,False
+"I found my P60 from 2023, will that work?",Council Tax,True,False,False,document_submission,Frustrated,Phone,9,True
+Does the utility bill need to be in my name?,Pension Statement,False,False,False,document_clarification,Neutral,SMS,10,True
+Is this urgent?,Payslip,True,True,True,document_submission,Helpful,Phone,3,True
+I've sent everything,Investment Statement,False,True,False,document_clarification,Confused,Email,3,False
+Can I send via WhatsApp?,Pension Statement,True,False,False,document_submission,Frustrated,Email,5,True
+"I found my P60 from 2023, will that work?",Payslip,False,True,True,document_clarification,Neutral,SMS,9,True
+I don't have a recent payslip,Passport,True,True,False,document_submission,Frustrated,Phone,6,False
+Can I send via WhatsApp?,Pension Statement,True,True,False,document_submission,Confused,WhatsApp,5,True
+I don't have a recent payslip,Payslip,False,True,True,document_clarification,Confused,SMS,6,False
+"Bank won't give statement, what now?",Investment Statement,True,True,False,document_submission,Helpful,Email,6,True
+Can I send via WhatsApp?,Utility Bill,True,True,True,document_submission,Frustrated,SMS,5,True
+Hope this is everything,Mortgage Statement,True,False,True,document_submission,Neutral,Email,4,False
+"My driving licence is expired, is that ok?",Council Tax,True,True,False,document_submission,Helpful,WhatsApp,8,True
+Hope this is everything,Council Tax,True,True,True,document_submission,Neutral,Phone,4,False
+"Sorry, I've been busy",Utility Bill,False,True,False,document_clarification,Neutral,SMS,4,False
+I've attached my bank statement,Driving Licence,True,True,True,document_submission,Helpful,Phone,5,False
+Do you need all of these?,Investment Statement,False,True,True,document_clarification,Neutral,SMS,6,True
+"Sorry, I've been busy",P60,False,True,False,document_clarification,Helpful,Phone,4,False
+Still need documents?,Payslip,True,True,False,document_submission,Frustrated,WhatsApp,3,True
+I've uploaded documents to portal,Passport,True,True,False,document_submission,Frustrated,WhatsApp,5,False
+Hope this is everything,Pension Statement,True,True,False,document_submission,Neutral,Phone,4,False
+I'm not sure what documents I need,P60,True,True,False,document_submission,Frustrated,SMS,7,False
+Can I send via WhatsApp?,Mortgage Statement,False,True,True,document_clarification,Helpful,SMS,5,True
+I've sent everything,Driving Licence,False,False,False,document_clarification,Confused,Phone,3,False
+Can I send via WhatsApp?,Bank Statement,True,False,False,document_submission,Helpful,Phone,5,True
+Is this urgent?,Driving Licence,False,True,True,document_clarification,Helpful,WhatsApp,3,True
+I've lost some documents,Pension Statement,True,True,False,document_submission,Frustrated,WhatsApp,4,False
+Do you need all of these?,Investment Statement,True,True,True,document_submission,Frustrated,WhatsApp,6,True
+Can you remind me what you need?,Investment Statement,True,True,False,document_submission,Neutral,SMS,7,True
+Does the utility bill need to be in my name?,Driving Licence,True,True,False,document_submission,Neutral,Phone,10,True
+Hope this is everything,Investment Statement,True,True,False,document_submission,Confused,Email,4,False
+How do I prove address?,Passport,False,False,False,document_clarification,Neutral,Phone,5,True
+Can you remind me what you need?,Driving Licence,True,True,True,document_submission,Confused,Email,7,True
+I've sent everything,Mortgage Statement,True,True,False,document_submission,Helpful,SMS,3,False
+I've lost some documents,Bank Statement,True,True,True,document_submission,Helpful,SMS,4,False
+"My driving licence is expired, is that ok?",P60,True,False,False,document_submission,Helpful,Phone,8,True
+I've lost some documents,Council Tax,True,True,False,document_submission,Neutral,Phone,4,False
+"My driving licence is expired, is that ok?",Passport,False,True,True,document_clarification,Helpful,SMS,8,True
+I can't find my pension statement,Mortgage Statement,True,False,True,document_submission,Confused,WhatsApp,6,False
+Does the utility bill need to be in my name?,Mortgage Statement,True,True,False,document_submission,Frustrated,Email,10,True
+Still need documents?,Pension Statement,False,True,False,document_clarification,Helpful,WhatsApp,3,True
+Can I send via WhatsApp?,Mortgage Statement,True,True,False,document_submission,Helpful,Email,5,True
+How do I prove address?,Driving Licence,True,True,False,document_submission,Helpful,Phone,5,True
+Do you need all of these?,Investment Statement,True,True,False,document_submission,Frustrated,SMS,6,True
+Documents requested - I've scanned them,Passport,False,True,False,document_clarification,Helpful,Email,6,False
+I don't have a recent payslip,Council Tax,True,True,False,document_submission,Confused,Email,6,False
+I've attached my bank statement,Driving Licence,False,True,True,document_clarification,Neutral,SMS,5,False
+"I found my P60 from 2023, will that work?",Mortgage Statement,True,True,False,document_submission,Neutral,SMS,9,True
+I've sent everything,Council Tax,True,True,True,document_submission,Helpful,WhatsApp,3,False
+Still need documents?,Investment Statement,True,True,True,document_submission,Confused,Phone,3,True
+I've uploaded documents to portal,Bank Statement,True,True,False,document_submission,Confused,Phone,5,False
+Documents requested - I've scanned them,Driving Licence,True,True,False,document_submission,Frustrated,Phone,6,False
+Can I send via WhatsApp?,Passport,True,False,True,document_submission,Frustrated,Email,5,True
+"My driving licence is expired, is that ok?",Utility Bill,True,True,False,document_submission,Neutral,WhatsApp,8,True
+Hope this is everything,Council Tax,False,True,False,document_clarification,Confused,Phone,4,False
+Still need documents?,Payslip,True,False,False,document_submission,Neutral,SMS,3,True
+I've lost some documents,Utility Bill,True,True,False,document_submission,Frustrated,Phone,4,False
+I'm not sure what documents I need,Council Tax,True,True,False,document_submission,Helpful,Email,7,False
+Do you need all of these?,Investment Statement,True,True,False,document_submission,Frustrated,WhatsApp,6,True
+"I found my P60 from 2023, will that work?",Council Tax,True,True,False,document_submission,Helpful,Email,9,True
+Do you need all of these?,Driving Licence,True,True,False,document_submission,Helpful,SMS,6,True
+Can you remind me what you need?,Utility Bill,False,True,False,document_clarification,Confused,WhatsApp,7,True
+I've attached my bank statement,Pension Statement,False,False,False,document_clarification,Neutral,SMS,5,False
+I don't have a recent payslip,P60,True,True,False,document_submission,Frustrated,Phone,6,False
+"I found my P60 from 2023, will that work?",Bank Statement,True,True,False,document_submission,Frustrated,Email,9,True
+Can I send via WhatsApp?,P60,True,True,False,document_submission,Confused,SMS,5,True
+"My driving licence is expired, is that ok?",Council Tax,True,True,False,document_submission,Frustrated,Email,8,True
+I can't find my pension statement,Payslip,False,False,False,document_clarification,Frustrated,Email,6,False
+Can I send via WhatsApp?,Passport,True,True,False,document_submission,Helpful,Phone,5,True
+How do I prove address?,Passport,False,True,False,document_clarification,Frustrated,WhatsApp,5,True
+Is this urgent?,Pension Statement,False,False,False,document_clarification,Frustrated,WhatsApp,3,True
+I've lost some documents,Pension Statement,True,True,False,document_submission,Confused,SMS,4,False
+I've attached my bank statement,Mortgage Statement,False,False,False,document_clarification,Confused,Email,5,False
+Can you remind me what you need?,Pension Statement,True,False,False,document_submission,Confused,Phone,7,True
+Can I send via WhatsApp?,Investment Statement,True,True,True,document_submission,Neutral,Email,5,True
+I can't find my pension statement,Driving Licence,False,True,False,document_clarification,Confused,SMS,6,False
+Can I send via WhatsApp?,Mortgage Statement,False,False,False,document_clarification,Neutral,Email,5,True
+Documents requested - I've scanned them,Utility Bill,False,True,False,document_clarification,Neutral,Email,6,False
+I've sent everything,Pension Statement,True,True,False,document_submission,Confused,Email,3,False
+Hope this is everything,Driving Licence,True,True,False,document_submission,Confused,WhatsApp,4,False
+I've attached my bank statement,Payslip,True,True,False,document_submission,Frustrated,Phone,5,False
+I can't find my pension statement,Investment Statement,True,True,True,document_submission,Confused,WhatsApp,6,False
+I can't find my pension statement,Mortgage Statement,True,False,False,document_submission,Frustrated,Email,6,False
+I've sent everything,Payslip,False,True,True,document_clarification,Confused,SMS,3,False
+"Bank won't give statement, what now?",Utility Bill,False,True,False,document_clarification,Neutral,WhatsApp,6,True
+"I found my P60 from 2023, will that work?",Mortgage Statement,False,False,False,document_clarification,Confused,Email,9,True
+Documents requested - I've scanned them,Council Tax,True,True,False,document_submission,Neutral,SMS,6,False
+Do you need all of these?,Pension Statement,True,False,False,document_submission,Helpful,Phone,6,True
+Does the utility bill need to be in my name?,Payslip,True,True,True,document_submission,Confused,SMS,10,True
+How do I prove address?,Council Tax,False,True,False,document_clarification,Helpful,SMS,5,True
+I'm not sure what documents I need,Investment Statement,True,True,False,document_submission,Helpful,Phone,7,False
+Still need documents?,Bank Statement,False,True,False,document_clarification,Frustrated,SMS,3,True
+How do I prove address?,Payslip,True,False,True,document_submission,Neutral,SMS,5,True
+How do I prove address?,P60,True,True,False,document_submission,Neutral,SMS,5,True
+I'm not sure what documents I need,Driving Licence,True,False,False,document_submission,Confused,Email,7,False
+"My driving licence is expired, is that ok?",Council Tax,False,False,False,document_clarification,Helpful,WhatsApp,8,True
+Still need documents?,Pension Statement,True,True,True,document_submission,Confused,Email,3,True
+Is this urgent?,Council Tax,True,True,False,document_submission,Neutral,Email,3,True
+Hope this is everything,Bank Statement,True,True,False,document_submission,Confused,SMS,4,False
+I've sent everything,Mortgage Statement,True,True,False,document_submission,Helpful,SMS,3,False
+How do I prove address?,P60,True,True,True,document_submission,Frustrated,Email,5,True
+I can't find my pension statement,Driving Licence,True,True,True,document_submission,Frustrated,Phone,6,False
+Can you remind me what you need?,Mortgage Statement,True,True,False,document_submission,Neutral,Phone,7,True
+I've attached my bank statement,Mortgage Statement,True,True,False,document_submission,Confused,WhatsApp,5,False
+Hope this is everything,Payslip,False,True,True,document_clarification,Helpful,SMS,4,False
+I've uploaded documents to portal,Bank Statement,True,True,False,document_submission,Frustrated,SMS,5,False
+Can you remind me what you need?,Council Tax,True,True,False,document_submission,Frustrated,WhatsApp,7,True
+I'm not sure what documents I need,Pension Statement,True,False,False,document_submission,Frustrated,SMS,7,False
+"Bank won't give statement, what now?",Utility Bill,False,True,False,document_clarification,Confused,Email,6,True
+"Sorry, I've been busy",P60,True,True,False,document_submission,Neutral,WhatsApp,4,False
+Do you need all of these?,Payslip,True,True,True,document_submission,Helpful,WhatsApp,6,True
+"Sorry, I've been busy",Passport,True,True,False,document_submission,Neutral,Phone,4,False
+Can you remind me what you need?,Payslip,True,True,True,document_submission,Frustrated,SMS,7,True
+"I found my P60 from 2023, will that work?",Driving Licence,True,True,True,document_submission,Neutral,Phone,9,True
+Can you remind me what you need?,Utility Bill,True,False,True,document_submission,Frustrated,SMS,7,True
+Do you need all of these?,Investment Statement,True,True,False,document_submission,Confused,WhatsApp,6,True
+I don't have a recent payslip,Passport,True,True,False,document_submission,Helpful,Email,6,False
+I've attached my bank statement,Payslip,True,True,False,document_submission,Confused,Email,5,False
+I don't have a recent payslip,Driving Licence,False,True,False,document_clarification,Confused,WhatsApp,6,False
+I don't have a recent payslip,Pension Statement,True,True,False,document_submission,Frustrated,SMS,6,False
+"My driving licence is expired, is that ok?",Council Tax,False,True,False,document_clarification,Helpful,Phone,8,True
+Do you need all of these?,Payslip,True,True,False,document_submission,Helpful,SMS,6,True
+"Sorry, I've been busy",Council Tax,True,True,True,document_submission,Helpful,Phone,4,False
+Can you remind me what you need?,Mortgage Statement,True,True,False,document_submission,Confused,SMS,7,True
+"I found my P60 from 2023, will that work?",Council Tax,False,True,False,document_clarification,Confused,WhatsApp,9,True
+I've lost some documents,P60,False,True,True,document_clarification,Frustrated,Email,4,False
+Still need documents?,Payslip,False,True,False,document_clarification,Neutral,Phone,3,True
+Still need documents?,P60,False,True,True,document_clarification,Frustrated,Email,3,True
+How do I prove address?,Council Tax,True,True,False,document_submission,Helpful,WhatsApp,5,True
+I've lost some documents,Payslip,False,True,False,document_clarification,Neutral,WhatsApp,4,False
+I've uploaded documents to portal,Utility Bill,False,True,False,document_clarification,Neutral,WhatsApp,5,False
+I've sent everything,Utility Bill,False,True,True,document_clarification,Confused,SMS,3,False
+Can I send via WhatsApp?,Payslip,False,True,True,document_clarification,Helpful,WhatsApp,5,True
+Does the utility bill need to be in my name?,Passport,True,True,False,document_submission,Confused,WhatsApp,10,True
+I've lost some documents,Payslip,False,False,False,document_clarification,Neutral,SMS,4,False
+I can't find my pension statement,P60,False,True,True,document_clarification,Frustrated,Email,6,False
+"Bank won't give statement, what now?",Pension Statement,True,False,False,document_submission,Neutral,SMS,6,True
+I've sent everything,Passport,True,True,True,document_submission,Confused,Email,3,False
+Documents requested - I've scanned them,Passport,False,True,False,document_clarification,Frustrated,SMS,6,False
+I've uploaded documents to portal,Passport,False,True,True,document_clarification,Confused,Phone,5,False
+"Sorry, I've been busy",Utility Bill,True,True,False,document_submission,Frustrated,SMS,4,False
+Do you need all of these?,Investment Statement,True,False,False,document_submission,Neutral,Email,6,True
+"I found my P60 from 2023, will that work?",Utility Bill,True,True,True,document_submission,Neutral,Email,9,True
+Does the utility bill need to be in my name?,Utility Bill,False,False,False,document_clarification,Helpful,Email,10,True
+Is this urgent?,Pension Statement,True,False,False,document_submission,Neutral,Phone,3,True
+I don't have a recent payslip,Driving Licence,True,True,False,document_submission,Confused,SMS,6,False
+"My driving licence is expired, is that ok?",Mortgage Statement,True,True,False,document_submission,Helpful,WhatsApp,8,True
+I'm not sure what documents I need,Pension Statement,False,False,False,document_clarification,Confused,SMS,7,False
+I've attached my bank statement,Passport,True,True,True,document_submission,Frustrated,SMS,5,False
+I've attached my bank statement,Passport,True,True,False,document_submission,Neutral,SMS,5,False
+Can I send via WhatsApp?,Mortgage Statement,True,True,False,document_submission,Frustrated,Phone,5,True
+"I found my P60 from 2023, will that work?",Mortgage Statement,True,True,False,document_submission,Helpful,SMS,9,True
+I've attached my bank statement,Payslip,True,True,False,document_submission,Frustrated,SMS,5,False
+I can't find my pension statement,Utility Bill,False,False,False,document_clarification,Neutral,SMS,6,False
+Is this urgent?,P60,True,False,False,document_submission,Frustrated,SMS,3,True
+"My driving licence is expired, is that ok?",Driving Licence,True,True,False,document_submission,Neutral,Email,8,True
+I've attached my bank statement,Mortgage Statement,True,False,False,document_submission,Confused,Phone,5,False
+Does the utility bill need to be in my name?,P60,True,False,True,document_submission,Confused,Email,10,True
+Can you remind me what you need?,Pension Statement,False,True,True,document_clarification,Neutral,WhatsApp,7,True
+"My driving licence is expired, is that ok?",Council Tax,True,True,False,document_submission,Helpful,SMS,8,True
+I've lost some documents,Passport,True,True,False,document_submission,Helpful,Email,4,False
+I've uploaded documents to portal,Investment Statement,True,True,True,document_submission,Helpful,SMS,5,False
+I've attached my bank statement,Utility Bill,True,True,True,document_submission,Neutral,WhatsApp,5,False
+I don't have a recent payslip,Payslip,False,True,False,document_clarification,Neutral,Email,6,False
+Hope this is everything,Utility Bill,True,True,True,document_submission,Helpful,Phone,4,False
+"My driving licence is expired, is that ok?",Utility Bill,True,False,True,document_submission,Frustrated,WhatsApp,8,True
+I don't have a recent payslip,Passport,False,True,True,document_clarification,Neutral,WhatsApp,6,False
+I don't have a recent payslip,Payslip,False,True,True,document_clarification,Neutral,Email,6,False
+Do you need all of these?,Payslip,False,True,False,document_clarification,Neutral,WhatsApp,6,True
+Hope this is everything,Driving Licence,False,True,True,document_clarification,Neutral,SMS,4,False
+Documents requested - I've scanned them,Payslip,True,True,False,document_submission,Helpful,Email,6,False
+How do I prove address?,Investment Statement,True,True,False,document_submission,Confused,Phone,5,True
+I've lost some documents,Driving Licence,True,True,False,document_submission,Confused,Email,4,False
+I've sent everything,Pension Statement,True,True,True,document_submission,Frustrated,WhatsApp,3,False
+Can I send via WhatsApp?,Investment Statement,True,True,False,document_submission,Neutral,Email,5,True
+Is this urgent?,Investment Statement,False,True,True,document_clarification,Confused,WhatsApp,3,True
+"Bank won't give statement, what now?",Utility Bill,True,True,False,document_submission,Frustrated,Phone,6,True
+I'm not sure what documents I need,Mortgage Statement,False,True,True,document_clarification,Frustrated,Email,7,False
+Hope this is everything,Passport,False,True,False,document_clarification,Neutral,Email,4,False
+Documents requested - I've scanned them,Payslip,True,False,False,document_submission,Helpful,WhatsApp,6,False
+Can I send via WhatsApp?,Bank Statement,True,True,False,document_submission,Frustrated,Phone,5,True
+I'm not sure what documents I need,Payslip,True,True,False,document_submission,Confused,WhatsApp,7,False
+I don't have a recent payslip,Council Tax,True,True,True,document_submission,Neutral,Email,6,False
+How do I prove address?,P60,True,False,False,document_submission,Frustrated,Email,5,True
+How do I prove address?,Pension Statement,True,False,True,document_submission,Neutral,Email,5,True
+Is this urgent?,Payslip,False,True,True,document_clarification,Helpful,WhatsApp,3,True
+I've sent everything,Passport,True,True,False,document_submission,Neutral,SMS,3,False
+I'm not sure what documents I need,P60,True,True,False,document_submission,Helpful,Email,7,False
+Can you remind me what you need?,Bank Statement,True,True,False,document_submission,Frustrated,Phone,7,True
+Can you remind me what you need?,Pension Statement,True,True,False,document_submission,Confused,Phone,7,True
+I've attached my bank statement,Mortgage Statement,True,True,False,document_submission,Frustrated,Email,5,False
+I can't find my pension statement,Bank Statement,False,True,False,document_clarification,Confused,SMS,6,False
+Hope this is everything,Passport,True,True,False,document_submission,Helpful,Email,4,False
+How do I prove address?,Driving Licence,False,True,False,document_clarification,Neutral,Email,5,True
+Do you need all of these?,Payslip,True,True,True,document_submission,Neutral,Phone,6,True
+I can't find my pension statement,Driving Licence,True,False,False,document_submission,Frustrated,WhatsApp,6,False
+Still need documents?,Passport,True,True,False,document_submission,Neutral,Email,3,True
+I've sent everything,Council Tax,True,True,False,document_submission,Neutral,Phone,3,False
+"My driving licence is expired, is that ok?",Mortgage Statement,True,True,True,document_submission,Helpful,SMS,8,True
+"Sorry, I've been busy",Driving Licence,True,True,False,document_submission,Neutral,Email,4,False
+I've uploaded documents to portal,Bank Statement,True,True,False,document_submission,Neutral,WhatsApp,5,False
+I can't find my pension statement,Mortgage Statement,True,True,False,document_submission,Frustrated,SMS,6,False
+Does the utility bill need to be in my name?,Utility Bill,True,False,True,document_submission,Neutral,SMS,10,True
+How do I prove address?,Investment Statement,True,True,True,document_submission,Frustrated,SMS,5,True
+How do I prove address?,Mortgage Statement,True,True,False,document_submission,Neutral,WhatsApp,5,True
+Does the utility bill need to be in my name?,Driving Licence,False,True,False,document_clarification,Frustrated,Email,10,True
+Do you need all of these?,Passport,False,True,True,document_clarification,Confused,SMS,6,True
+"Bank won't give statement, what now?",Utility Bill,False,True,True,document_clarification,Neutral,WhatsApp,6,True
+"My driving licence is expired, is that ok?",P60,True,True,False,document_submission,Confused,Email,8,True
+I've lost some documents,Utility Bill,False,True,False,document_clarification,Helpful,WhatsApp,4,False
+"My driving licence is expired, is that ok?",Pension Statement,True,True,True,document_submission,Neutral,Email,8,True
+I've uploaded documents to portal,Bank Statement,False,False,True,document_clarification,Frustrated,Email,5,False
+I can't find my pension statement,P60,False,True,False,document_clarification,Helpful,WhatsApp,6,False
+"I found my P60 from 2023, will that work?",Council Tax,True,True,True,document_submission,Helpful,Phone,9,True
+Still need documents?,P60,False,True,True,document_clarification,Neutral,WhatsApp,3,True
+"Sorry, I've been busy",Pension Statement,True,True,True,document_submission,Confused,SMS,4,False
+Is this urgent?,Investment Statement,True,True,True,document_submission,Helpful,Email,3,True
+"Bank won't give statement, what now?",P60,True,True,False,document_submission,Helpful,WhatsApp,6,True
+Hope this is everything,Payslip,True,True,False,document_submission,Frustrated,Email,4,False
+I've uploaded documents to portal,Payslip,False,False,True,document_clarification,Confused,SMS,5,False
+I'm not sure what documents I need,Bank Statement,True,False,True,document_submission,Confused,WhatsApp,7,False
+Is this urgent?,Passport,False,True,False,document_clarification,Neutral,Email,3,True
+"Bank won't give statement, what now?",Pension Statement,True,True,False,document_submission,Frustrated,Email,6,True
+Still need documents?,Payslip,True,True,True,document_submission,Frustrated,WhatsApp,3,True
+Do you need all of these?,Council Tax,True,False,False,document_submission,Helpful,SMS,6,True
+"Bank won't give statement, what now?",Bank Statement,False,False,False,document_clarification,Confused,Phone,6,True
+I've sent everything,P60,True,True,True,document_submission,Frustrated,Phone,3,False
+I've attached my bank statement,Driving Licence,False,True,True,document_clarification,Confused,Phone,5,False
+"Bank won't give statement, what now?",Bank Statement,False,True,False,document_clarification,Frustrated,WhatsApp,6,True
+Do you need all of these?,Mortgage Statement,True,True,False,document_submission,Neutral,Phone,6,True
+How do I prove address?,Investment Statement,False,True,False,document_clarification,Helpful,WhatsApp,5,True
+"I found my P60 from 2023, will that work?",Pension Statement,True,False,True,document_submission,Confused,SMS,9,True
+I've sent everything,Payslip,True,True,False,document_submission,Neutral,Phone,3,False
+I can't find my pension statement,Payslip,True,True,False,document_submission,Confused,SMS,6,False
+"Bank won't give statement, what now?",Council Tax,True,True,True,document_submission,Frustrated,SMS,6,True
+Does the utility bill need to be in my name?,Council Tax,False,True,False,document_clarification,Confused,SMS,10,True
+Can you remind me what you need?,Mortgage Statement,True,True,False,document_submission,Neutral,Email,7,True
+Can I send via WhatsApp?,Driving Licence,True,False,True,document_submission,Helpful,SMS,5,True
+"Bank won't give statement, what now?",Investment Statement,True,True,True,document_submission,Frustrated,WhatsApp,6,True
+Hope this is everything,Passport,False,True,False,document_clarification,Frustrated,SMS,4,False
+Is this urgent?,Driving Licence,True,True,False,document_submission,Neutral,Phone,3,True
+Can I send via WhatsApp?,Bank Statement,True,True,False,document_submission,Confused,Phone,5,True
+I've lost some documents,Mortgage Statement,False,True,True,document_clarification,Neutral,SMS,4,False
+I'm not sure what documents I need,Bank Statement,True,True,False,document_submission,Frustrated,Phone,7,False
+"My driving licence is expired, is that ok?",Payslip,True,True,False,document_submission,Neutral,SMS,8,True
+Does the utility bill need to be in my name?,Mortgage Statement,True,True,False,document_submission,Confused,WhatsApp,10,True
+I don't have a recent payslip,Passport,False,True,True,document_clarification,Frustrated,WhatsApp,6,False
+Can I send via WhatsApp?,P60,True,True,False,document_submission,Confused,Email,5,True
+I can't find my pension statement,Council Tax,True,True,False,document_submission,Helpful,WhatsApp,6,False
+I can't find my pension statement,Council Tax,False,True,True,document_clarification,Neutral,SMS,6,False
+Can you remind me what you need?,Utility Bill,True,True,True,document_submission,Helpful,Phone,7,True

@@ -1,0 +1,11 @@
+item_id,client_id,item_type,current_state,days_outstanding,days_until_deadline,completion_percentage,sent_via,opened,last_interaction_date,rejection_reason,resubmission_count
+PA001,C001,Application Form,Sent,3,7,0.0,Email,False,,,0
+PA002,C001,Risk Questionnaire,Opened,5,5,40.0,Email,True,2026-01-28T10:15:00,,0
+PA003,C002,AML Verification,Partially Completed,9,1,60.0,SMS,True,2026-01-25T16:40:00,,1
+PA004,C002,Application Form,Completed,12,0,100.0,Email,True,2026-01-22T11:05:00,,1
+PA005,C003,Annual Review,Pending,0,21,0.0,Email,False,,,0
+PA006,C003,Application Form,Rejected,10,-2,30.0,Portal,True,2026-01-20T09:30:00,Incorrect employment details,2
+PA007,C004,AML Verification,Sent,6,3,0.0,WhatsApp,False,,,0
+PA008,C004,Risk Questionnaire,Completed,2,10,100.0,Email,True,2026-01-29T14:10:00,,0
+PA009,C005,Annual Review,Opened,4,14,20.0,Email,True,2026-01-27T18:00:00,,0
+PA010,C005,Application Form,Resubmitted,8,0,80.0,Email,True,2026-01-24T12:45:00,,2

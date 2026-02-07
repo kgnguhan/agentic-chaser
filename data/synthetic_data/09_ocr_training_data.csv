@@ -1,0 +1,1001 @@
+document_type,document_subtype,ocr_confidence_score,has_quality_issues,quality_issue_count,validation_passed,manual_review_needed,upload_month
+Council Tax,Recent,96.35,False,0,True,False,12
+Bank Statement,Missing Name,87.08,False,0,True,False,12
+Pension Statement,Outdated,88.14,True,1,False,False,1
+Payslip,Recent,93.31,False,0,True,False,12
+Utility Bill,Wrong Name,91.8,True,1,False,False,1
+Driving Licence,Valid Photocard,94.84,True,1,False,False,12
+P60,2024,87.19,False,0,True,False,1
+Utility Bill,Outdated,100.0,False,0,True,False,12
+Council Tax,Outdated,80.98,False,0,False,False,1
+Driving Licence,Expired,89.18,True,1,False,False,12
+P60,Illegible,94.11,False,0,True,False,1
+Investment Statement,Current,100.0,True,1,False,False,1
+Investment Statement,Outdated,79.5,False,0,False,True,12
+Pension Statement,Current,85.63,True,1,False,False,1
+Bank Statement,Outdated,79.93,False,0,False,True,1
+P60,2023,100.0,False,0,True,False,1
+Utility Bill,Recent,94.61,True,1,False,False,1
+Bank Statement,Missing Name,91.35,False,0,True,False,1
+Utility Bill,Wrong Name,91.52,False,0,True,False,1
+P60,2023,99.69,False,0,True,False,1
+Council Tax,Recent,90.3,False,0,True,False,1
+Investment Statement,Current,88.59,True,1,False,False,12
+Council Tax,Outdated,89.25,False,0,True,False,1
+Passport,Valid,98.01,False,0,True,False,12
+Investment Statement,Current,92.04,False,0,True,False,12
+Utility Bill,Outdated,90.12,False,0,True,False,1
+Pension Statement,Current,86.7,False,0,True,False,1
+Driving Licence,Damaged,90.83,False,0,True,False,12
+Passport,Expired,86.73,False,0,True,False,12
+Utility Bill,Outdated,92.03,False,0,True,False,12
+Payslip,Damaged,100.0,False,0,True,False,12
+P60,Illegible,98.02,True,1,False,False,12
+Passport,Valid,84.08,False,0,False,False,1
+Utility Bill,Outdated,87.47,False,0,True,False,1
+Bank Statement,Recent,84.64,True,1,False,False,1
+Investment Statement,Current,100.0,False,0,True,False,1
+Utility Bill,Wrong Name,100.0,False,0,True,False,12
+Passport,Low Quality,96.21,True,1,False,False,12
+Bank Statement,Recent,99.72,True,1,False,False,1
+Pension Statement,Outdated,83.48,False,0,False,False,1
+Payslip,2+ months old,93.4,False,0,True,False,1
+Council Tax,Recent,82.27,False,0,False,False,1
+Council Tax,Outdated,99.71,False,0,True,False,12
+Utility Bill,Outdated,95.3,False,0,True,False,12
+Payslip,2+ months old,99.03,False,0,True,False,12
+Passport,Low Quality,90.08,False,0,True,False,12
+Utility Bill,Wrong Name,91.91,False,0,True,False,1
+Investment Statement,Current,93.52,True,1,False,False,12
+Utility Bill,Recent,90.26,False,0,True,False,12
+Driving Licence,Valid Photocard,88.2,False,0,True,False,12
+Pension Statement,Outdated,93.85,True,1,False,False,1
+Driving Licence,Expired,85.53,True,1,False,False,1
+Payslip,Damaged,99.24,True,1,False,False,1
+Bank Statement,Recent,87.17,False,0,True,False,1
+Pension Statement,Outdated,87.55,True,1,False,False,12
+Bank Statement,Missing Name,90.98,False,0,True,False,1
+Payslip,Recent,84.86,False,0,False,False,12
+P60,2023,89.32,False,0,True,False,12
+Council Tax,Outdated,100.0,True,1,False,False,12
+Utility Bill,Recent,97.07,False,0,True,False,1
+Bank Statement,Outdated,96.04,False,0,True,False,12
+Driving Licence,Expired,98.93,False,0,True,False,1
+P60,2025,100.0,False,0,True,False,1
+Utility Bill,Recent,100.0,False,0,True,False,1
+P60,2023,90.1,False,0,True,False,12
+Bank Statement,Recent,100.0,False,0,True,False,12
+Payslip,Recent,89.4,False,0,True,False,1
+Passport,Low Quality,96.2,False,0,True,False,1
+Pension Statement,Outdated,90.38,False,0,True,False,1
+Pension Statement,Outdated,92.49,False,0,True,False,12
+Utility Bill,Wrong Name,90.79,True,1,False,False,12
+Driving Licence,Valid Photocard,96.71,False,0,True,False,12
+Passport,Expired,99.08,False,0,True,False,12
+Bank Statement,Outdated,88.28,False,0,True,False,12
+Pension Statement,Outdated,95.59,False,0,True,False,12
+Pension Statement,Outdated,91.37,False,0,True,False,12
+Council Tax,Outdated,95.94,True,1,False,False,1
+Bank Statement,Recent,79.78,True,1,False,True,12
+Passport,Valid,100.0,False,0,True,False,12
+Passport,Low Quality,92.17,False,0,True,False,12
+Investment Statement,Current,92.83,False,0,True,False,12
+P60,2025,94.14,False,0,True,False,1
+Council Tax,Recent,96.99,False,0,True,False,12
+P60,2023,97.03,True,1,False,False,1
+Investment Statement,Outdated,92.72,True,1,False,False,12
+Investment Statement,Outdated,92.66,True,1,False,False,1
+P60,2024,100.0,True,1,False,False,12
+Council Tax,Outdated,88.18,True,1,False,False,12
+Utility Bill,Wrong Name,79.31,False,0,False,True,12
+Pension Statement,Current,88.62,True,1,False,False,1
+Investment Statement,Current,85.22,False,0,True,False,12
+P60,Illegible,91.64,False,0,True,False,1
+Council Tax,Recent,88.22,False,0,True,False,12
+Passport,Valid,93.74,False,0,True,False,1
+Bank Statement,Recent,90.85,False,0,True,False,12
+Council Tax,Outdated,87.2,False,0,True,False,12
+P60,2025,89.41,False,0,True,False,1
+P60,Illegible,78.72,False,0,False,True,12
+Utility Bill,Recent,91.02,False,0,True,False,1
+Pension Statement,Outdated,97.19,True,1,False,False,1
+Payslip,Recent,94.72,False,0,True,False,1
+Payslip,Damaged,91.89,True,1,False,False,12
+Investment Statement,Current,93.75,False,0,True,False,1
+Utility Bill,Recent,88.12,False,0,True,False,12
+Utility Bill,Recent,86.08,False,0,True,False,12
+Council Tax,Outdated,86.81,True,1,False,False,1
+Pension Statement,Current,93.94,True,1,False,False,12
+Passport,Expired,100.0,True,1,False,False,12
+Bank Statement,Missing Name,96.75,True,1,False,False,12
+Driving Licence,Expired,100.0,False,0,True,False,1
+Utility Bill,Wrong Name,94.88,False,0,True,False,1
+Bank Statement,Outdated,100.0,True,1,False,False,1
+Pension Statement,Current,78.37,False,0,False,True,12
+P60,2024,91.56,False,0,True,False,12
+Utility Bill,Wrong Name,83.19,False,0,False,False,1
+Utility Bill,Wrong Name,95.9,False,0,True,False,12
+P60,2025,81.76,False,0,False,False,1
+P60,2025,81.59,False,0,False,False,12
+Passport,Expired,82.25,False,0,False,False,12
+Pension Statement,Outdated,82.72,False,0,False,False,12
+Council Tax,Recent,93.45,True,1,False,False,1
+Pension Statement,Outdated,85.8,True,1,False,False,12
+Utility Bill,Wrong Name,95.77,False,0,True,False,1
+Utility Bill,Wrong Name,97.21,False,0,True,False,1
+Bank Statement,Recent,79.52,False,0,False,True,1
+Utility Bill,Recent,93.65,False,0,True,False,12
+Payslip,2+ months old,100.0,False,0,True,False,12
+P60,2024,100.0,True,1,False,False,12
+Payslip,Recent,87.06,False,0,True,False,1
+Pension Statement,Current,81.93,True,1,False,False,12
+Pension Statement,Current,95.12,True,1,False,False,1
+Utility Bill,Outdated,91.32,True,1,False,False,1
+Utility Bill,Recent,86.7,False,0,True,False,1
+Passport,Low Quality,96.56,False,0,True,False,12
+Payslip,Recent,98.11,False,0,True,False,1
+Payslip,2+ months old,92.09,False,0,True,False,1
+Driving Licence,Valid Photocard,87.34,False,0,True,False,1
+Investment Statement,Current,94.09,False,0,True,False,12
+Passport,Valid,94.97,True,1,False,False,12
+Passport,Low Quality,87.17,True,1,False,False,1
+Investment Statement,Current,88.1,False,0,True,False,1
+Council Tax,Recent,88.54,True,1,False,False,1
+Pension Statement,Current,96.42,False,0,True,False,12
+Passport,Valid,94.36,False,0,True,False,12
+P60,Illegible,93.94,False,0,True,False,1
+Utility Bill,Outdated,79.76,False,0,False,True,1
+Passport,Low Quality,95.84,True,1,False,False,12
+Bank Statement,Recent,100.0,False,0,True,False,1
+P60,2023,88.75,False,0,True,False,12
+Pension Statement,Outdated,94.08,False,0,True,False,1
+P60,2025,98.06,True,1,False,False,12
+Council Tax,Outdated,84.62,False,0,False,False,1
+Pension Statement,Outdated,88.74,False,0,True,False,12
+Pension Statement,Outdated,80.38,False,0,False,False,12
+Pension Statement,Outdated,85.0,True,1,False,False,12
+Pension Statement,Current,93.64,False,0,True,False,1
+Investment Statement,Outdated,89.37,False,0,True,False,12
+Investment Statement,Current,88.24,True,1,False,False,12
+P60,2023,90.74,True,1,False,False,1
+Utility Bill,Wrong Name,88.58,False,0,True,False,1
+Payslip,2+ months old,79.55,True,1,False,True,12
+Utility Bill,Outdated,69.72,False,0,False,True,1
+P60,Illegible,100.0,False,0,True,False,1
+Driving Licence,Valid Photocard,86.41,False,0,True,False,1
+Investment Statement,Current,100.0,False,0,True,False,12
+Bank Statement,Recent,93.41,False,0,True,False,1
+Utility Bill,Wrong Name,87.46,False,0,True,False,12
+Pension Statement,Current,100.0,False,0,True,False,1
+Driving Licence,Expired,79.72,False,0,False,True,12
+Passport,Low Quality,100.0,True,1,False,False,12
+Utility Bill,Outdated,100.0,True,1,False,False,1
+Pension Statement,Current,93.0,False,0,True,False,1
+Bank Statement,Missing Name,100.0,False,0,True,False,12
+Utility Bill,Recent,93.19,False,0,True,False,1
+Utility Bill,Outdated,100.0,True,1,False,False,12
+Bank Statement,Outdated,95.36,False,0,True,False,1
+Bank Statement,Recent,78.64,True,1,False,True,1
+Driving Licence,Damaged,100.0,False,0,True,False,1
+P60,2025,100.0,False,0,True,False,12
+Council Tax,Outdated,74.64,True,1,False,True,1
+Pension Statement,Current,92.91,False,0,True,False,12
+Investment Statement,Outdated,93.2,False,0,True,False,1
+Investment Statement,Outdated,83.99,False,0,False,False,1
+Driving Licence,Damaged,100.0,False,0,True,False,1
+P60,2024,78.96,False,0,False,True,1
+Bank Statement,Recent,96.41,False,0,True,False,1
+Investment Statement,Current,94.05,False,0,True,False,12
+Passport,Expired,99.86,False,0,True,False,12
+Driving Licence,Expired,89.22,False,0,True,False,1
+P60,2023,93.59,False,0,True,False,12
+Bank Statement,Missing Name,90.98,True,1,False,False,12
+Council Tax,Recent,96.44,False,0,True,False,12
+Passport,Expired,88.16,False,0,True,False,12
+Passport,Valid,100.0,True,1,False,False,1
+Utility Bill,Wrong Name,89.54,True,1,False,False,1
+Investment Statement,Current,86.73,False,0,True,False,1
+Pension Statement,Current,98.53,False,0,True,False,12
+Payslip,Recent,96.95,True,1,False,False,1
+Investment Statement,Current,89.52,False,0,True,False,1
+P60,2024,92.93,True,1,False,False,1
+Utility Bill,Outdated,100.0,True,1,False,False,12
+Driving Licence,Damaged,89.12,True,1,False,False,1
+Pension Statement,Current,85.15,True,1,False,False,12
+Bank Statement,Missing Name,100.0,False,0,True,False,1
+Council Tax,Recent,100.0,False,0,True,False,12
+Driving Licence,Damaged,98.69,False,0,True,False,12
+Bank Statement,Recent,97.71,True,1,False,False,1
+P60,Illegible,92.38,False,0,True,False,12
+Investment Statement,Outdated,89.87,False,0,True,False,1
+Passport,Damaged,86.68,False,0,True,False,12
+Driving Licence,Expired,76.53,False,0,False,True,1
+P60,2023,82.34,False,0,False,False,12
+Pension Statement,Current,91.22,False,0,True,False,1
+Driving Licence,Valid Photocard,92.43,False,0,True,False,12
+Pension Statement,Outdated,96.12,False,0,True,False,1
+Council Tax,Outdated,100.0,False,0,True,False,12
+Utility Bill,Outdated,93.36,True,1,False,False,12
+Pension Statement,Current,91.98,False,0,True,False,1
+P60,2024,74.03,False,0,False,True,1
+Utility Bill,Recent,84.97,True,1,False,False,1
+Pension Statement,Current,85.2,False,0,True,False,1
+Pension Statement,Current,92.84,True,1,False,False,1
+P60,Illegible,92.35,True,1,False,False,12
+Driving Licence,Damaged,100.0,True,1,False,False,1
+Utility Bill,Recent,89.87,False,0,True,False,12
+P60,2024,89.85,False,0,True,False,1
+Bank Statement,Recent,89.04,True,1,False,False,12
+Bank Statement,Outdated,85.33,False,0,True,False,12
+Passport,Valid,81.12,False,0,False,False,1
+Utility Bill,Outdated,97.97,False,0,True,False,1
+Investment Statement,Outdated,89.19,False,0,True,False,12
+Payslip,2+ months old,100.0,True,1,False,False,1
+Passport,Expired,86.44,False,0,True,False,1
+Council Tax,Recent,91.67,False,0,True,False,1
+Passport,Expired,100.0,False,0,True,False,1
+Driving Licence,Expired,88.34,False,0,True,False,1
+Utility Bill,Recent,92.71,True,1,False,False,12
+Driving Licence,Damaged,100.0,False,0,True,False,1
+Utility Bill,Recent,95.45,True,1,False,False,1
+Investment Statement,Current,93.95,True,1,False,False,12
+Driving Licence,Valid Photocard,94.83,True,1,False,False,1
+Pension Statement,Outdated,89.7,False,0,True,False,1
+P60,Illegible,96.56,True,1,False,False,1
+P60,Illegible,95.58,True,1,False,False,1
+Investment Statement,Outdated,86.59,False,0,True,False,12
+Payslip,Recent,100.0,False,0,True,False,1
+Passport,Low Quality,100.0,False,0,True,False,12
+Payslip,Damaged,88.92,False,0,True,False,12
+Investment Statement,Outdated,99.52,False,0,True,False,1
+Payslip,2+ months old,98.77,False,0,True,False,12
+Pension Statement,Outdated,100.0,False,0,True,False,1
+Payslip,Damaged,92.73,False,0,True,False,12
+Driving Licence,Damaged,88.05,False,0,True,False,1
+Payslip,Recent,88.44,True,1,False,False,12
+Pension Statement,Outdated,99.16,False,0,True,False,12
+Council Tax,Outdated,97.08,False,0,True,False,12
+Utility Bill,Wrong Name,100.0,False,0,True,False,12
+Bank Statement,Recent,93.58,False,0,True,False,12
+Bank Statement,Outdated,83.75,True,1,False,False,12
+Payslip,2+ months old,87.77,False,0,True,False,12
+Pension Statement,Current,85.25,False,0,True,False,1
+Passport,Damaged,91.89,False,0,True,False,1
+Pension Statement,Outdated,100.0,True,1,False,False,1
+Passport,Damaged,98.06,False,0,True,False,12
+Council Tax,Outdated,100.0,False,0,True,False,12
+Utility Bill,Recent,95.51,False,0,True,False,1
+Passport,Damaged,88.19,False,0,True,False,12
+Driving Licence,Damaged,100.0,False,0,True,False,12
+Investment Statement,Outdated,90.4,False,0,True,False,12
+Council Tax,Outdated,85.22,False,0,True,False,1
+Investment Statement,Outdated,98.46,False,0,True,False,12
+Pension Statement,Outdated,82.03,True,1,False,False,1
+Payslip,2+ months old,87.27,False,0,True,False,12
+P60,Illegible,76.38,False,0,False,True,1
+Investment Statement,Outdated,81.63,False,0,False,False,12
+P60,2025,79.9,True,1,False,True,12
+Payslip,Damaged,89.38,False,0,True,False,12
+Passport,Damaged,87.59,False,0,True,False,12
+Passport,Valid,100.0,False,0,True,False,12
+Driving Licence,Valid Photocard,98.18,False,0,True,False,12
+Pension Statement,Current,75.03,False,0,False,True,1
+Council Tax,Outdated,94.34,True,1,False,False,12
+Driving Licence,Valid Photocard,94.21,False,0,True,False,1
+Payslip,Damaged,86.79,False,0,True,False,12
+Driving Licence,Expired,99.7,False,0,True,False,1
+Pension Statement,Current,94.46,False,0,True,False,12
+Utility Bill,Wrong Name,83.28,False,0,False,False,1
+Driving Licence,Expired,100.0,False,0,True,False,1
+Investment Statement,Current,94.57,False,0,True,False,12
+Council Tax,Outdated,95.38,False,0,True,False,12
+Payslip,Damaged,96.78,True,1,False,False,12
+Passport,Low Quality,97.61,False,0,True,False,1
+P60,2023,100.0,False,0,True,False,1
+Investment Statement,Current,100.0,False,0,True,False,12
+Payslip,2+ months old,82.49,False,0,False,False,1
+Investment Statement,Current,94.5,False,0,True,False,1
+Driving Licence,Expired,78.95,False,0,False,True,12
+Bank Statement,Outdated,93.37,True,1,False,False,12
+P60,2023,99.33,False,0,True,False,1
+Council Tax,Recent,90.72,False,0,True,False,1
+Payslip,Damaged,91.73,False,0,True,False,12
+Utility Bill,Outdated,84.4,False,0,False,False,1
+Passport,Valid,84.14,False,0,False,False,1
+Bank Statement,Recent,90.2,False,0,True,False,12
+Pension Statement,Outdated,85.42,True,1,False,False,12
+Bank Statement,Outdated,90.8,True,1,False,False,1
+Investment Statement,Current,80.78,True,1,False,False,1
+P60,Illegible,100.0,False,0,True,False,1
+Bank Statement,Outdated,96.69,False,0,True,False,12
+P60,2023,97.45,False,0,True,False,12
+Passport,Damaged,81.51,False,0,False,False,12
+Bank Statement,Missing Name,93.15,False,0,True,False,1
+Investment Statement,Outdated,88.52,False,0,True,False,1
+Payslip,Recent,86.47,True,1,False,False,1
+Pension Statement,Outdated,95.12,False,0,True,False,12
+Council Tax,Outdated,100.0,False,0,True,False,12
+Investment Statement,Outdated,80.5,False,0,False,False,1
+Driving Licence,Valid Photocard,82.22,False,0,False,False,12
+Pension Statement,Outdated,100.0,False,0,True,False,12
+Payslip,2+ months old,98.96,False,0,True,False,12
+Payslip,Recent,91.9,False,0,True,False,1
+Council Tax,Recent,92.91,False,0,True,False,1
+Investment Statement,Current,84.68,False,0,False,False,1
+Passport,Low Quality,92.65,False,0,True,False,1
+Bank Statement,Missing Name,92.58,True,1,False,False,1
+Payslip,2+ months old,98.24,True,1,False,False,12
+Payslip,2+ months old,86.54,False,0,True,False,1
+Investment Statement,Current,82.6,False,0,False,False,1
+Council Tax,Outdated,98.69,False,0,True,False,1
+Council Tax,Outdated,92.25,False,0,True,False,12
+Payslip,2+ months old,100.0,False,0,True,False,1
+Utility Bill,Wrong Name,100.0,False,0,True,False,1
+P60,2023,96.29,False,0,True,False,1
+Investment Statement,Outdated,84.81,False,0,False,False,12
+Council Tax,Recent,100.0,True,1,False,False,12
+Utility Bill,Recent,89.6,True,1,False,False,12
+Pension Statement,Current,92.45,True,1,False,False,1
+Council Tax,Outdated,96.24,False,0,True,False,1
+Driving Licence,Damaged,90.29,False,0,True,False,1
+Pension Statement,Current,100.0,True,1,False,False,1
+P60,2025,86.33,False,0,True,False,1
+Council Tax,Outdated,98.84,True,1,False,False,12
+Council Tax,Recent,96.0,False,0,True,False,12
+Bank Statement,Missing Name,100.0,False,0,True,False,1
+P60,2025,87.39,False,0,True,False,1
+Bank Statement,Outdated,71.27,False,0,False,True,1
+P60,2024,84.05,False,0,False,False,1
+Council Tax,Outdated,91.75,False,0,True,False,1
+Utility Bill,Recent,100.0,False,0,True,False,12
+Passport,Valid,94.57,False,0,True,False,12
+Investment Statement,Current,94.6,False,0,True,False,12
+Bank Statement,Outdated,90.67,False,0,True,False,1
+Passport,Damaged,91.01,True,1,False,False,12
+Passport,Damaged,99.81,False,0,True,False,1
+Investment Statement,Current,89.08,False,0,True,False,1
+P60,Illegible,93.48,True,1,False,False,1
+Council Tax,Recent,87.11,False,0,True,False,1
+Payslip,2+ months old,100.0,False,0,True,False,12
+Passport,Damaged,86.53,True,1,False,False,1
+Council Tax,Outdated,97.68,False,0,True,False,12
+Investment Statement,Outdated,99.7,False,0,True,False,12
+Pension Statement,Outdated,91.58,False,0,True,False,12
+Driving Licence,Damaged,85.37,False,0,True,False,1
+Driving Licence,Expired,93.61,False,0,True,False,1
+Utility Bill,Outdated,82.3,True,1,False,False,12
+Driving Licence,Valid Photocard,100.0,True,1,False,False,1
+Pension Statement,Outdated,97.3,False,0,True,False,1
+Investment Statement,Outdated,100.0,False,0,True,False,1
+Driving Licence,Valid Photocard,87.18,True,1,False,False,1
+Payslip,Damaged,94.19,True,1,False,False,12
+Payslip,Damaged,100.0,False,0,True,False,1
+Pension Statement,Current,93.64,True,1,False,False,1
+Pension Statement,Current,100.0,False,0,True,False,1
+Bank Statement,Missing Name,88.62,False,0,True,False,12
+Investment Statement,Outdated,100.0,True,1,False,False,1
+Investment Statement,Outdated,92.66,True,1,False,False,1
+Utility Bill,Wrong Name,97.78,True,1,False,False,12
+Council Tax,Outdated,89.02,True,1,False,False,1
+Payslip,Recent,88.67,False,0,True,False,1
+Utility Bill,Recent,82.55,False,0,False,False,12
+Pension Statement,Outdated,100.0,False,0,True,False,1
+Utility Bill,Outdated,89.29,False,0,True,False,1
+Payslip,Recent,92.71,False,0,True,False,12
+Bank Statement,Recent,100.0,False,0,True,False,1
+Investment Statement,Outdated,84.97,False,0,False,False,1
+Payslip,Damaged,87.68,True,1,False,False,12
+P60,2025,94.85,False,0,True,False,12
+Payslip,Recent,92.39,False,0,True,False,12
+Utility Bill,Recent,87.33,False,0,True,False,1
+P60,2024,81.59,True,1,False,False,1
+Council Tax,Outdated,91.78,False,0,True,False,12
+Payslip,Recent,100.0,False,0,True,False,12
+Council Tax,Outdated,89.45,False,0,True,False,12
+Payslip,Damaged,91.85,False,0,True,False,1
+Pension Statement,Outdated,99.31,False,0,True,False,1
+Investment Statement,Current,85.57,True,1,False,False,1
+Investment Statement,Current,72.61,False,0,False,True,1
+Pension Statement,Current,99.07,True,1,False,False,12
+Pension Statement,Outdated,91.16,True,1,False,False,1
+P60,Illegible,100.0,False,0,True,False,12
+P60,Illegible,85.42,False,0,True,False,12
+Pension Statement,Current,90.69,False,0,True,False,1
+Investment Statement,Current,95.04,False,0,True,False,1
+Passport,Expired,100.0,False,0,True,False,1
+Investment Statement,Outdated,100.0,False,0,True,False,12
+Payslip,Damaged,89.91,False,0,True,False,12
+Bank Statement,Recent,88.14,True,1,False,False,1
+Council Tax,Outdated,84.37,False,0,False,False,12
+Passport,Damaged,84.9,False,0,False,False,12
+Council Tax,Recent,92.92,False,0,True,False,12
+Investment Statement,Current,100.0,True,1,False,False,1
+Pension Statement,Outdated,87.45,True,1,False,False,12
+Pension Statement,Current,82.87,True,1,False,False,12
+Payslip,2+ months old,96.28,False,0,True,False,1
+Utility Bill,Wrong Name,89.32,False,0,True,False,12
+P60,Illegible,88.77,True,1,False,False,12
+Bank Statement,Recent,94.12,False,0,True,False,1
+Council Tax,Outdated,91.64,True,1,False,False,12
+P60,2025,87.98,False,0,True,False,12
+Investment Statement,Outdated,96.47,True,1,False,False,12
+Driving Licence,Damaged,81.38,False,0,False,False,1
+P60,Illegible,100.0,True,1,False,False,1
+Council Tax,Outdated,86.7,True,1,False,False,1
+Payslip,Recent,75.76,True,1,False,True,1
+Utility Bill,Recent,94.98,False,0,True,False,12
+Bank Statement,Outdated,85.68,True,1,False,False,1
+Bank Statement,Missing Name,90.21,True,1,False,False,12
+Council Tax,Outdated,87.25,True,1,False,False,12
+Utility Bill,Recent,94.26,True,1,False,False,1
+Driving Licence,Expired,97.97,False,0,True,False,12
+Utility Bill,Wrong Name,87.72,True,1,False,False,12
+Payslip,Recent,91.28,False,0,True,False,12
+Utility Bill,Recent,100.0,False,0,True,False,12
+Council Tax,Outdated,100.0,False,0,True,False,12
+Pension Statement,Current,76.92,False,0,False,True,12
+Investment Statement,Outdated,89.63,False,0,True,False,1
+Driving Licence,Valid Photocard,82.42,True,1,False,False,12
+Utility Bill,Wrong Name,81.81,True,1,False,False,1
+P60,Illegible,94.78,False,0,True,False,1
+Council Tax,Recent,100.0,True,1,False,False,1
+Bank Statement,Missing Name,83.04,False,0,False,False,12
+Payslip,Recent,91.12,False,0,True,False,1
+Utility Bill,Wrong Name,84.28,False,0,False,False,12
+Payslip,2+ months old,92.24,False,0,True,False,1
+Passport,Low Quality,87.02,False,0,True,False,1
+Payslip,2+ months old,93.56,True,1,False,False,12
+Investment Statement,Current,100.0,False,0,True,False,12
+Council Tax,Outdated,87.95,False,0,True,False,12
+Passport,Expired,94.38,False,0,True,False,12
+P60,2025,94.31,False,0,True,False,12
+Payslip,2+ months old,98.63,False,0,True,False,1
+P60,2023,87.35,True,1,False,False,12
+Utility Bill,Wrong Name,88.81,False,0,True,False,12
+Pension Statement,Outdated,86.78,False,0,True,False,12
+Passport,Valid,97.5,False,0,True,False,1
+Bank Statement,Recent,95.36,False,0,True,False,1
+Driving Licence,Expired,96.7,False,0,True,False,12
+Pension Statement,Outdated,100.0,True,1,False,False,12
+Investment Statement,Current,100.0,False,0,True,False,12
+Driving Licence,Damaged,83.48,True,1,False,False,12
+Utility Bill,Outdated,92.47,False,0,True,False,1
+Utility Bill,Wrong Name,86.04,False,0,True,False,12
+P60,2025,87.44,False,0,True,False,1
+P60,2024,96.95,True,1,False,False,12
+Bank Statement,Recent,100.0,False,0,True,False,12
+Utility Bill,Wrong Name,86.64,True,1,False,False,1
+Investment Statement,Outdated,100.0,False,0,True,False,12
+P60,2023,100.0,False,0,True,False,12
+Passport,Damaged,100.0,False,0,True,False,1
+Passport,Valid,100.0,False,0,True,False,1
+Driving Licence,Expired,100.0,False,0,True,False,1
+Pension Statement,Outdated,88.3,False,0,True,False,1
+Council Tax,Outdated,83.21,False,0,False,False,12
+P60,2024,89.11,False,0,True,False,12
+P60,2023,93.92,True,1,False,False,1
+Council Tax,Recent,99.23,False,0,True,False,12
+Council Tax,Recent,93.47,False,0,True,False,1
+Utility Bill,Wrong Name,82.56,False,0,False,False,12
+Utility Bill,Outdated,90.65,False,0,True,False,12
+Bank Statement,Missing Name,88.22,False,0,True,False,1
+Driving Licence,Damaged,97.05,True,1,False,False,12
+Investment Statement,Outdated,86.77,False,0,True,False,12
+P60,Illegible,91.76,False,0,True,False,1
+P60,2024,87.46,True,1,False,False,12
+Payslip,Recent,94.61,False,0,True,False,12
+Investment Statement,Outdated,100.0,False,0,True,False,1
+Utility Bill,Wrong Name,84.73,True,1,False,False,12
+Passport,Expired,92.23,True,1,False,False,1
+Passport,Damaged,91.15,False,0,True,False,12
+Council Tax,Recent,99.64,True,1,False,False,1
+Passport,Valid,96.75,False,0,True,False,1
+Driving Licence,Expired,68.48,False,0,False,True,12
+Payslip,2+ months old,88.72,False,0,True,False,1
+Pension Statement,Current,86.02,False,0,True,False,12
+Utility Bill,Wrong Name,91.01,False,0,True,False,1
+Pension Statement,Outdated,89.15,True,1,False,False,1
+Utility Bill,Outdated,90.22,True,1,False,False,1
+Payslip,Damaged,85.02,False,0,True,False,1
+Driving Licence,Valid Photocard,92.24,False,0,True,False,12
+Bank Statement,Outdated,96.87,True,1,False,False,1
+Pension Statement,Current,95.41,False,0,True,False,1
+Pension Statement,Outdated,89.29,False,0,True,False,12
+Bank Statement,Recent,93.38,False,0,True,False,1
+Utility Bill,Recent,100.0,False,0,True,False,1
+Passport,Damaged,67.84,False,0,False,True,1
+Driving Licence,Expired,93.47,False,0,True,False,12
+Payslip,2+ months old,82.75,True,1,False,False,1
+Driving Licence,Expired,92.52,True,1,False,False,12
+Passport,Damaged,97.65,False,0,True,False,1
+Pension Statement,Outdated,99.44,False,0,True,False,1
+Investment Statement,Outdated,86.74,False,0,True,False,1
+Driving Licence,Expired,89.57,True,1,False,False,1
+Payslip,Damaged,94.12,False,0,True,False,12
+Investment Statement,Outdated,87.34,False,0,True,False,12
+P60,2025,90.65,False,0,True,False,1
+Council Tax,Recent,93.6,True,1,False,False,1
+Utility Bill,Wrong Name,88.5,False,0,True,False,12
+Investment Statement,Current,93.12,False,0,True,False,1
+Utility Bill,Recent,100.0,True,1,False,False,1
+Payslip,2+ months old,89.44,False,0,True,False,12
+Driving Licence,Valid Photocard,95.01,True,1,False,False,1
+P60,Illegible,84.78,True,1,False,False,12
+Utility Bill,Recent,78.05,True,1,False,True,12
+Pension Statement,Outdated,92.95,False,0,True,False,12
+Utility Bill,Recent,85.13,True,1,False,False,1
+Investment Statement,Outdated,100.0,False,0,True,False,1
+Passport,Low Quality,78.43,False,0,False,True,1
+Payslip,Recent,89.37,False,0,True,False,12
+Investment Statement,Outdated,89.91,False,0,True,False,1
+Bank Statement,Outdated,81.7,False,0,False,False,12
+P60,Illegible,100.0,False,0,True,False,12
+Pension Statement,Current,93.05,False,0,True,False,12
+Payslip,Damaged,88.83,False,0,True,False,12
+Bank Statement,Outdated,90.56,False,0,True,False,12
+Bank Statement,Recent,100.0,False,0,True,False,12
+Payslip,Recent,95.46,False,0,True,False,1
+Bank Statement,Outdated,82.9,True,1,False,False,12
+Passport,Valid,84.48,True,1,False,False,12
+Investment Statement,Outdated,83.29,True,1,False,False,12
+P60,2024,90.75,False,0,True,False,12
+Driving Licence,Expired,74.31,False,0,False,True,1
+Pension Statement,Outdated,100.0,True,1,False,False,12
+Driving Licence,Damaged,100.0,False,0,True,False,1
+Pension Statement,Outdated,83.21,True,1,False,False,1
+P60,2025,85.42,False,0,True,False,12
+Driving Licence,Expired,100.0,True,1,False,False,12
+Council Tax,Recent,90.07,True,1,False,False,1
+Payslip,Recent,79.63,False,0,False,True,1
+Council Tax,Recent,99.16,True,1,False,False,1
+Pension Statement,Outdated,75.07,False,0,False,True,12
+Payslip,Recent,87.54,True,1,False,False,1
+Investment Statement,Outdated,80.35,False,0,False,False,1
+Utility Bill,Recent,81.25,True,1,False,False,12
+Bank Statement,Missing Name,79.17,False,0,False,True,1
+Council Tax,Recent,76.24,False,0,False,True,12
+Council Tax,Outdated,99.14,False,0,True,False,12
+Investment Statement,Current,95.53,False,0,True,False,1
+Pension Statement,Current,85.08,False,0,True,False,1
+Utility Bill,Wrong Name,90.26,True,1,False,False,12
+P60,2024,83.11,True,1,False,False,1
+Driving Licence,Valid Photocard,81.98,False,0,False,False,12
+Investment Statement,Current,94.91,False,0,True,False,1
+P60,2025,100.0,True,1,False,False,12
+Pension Statement,Outdated,89.05,False,0,True,False,1
+Investment Statement,Current,77.77,False,0,False,True,1
+P60,2024,94.56,False,0,True,False,12
+P60,2025,83.3,False,0,False,False,12
+Council Tax,Outdated,83.31,False,0,False,False,12
+Investment Statement,Current,96.73,True,1,False,False,1
+Utility Bill,Outdated,100.0,False,0,True,False,12
+Payslip,Damaged,97.64,False,0,True,False,1
+Bank Statement,Missing Name,85.99,True,1,False,False,12
+Passport,Damaged,89.4,False,0,True,False,12
+Investment Statement,Current,100.0,True,1,False,False,1
+Utility Bill,Recent,100.0,False,0,True,False,1
+Bank Statement,Outdated,99.96,True,1,False,False,1
+Investment Statement,Current,89.05,False,0,True,False,12
+Passport,Damaged,88.32,True,1,False,False,12
+Passport,Damaged,100.0,False,0,True,False,1
+Passport,Damaged,64.91,True,1,False,True,12
+Passport,Expired,92.43,True,1,False,False,12
+Utility Bill,Recent,100.0,False,0,True,False,1
+Payslip,Recent,93.5,False,0,True,False,12
+Driving Licence,Expired,93.84,False,0,True,False,12
+Bank Statement,Outdated,100.0,True,1,False,False,12
+Council Tax,Outdated,100.0,False,0,True,False,12
+P60,2023,89.07,True,1,False,False,12
+P60,2024,81.76,False,0,False,False,12
+Investment Statement,Current,87.92,False,0,True,False,12
+Passport,Valid,93.69,True,1,False,False,12
+Pension Statement,Outdated,84.29,False,0,False,False,12
+Passport,Expired,84.34,True,1,False,False,1
+P60,2024,86.86,False,0,True,False,1
+Utility Bill,Outdated,100.0,False,0,True,False,12
+Driving Licence,Expired,85.46,False,0,True,False,1
+Payslip,Damaged,95.49,False,0,True,False,1
+Utility Bill,Wrong Name,81.6,False,0,False,False,1
+Investment Statement,Current,98.64,False,0,True,False,1
+Council Tax,Recent,100.0,True,1,False,False,1
+P60,2023,94.17,False,0,True,False,12
+P60,2023,96.78,False,0,True,False,12
+Passport,Valid,100.0,False,0,True,False,1
+Investment Statement,Outdated,98.06,True,1,False,False,1
+Payslip,2+ months old,100.0,False,0,True,False,12
+Investment Statement,Outdated,94.09,False,0,True,False,1
+Utility Bill,Recent,94.38,False,0,True,False,12
+Driving Licence,Valid Photocard,94.87,False,0,True,False,12
+P60,2023,96.54,False,0,True,False,12
+Driving Licence,Damaged,95.68,False,0,True,False,1
+Bank Statement,Outdated,81.2,True,1,False,False,12
+Pension Statement,Outdated,94.64,False,0,True,False,1
+Pension Statement,Current,72.09,True,1,False,True,1
+Investment Statement,Current,85.71,True,1,False,False,1
+Driving Licence,Valid Photocard,80.95,True,1,False,False,12
+Council Tax,Outdated,96.31,False,0,True,False,12
+Investment Statement,Current,93.47,False,0,True,False,1
+Payslip,Damaged,99.83,False,0,True,False,12
+Payslip,2+ months old,83.95,False,0,False,False,1
+Passport,Expired,98.47,False,0,True,False,1
+Passport,Low Quality,96.37,True,1,False,False,12
+Bank Statement,Recent,81.19,True,1,False,False,12
+Bank Statement,Recent,81.42,False,0,False,False,12
+Bank Statement,Recent,97.1,False,0,True,False,12
+Bank Statement,Outdated,89.71,False,0,True,False,1
+Bank Statement,Recent,87.92,False,0,True,False,1
+P60,2023,75.41,False,0,False,True,12
+Bank Statement,Recent,99.81,False,0,True,False,1
+Passport,Expired,99.35,False,0,True,False,12
+Utility Bill,Outdated,100.0,False,0,True,False,12
+Payslip,Damaged,95.46,False,0,True,False,1
+Pension Statement,Outdated,91.69,True,1,False,False,1
+Pension Statement,Current,93.78,True,1,False,False,12
+Utility Bill,Recent,94.62,False,0,True,False,1
+Passport,Valid,99.39,False,0,True,False,1
+Pension Statement,Outdated,83.86,True,1,False,False,1
+Bank Statement,Recent,92.26,True,1,False,False,12
+Utility Bill,Wrong Name,89.9,True,1,False,False,12
+Investment Statement,Outdated,94.91,True,1,False,False,12
+Investment Statement,Current,88.9,False,0,True,False,1
+Utility Bill,Outdated,86.61,False,0,True,False,1
+P60,2024,100.0,True,1,False,False,12
+Payslip,2+ months old,88.34,False,0,True,False,12
+Council Tax,Recent,93.53,False,0,True,False,1
+Payslip,Damaged,87.52,False,0,True,False,1
+Utility Bill,Wrong Name,93.21,False,0,True,False,12
+Council Tax,Recent,89.73,False,0,True,False,12
+Driving Licence,Expired,88.88,False,0,True,False,12
+Investment Statement,Outdated,100.0,True,1,False,False,12
+Bank Statement,Outdated,97.35,False,0,True,False,1
+Payslip,Recent,84.66,False,0,False,False,1
+Utility Bill,Recent,98.27,False,0,True,False,1
+Payslip,Damaged,94.48,False,0,True,False,12
+Passport,Expired,84.74,True,1,False,False,12
+Payslip,Recent,100.0,False,0,True,False,12
+Passport,Expired,85.46,False,0,True,False,1
+Council Tax,Recent,87.12,False,0,True,False,12
+Council Tax,Outdated,86.43,False,0,True,False,12
+Passport,Low Quality,96.66,False,0,True,False,12
+Payslip,Recent,89.34,False,0,True,False,12
+Driving Licence,Expired,95.93,False,0,True,False,12
+Bank Statement,Recent,94.68,False,0,True,False,12
+Council Tax,Outdated,94.53,False,0,True,False,1
+Utility Bill,Recent,100.0,False,0,True,False,1
+Utility Bill,Wrong Name,82.59,False,0,False,False,12
+P60,2023,93.92,False,0,True,False,12
+Utility Bill,Wrong Name,95.87,False,0,True,False,1
+Utility Bill,Recent,93.55,True,1,False,False,1
+Investment Statement,Outdated,87.18,False,0,True,False,1
+Driving Licence,Damaged,100.0,False,0,True,False,1
+Driving Licence,Expired,100.0,True,1,False,False,12
+Driving Licence,Damaged,83.53,True,1,False,False,12
+Bank Statement,Recent,100.0,False,0,True,False,1
+Payslip,2+ months old,100.0,True,1,False,False,1
+Payslip,2+ months old,94.84,False,0,True,False,1
+Driving Licence,Expired,96.18,False,0,True,False,1
+Payslip,2+ months old,100.0,True,1,False,False,12
+Driving Licence,Valid Photocard,95.56,False,0,True,False,1
+Pension Statement,Current,100.0,False,0,True,False,1
+Pension Statement,Outdated,93.56,True,1,False,False,1
+Pension Statement,Outdated,85.93,False,0,True,False,1
+Investment Statement,Current,87.17,False,0,True,False,1
+P60,2024,86.91,False,0,True,False,12
+Passport,Valid,90.35,False,0,True,False,12
+Council Tax,Outdated,86.03,False,0,True,False,1
+Council Tax,Recent,78.38,True,1,False,True,1
+Bank Statement,Recent,88.3,False,0,True,False,1
+Council Tax,Recent,98.81,False,0,True,False,12
+Pension Statement,Outdated,100.0,False,0,True,False,12
+Bank Statement,Recent,94.5,False,0,True,False,12
+P60,Illegible,91.7,False,0,True,False,1
+Investment Statement,Outdated,93.74,False,0,True,False,12
+Bank Statement,Missing Name,92.17,False,0,True,False,12
+Pension Statement,Outdated,92.13,False,0,True,False,1
+Payslip,Damaged,89.18,False,0,True,False,12
+Driving Licence,Damaged,86.29,False,0,True,False,12
+Passport,Valid,100.0,False,0,True,False,1
+Investment Statement,Outdated,100.0,False,0,True,False,12
+Investment Statement,Current,90.73,False,0,True,False,12
+Pension Statement,Outdated,93.86,False,0,True,False,12
+Payslip,Recent,90.24,False,0,True,False,12
+Investment Statement,Outdated,100.0,False,0,True,False,12
+Passport,Damaged,87.89,True,1,False,False,12
+Investment Statement,Current,95.27,False,0,True,False,1
+Driving Licence,Valid Photocard,89.54,False,0,True,False,1
+Payslip,Recent,80.94,False,0,False,False,1
+Bank Statement,Outdated,94.0,False,0,True,False,12
+Bank Statement,Recent,100.0,False,0,True,False,1
+Passport,Expired,90.35,True,1,False,False,1
+Driving Licence,Valid Photocard,100.0,False,0,True,False,1
+Utility Bill,Wrong Name,98.0,True,1,False,False,12
+P60,2023,80.6,True,1,False,False,12
+Passport,Low Quality,98.5,False,0,True,False,12
+Investment Statement,Outdated,93.99,False,0,True,False,1
+Pension Statement,Outdated,84.85,False,0,False,False,1
+Passport,Valid,98.03,False,0,True,False,1
+Payslip,2+ months old,83.05,False,0,False,False,12
+Investment Statement,Current,86.38,False,0,True,False,12
+Pension Statement,Current,82.36,False,0,False,False,12
+Payslip,Damaged,87.13,False,0,True,False,12
+Payslip,2+ months old,84.67,True,1,False,False,12
+Council Tax,Outdated,99.93,False,0,True,False,12
+Utility Bill,Outdated,100.0,False,0,True,False,12
+Passport,Expired,99.97,True,1,False,False,1
+Investment Statement,Current,88.27,False,0,True,False,1
+Pension Statement,Current,91.56,False,0,True,False,12
+Payslip,2+ months old,95.88,True,1,False,False,12
+Utility Bill,Wrong Name,86.81,True,1,False,False,1
+Investment Statement,Current,89.23,False,0,True,False,12
+Bank Statement,Missing Name,100.0,False,0,True,False,12
+Passport,Expired,86.34,False,0,True,False,1
+P60,2025,93.81,False,0,True,False,12
+Council Tax,Recent,94.04,False,0,True,False,1
+Investment Statement,Outdated,99.29,False,0,True,False,12
+Council Tax,Recent,92.85,True,1,False,False,12
+Pension Statement,Current,86.07,False,0,True,False,12
+Pension Statement,Current,100.0,False,0,True,False,1
+P60,2023,86.15,False,0,True,False,1
+Driving Licence,Valid Photocard,90.01,False,0,True,False,12
+Bank Statement,Outdated,97.42,False,0,True,False,12
+Investment Statement,Current,98.32,True,1,False,False,12
+Driving Licence,Damaged,79.96,True,1,False,True,1
+Payslip,2+ months old,93.01,True,1,False,False,1
+Utility Bill,Recent,88.09,False,0,True,False,12
+Passport,Expired,95.36,False,0,True,False,1
+Payslip,Damaged,87.56,True,1,False,False,1
+Passport,Damaged,81.59,False,0,False,False,12
+P60,2024,90.86,False,0,True,False,12
+Council Tax,Outdated,85.93,False,0,True,False,12
+Council Tax,Recent,86.24,False,0,True,False,12
+Utility Bill,Recent,85.9,False,0,True,False,1
+Utility Bill,Outdated,95.23,False,0,True,False,1
+Driving Licence,Valid Photocard,95.42,False,0,True,False,12
+Payslip,2+ months old,77.91,False,0,False,True,1
+Council Tax,Recent,94.4,False,0,True,False,12
+Driving Licence,Damaged,89.72,True,1,False,False,12
+Driving Licence,Damaged,86.95,True,1,False,False,12
+Investment Statement,Outdated,100.0,False,0,True,False,1
+Bank Statement,Outdated,87.51,True,1,False,False,1
+Payslip,2+ months old,88.83,True,1,False,False,1
+Pension Statement,Outdated,89.87,False,0,True,False,12
+Council Tax,Outdated,90.19,False,0,True,False,1
+Passport,Low Quality,91.32,True,1,False,False,1
+Utility Bill,Recent,94.17,False,0,True,False,1
+Payslip,Damaged,94.42,False,0,True,False,12
+Utility Bill,Recent,100.0,False,0,True,False,12
+Investment Statement,Current,100.0,False,0,True,False,12
+Council Tax,Outdated,93.49,False,0,True,False,1
+Investment Statement,Outdated,83.56,False,0,False,False,12
+Investment Statement,Outdated,88.32,False,0,True,False,1
+P60,2025,84.38,True,1,False,False,1
+Investment Statement,Outdated,90.73,True,1,False,False,1
+Payslip,Recent,91.79,True,1,False,False,1
+Council Tax,Recent,100.0,True,1,False,False,1
+Passport,Damaged,100.0,False,0,True,False,12
+P60,Illegible,76.12,True,1,False,True,1
+Council Tax,Outdated,87.12,True,1,False,False,1
+Council Tax,Recent,82.1,False,0,False,False,12
+Bank Statement,Recent,92.88,False,0,True,False,1
+Driving Licence,Expired,91.37,True,1,False,False,1
+Driving Licence,Valid Photocard,91.29,False,0,True,False,12
+Council Tax,Outdated,81.89,False,0,False,False,12
+Payslip,2+ months old,83.25,True,1,False,False,1
+Council Tax,Outdated,83.17,True,1,False,False,1
+Driving Licence,Valid Photocard,89.35,True,1,False,False,1
+Council Tax,Recent,88.29,True,1,False,False,1
+P60,Illegible,83.72,False,0,False,False,12
+Driving Licence,Expired,97.7,True,1,False,False,1
+Pension Statement,Current,76.93,False,0,False,True,1
+Bank Statement,Outdated,78.65,False,0,False,True,1
+Passport,Damaged,93.28,False,0,True,False,12
+Driving Licence,Expired,99.2,False,0,True,False,12
+Passport,Expired,95.61,False,0,True,False,1
+Payslip,2+ months old,83.95,False,0,False,False,1
+Pension Statement,Current,89.25,False,0,True,False,12
+P60,2024,94.27,True,1,False,False,1
+Driving Licence,Expired,84.1,False,0,False,False,1
+Investment Statement,Outdated,92.63,True,1,False,False,12
+Passport,Damaged,89.57,False,0,True,False,1
+Driving Licence,Damaged,88.64,True,1,False,False,1
+Bank Statement,Recent,100.0,False,0,True,False,1
+Driving Licence,Expired,95.01,False,0,True,False,1
+Council Tax,Outdated,94.49,False,0,True,False,1
+Pension Statement,Current,98.99,False,0,True,False,12
+Bank Statement,Recent,88.02,False,0,True,False,12
+Council Tax,Recent,100.0,False,0,True,False,1
+Passport,Valid,100.0,True,1,False,False,1
+Passport,Valid,91.33,False,0,True,False,1
+Pension Statement,Outdated,66.5,True,1,False,True,12
+Utility Bill,Recent,82.78,False,0,False,False,12
+Council Tax,Recent,93.42,True,1,False,False,1
+Payslip,2+ months old,79.51,False,0,False,True,12
+Council Tax,Outdated,100.0,False,0,True,False,1
+Payslip,Damaged,100.0,True,1,False,False,1
+Passport,Valid,92.73,False,0,True,False,1
+Pension Statement,Current,84.11,True,1,False,False,1
+Council Tax,Recent,100.0,False,0,True,False,12
+Utility Bill,Outdated,97.44,True,1,False,False,12
+P60,2025,100.0,True,1,False,False,1
+Utility Bill,Outdated,83.54,True,1,False,False,12
+Utility Bill,Wrong Name,84.31,False,0,False,False,1
+Payslip,2+ months old,100.0,False,0,True,False,12
+Passport,Damaged,91.84,True,1,False,False,12
+Pension Statement,Current,87.85,False,0,True,False,1
+Utility Bill,Recent,100.0,False,0,True,False,12
+Investment Statement,Current,98.13,False,0,True,False,12
+Passport,Damaged,100.0,False,0,True,False,1
+Payslip,Recent,87.84,False,0,True,False,12
+Investment Statement,Outdated,89.27,False,0,True,False,12
+Utility Bill,Outdated,84.18,False,0,False,False,12
+Pension Statement,Current,91.99,False,0,True,False,12
+P60,Illegible,73.88,False,0,False,True,1
+Bank Statement,Outdated,84.52,False,0,False,False,12
+Investment Statement,Current,84.03,True,1,False,False,1
+P60,Illegible,92.52,False,0,True,False,1
+Payslip,2+ months old,85.85,False,0,True,False,1
+Council Tax,Outdated,89.91,False,0,True,False,12
+Investment Statement,Outdated,100.0,False,0,True,False,12
+Bank Statement,Outdated,93.34,True,1,False,False,1
+Payslip,Damaged,80.86,False,0,False,False,1
+Bank Statement,Outdated,83.91,False,0,False,False,1
+Pension Statement,Outdated,95.49,False,0,True,False,12
+Investment Statement,Outdated,71.74,False,0,False,True,12
+Payslip,2+ months old,86.6,False,0,True,False,12
+P60,Illegible,88.78,False,0,True,False,1
+Driving Licence,Expired,89.65,False,0,True,False,12
+Council Tax,Recent,80.4,False,0,False,False,12
+Pension Statement,Outdated,72.53,False,0,False,True,12
+Bank Statement,Missing Name,79.92,False,0,False,True,1
+Payslip,Recent,100.0,False,0,True,False,1
+Bank Statement,Recent,96.43,False,0,True,False,1
+Utility Bill,Outdated,100.0,True,1,False,False,1
+Bank Statement,Outdated,89.33,False,0,True,False,1
+Utility Bill,Recent,100.0,True,1,False,False,1
+P60,2025,100.0,True,1,False,False,12
+Pension Statement,Current,88.71,True,1,False,False,1
+Investment Statement,Current,93.06,True,1,False,False,12
+Payslip,Damaged,99.76,False,0,True,False,1
+Investment Statement,Outdated,82.36,False,0,False,False,1
+Council Tax,Outdated,92.42,True,1,False,False,1
+Investment Statement,Outdated,95.93,False,0,True,False,12
+Driving Licence,Expired,80.77,True,1,False,False,12
+Investment Statement,Current,100.0,True,1,False,False,12
+Payslip,Recent,87.99,False,0,True,False,12
+Bank Statement,Outdated,81.02,False,0,False,False,1
+Passport,Damaged,85.92,False,0,True,False,12
+Utility Bill,Outdated,92.31,False,0,True,False,12
+Payslip,Recent,100.0,False,0,True,False,1
+Utility Bill,Recent,100.0,False,0,True,False,12
+P60,2024,87.35,False,0,True,False,12
+Bank Statement,Outdated,82.61,True,1,False,False,1
+Passport,Valid,100.0,False,0,True,False,1
+Utility Bill,Wrong Name,81.13,False,0,False,False,12
+Driving Licence,Damaged,99.04,False,0,True,False,1
+Pension Statement,Outdated,83.38,False,0,False,False,12
+Council Tax,Recent,84.57,False,0,False,False,12
+Investment Statement,Current,96.54,True,1,False,False,1
+Driving Licence,Damaged,91.09,False,0,True,False,1
+Council Tax,Recent,81.61,False,0,False,False,12
+Council Tax,Recent,99.49,False,0,True,False,1
+Utility Bill,Recent,93.48,True,1,False,False,1
+Utility Bill,Recent,85.34,False,0,True,False,12
+Payslip,Recent,86.89,False,0,True,False,12
+Bank Statement,Missing Name,92.57,False,0,True,False,1
+Council Tax,Recent,81.65,True,1,False,False,1
+Council Tax,Recent,91.14,False,0,True,False,1
+Driving Licence,Valid Photocard,100.0,True,1,False,False,12
+Investment Statement,Outdated,80.74,False,0,False,False,1
+Utility Bill,Recent,100.0,False,0,True,False,1
+Pension Statement,Current,82.94,True,1,False,False,1
+Payslip,Damaged,98.07,False,0,True,False,12
+Bank Statement,Recent,100.0,True,1,False,False,1
+Council Tax,Outdated,86.4,False,0,True,False,12
+Investment Statement,Current,100.0,True,1,False,False,12
+Driving Licence,Damaged,83.62,False,0,False,False,1
+Payslip,Damaged,92.09,True,1,False,False,1
+Investment Statement,Outdated,90.21,True,1,False,False,1
+Council Tax,Recent,89.86,True,1,False,False,1
+Council Tax,Recent,95.71,True,1,False,False,1
+Driving Licence,Valid Photocard,88.56,False,0,True,False,12
+Utility Bill,Outdated,99.06,False,0,True,False,1
+Payslip,Recent,100.0,True,1,False,False,1
+Payslip,Damaged,81.94,True,1,False,False,1
+Pension Statement,Outdated,100.0,False,0,True,False,12
+Bank Statement,Missing Name,100.0,True,1,False,False,1
+P60,2025,96.82,False,0,True,False,1
+P60,Illegible,85.2,True,1,False,False,12
+Council Tax,Outdated,100.0,False,0,True,False,1
+Council Tax,Recent,100.0,False,0,True,False,12
+Driving Licence,Damaged,90.37,True,1,False,False,12
+Investment Statement,Outdated,87.34,True,1,False,False,12
+Council Tax,Recent,93.51,False,0,True,False,1
+Bank Statement,Missing Name,78.61,False,0,False,True,1
+Pension Statement,Current,90.55,False,0,True,False,12
+Council Tax,Recent,91.15,False,0,True,False,1
+P60,Illegible,95.45,False,0,True,False,1
+Council Tax,Recent,99.03,False,0,True,False,1
+Passport,Damaged,88.21,False,0,True,False,12
+P60,Illegible,97.45,False,0,True,False,12
+Investment Statement,Current,86.28,False,0,True,False,12
+Driving Licence,Damaged,96.17,True,1,False,False,1
+Council Tax,Outdated,91.33,True,1,False,False,1
+Investment Statement,Current,91.59,False,0,True,False,1
+Driving Licence,Damaged,85.27,False,0,True,False,12
+Payslip,Recent,99.47,True,1,False,False,12
+Passport,Damaged,97.63,False,0,True,False,12
+Utility Bill,Wrong Name,100.0,False,0,True,False,12
+Pension Statement,Outdated,93.99,True,1,False,False,12
+P60,2024,79.0,False,0,False,True,12
+Utility Bill,Wrong Name,81.29,False,0,False,False,12
+Payslip,Damaged,93.28,True,1,False,False,12
+Driving Licence,Valid Photocard,83.55,False,0,False,False,1
+Pension Statement,Outdated,83.53,True,1,False,False,12
+Driving Licence,Damaged,91.26,True,1,False,False,12
+Passport,Low Quality,81.67,True,1,False,False,1
+Bank Statement,Recent,84.05,False,0,False,False,1
+Bank Statement,Missing Name,83.87,True,1,False,False,1
+Payslip,2+ months old,98.32,False,0,True,False,12
+Utility Bill,Outdated,100.0,False,0,True,False,12
+Bank Statement,Outdated,86.57,True,1,False,False,1
+Bank Statement,Missing Name,85.41,True,1,False,False,1
+Bank Statement,Outdated,100.0,False,0,True,False,1
+Bank Statement,Recent,87.48,False,0,True,False,12
+Bank Statement,Missing Name,94.23,True,1,False,False,1
+Council Tax,Outdated,98.89,True,1,False,False,1
+Driving Licence,Expired,88.46,False,0,True,False,1
+Utility Bill,Recent,100.0,False,0,True,False,1
+Passport,Low Quality,100.0,False,0,True,False,12
+Bank Statement,Recent,90.84,False,0,True,False,1
+Passport,Damaged,93.14,False,0,True,False,12
+Pension Statement,Outdated,87.38,False,0,True,False,12
+Pension Statement,Current,89.45,False,0,True,False,1
+Council Tax,Recent,100.0,False,0,True,False,12
+Pension Statement,Outdated,94.56,True,1,False,False,12
+Driving Licence,Expired,100.0,False,0,True,False,12
+Driving Licence,Valid Photocard,100.0,False,0,True,False,1
+Pension Statement,Outdated,86.78,False,0,True,False,12
+P60,2023,94.41,False,0,True,False,1
+Passport,Expired,93.4,True,1,False,False,1
+Utility Bill,Recent,87.18,False,0,True,False,1
+Passport,Damaged,78.0,True,1,False,True,12
+Council Tax,Outdated,89.04,False,0,True,False,1
+Bank Statement,Outdated,91.67,False,0,True,False,1
+Investment Statement,Outdated,80.68,False,0,False,False,1
+Council Tax,Recent,93.75,False,0,True,False,1
+Driving Licence,Expired,87.09,True,1,False,False,1
+Pension Statement,Outdated,99.49,False,0,True,False,1
+Council Tax,Outdated,98.02,True,1,False,False,1
+Council Tax,Recent,82.5,True,1,False,False,12
+Council Tax,Outdated,77.12,False,0,False,True,1
+Council Tax,Outdated,98.91,False,0,True,False,12
+P60,2023,93.94,False,0,True,False,1
+P60,2023,81.23,False,0,False,False,1
+Utility Bill,Outdated,98.59,False,0,True,False,1
+Payslip,Recent,97.47,False,0,True,False,1
+Investment Statement,Current,95.28,True,1,False,False,1
+Bank Statement,Outdated,93.57,False,0,True,False,1
+Passport,Damaged,94.49,False,0,True,False,1
+Driving Licence,Expired,76.88,True,1,False,True,1
+P60,2023,92.62,False,0,True,False,1
+Investment Statement,Current,92.99,False,0,True,False,1
+P60,Illegible,96.43,False,0,True,False,1
+Payslip,2+ months old,87.61,False,0,True,False,1
+Driving Licence,Expired,75.48,True,1,False,True,12
+Bank Statement,Outdated,92.23,False,0,True,False,1
+Payslip,Damaged,100.0,False,0,True,False,1
+Driving Licence,Valid Photocard,95.02,False,0,True,False,1
+Investment Statement,Outdated,93.32,False,0,True,False,1
+Investment Statement,Outdated,91.67,False,0,True,False,1
+Bank Statement,Recent,88.15,False,0,True,False,12
+Utility Bill,Wrong Name,97.57,False,0,True,False,12
+Pension Statement,Outdated,89.79,False,0,True,False,12
+Driving Licence,Expired,85.47,False,0,True,False,12
+Pension Statement,Current,98.9,False,0,True,False,1
+Payslip,Recent,80.67,False,0,False,False,12
+Driving Licence,Valid Photocard,82.11,False,0,False,False,1
+Utility Bill,Outdated,93.4,False,0,True,False,12
+Driving Licence,Damaged,93.8,True,1,False,False,1
+Bank Statement,Outdated,100.0,True,1,False,False,1
+Pension Statement,Outdated,87.99,True,1,False,False,1
+Council Tax,Recent,100.0,False,0,True,False,12

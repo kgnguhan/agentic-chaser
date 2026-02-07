@@ -1,0 +1,11 @@
+document_id,client_id,document_type,document_subtype,ocr_confidence_score,quality_issues,validation_passed,manual_review_required,file_path
+D001,C001,Passport,Clear Photo,96.5,,True,False,/docs/C001/passport_clear.jpg
+D002,C001,Utility Bill,Blurry Scan,68.0,"blurry,edge_cut_off",False,True,/docs/C001/utility_blurry.png
+D003,C002,Driving Licence,Clear Scan,93.2,,True,False,/docs/C002/driving_licence.pdf
+D004,C002,Pension Statement,Partial Scan,78.4,missing_last_page,False,True,/docs/C002/pension_partial.pdf
+D005,C003,P60,Clear PDF,98.1,,True,False,/docs/C003/p60_2024.pdf
+D006,C003,Passport,Glare Photo,72.6,glare_over_signature,False,True,/docs/C003/passport_glare.jpg
+D007,C004,Bank Statement,Clear PDF,95.0,,True,False,/docs/C004/bank_statement.pdf
+D008,C004,Payslip,Low Resolution,65.5,"low_resolution,uncertain_figures",False,True,/docs/C004/payslip_lowres.png
+D009,C005,Investment Statement,Clear PDF,92.3,,True,False,/docs/C005/investment_statement.pdf
+D010,C005,LOA,Scanned Copy,89.0,slight_skew,True,False,/docs/C005/loa_signed.pdf

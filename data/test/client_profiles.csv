@@ -1,0 +1,6 @@
+client_id,name,age,employment_type,annual_income,existing_pensions_count,risk_profile,communication_preference,document_responsiveness
+C001,Alice Johnson,52,Employed,65000,3,Balanced,Email,High
+C002,Ben Thomas,61,Retired,42000,4,Conservative,Phone,Medium
+C003,Chloe Smith,45,Self-Employed,90000,2,Growth,WhatsApp,Very High
+C004,David Patel,34,Employed,52000,1,Moderate,SMS,Low
+C005,Emma Wilson,57,Employed,78000,3,Balanced,Email,Medium

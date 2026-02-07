@@ -1,0 +1,301 @@
+conversation_id,client_id,date,document_requested,client_message,advisor_response,document_received,document_correct,follow_up_needed,sentiment_client,communication_channel
+CONV_00001,CLI_0047,2025-11-26T16:33:51.469722,P60,"Bank won't give statement, what now?","Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,True,True,Confused,Phone
+CONV_00002,CLI_0032,2025-12-17T16:33:51.470011,Pension Statement,Is this urgent?,Council tax or utility bill works equally well.,True,True,False,Helpful,SMS
+CONV_00003,CLI_0048,2026-01-25T16:33:51.470279,Driving Licence,I can't find my pension statement,Excellent! Got all documents. Let me review.,True,True,False,Helpful,WhatsApp
+CONV_00004,CLI_0029,2026-01-30T16:33:51.470589,Driving Licence,I'm not sure what documents I need,Just send new licence - no need for both.,True,True,True,Helpful,SMS
+CONV_00005,CLI_0012,2026-01-27T16:33:51.470865,Council Tax,I've attached my bank statement,2023 P60 too old. Need 2024 or 2025.,True,True,True,Helpful,WhatsApp
+CONV_00006,CLI_0022,2025-11-12T16:33:51.471173,Pension Statement,I can't find my pension statement,Absolutely! WhatsApp is fine.,True,False,False,Frustrated,Phone
+CONV_00007,CLI_0009,2025-11-27T16:33:51.471343,Pension Statement,Does the utility bill need to be in my name?,Excellent! Got all documents. Let me review.,False,True,False,Neutral,Phone
+CONV_00008,CLI_0029,2025-11-06T16:33:51.471536,Driving Licence,I've attached my bank statement,I see passport and utility bill. Just need payslip.,True,True,True,Frustrated,Phone
+CONV_00009,CLI_0034,2025-12-26T16:33:51.471630,Passport,"I found my P60 from 2023, will that work?",Utility bill is perfect - within 3 months.,False,False,False,Frustrated,SMS
+CONV_00010,CLI_0006,2026-01-20T16:33:51.471742,Pension Statement,Does the utility bill need to be in my name?,Excellent! Got all documents. Let me review.,True,True,False,Neutral,Phone
+CONV_00011,CLI_0046,2025-12-09T16:33:51.471823,Driving Licence,Is this urgent?,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",False,True,False,Frustrated,SMS
+CONV_00012,CLI_0040,2025-12-04T16:33:51.471907,Council Tax,Documents requested - I've scanned them,No rush! Whenever suits you.,True,True,False,Neutral,Phone
+CONV_00013,CLI_0005,2025-12-30T16:33:51.471986,Pension Statement,"My driving licence is expired, is that ok?",Just send new licence - no need for both.,False,True,False,Neutral,SMS
+CONV_00014,CLI_0045,2025-11-20T16:33:51.472065,Driving Licence,Do you need all of these?,Happy to clarify! I'll email checklist.,False,True,False,Helpful,WhatsApp
+CONV_00015,CLI_0042,2025-12-24T16:33:51.472235,Investment Statement,I don't have a recent payslip,No problem. P60 from last year works fine if no recent payslip.,False,False,True,Neutral,Phone
+CONV_00016,CLI_0012,2025-12-19T16:33:51.472318,Utility Bill,How do I prove address?,Perfect! They uploaded successfully.,True,True,False,Neutral,WhatsApp
+CONV_00017,CLI_0024,2026-01-24T16:33:51.472591,Utility Bill,How do I prove address?,"Perfect, thanks for bank statement.",True,True,False,Frustrated,WhatsApp
+CONV_00018,CLI_0015,2026-01-06T16:33:51.473001,Mortgage Statement,Hope this is everything,Don't worry - we can request from provider.,True,True,False,Neutral,Phone
+CONV_00019,CLI_0007,2026-01-25T16:33:51.473265,P60,Can you remind me what you need?,Thanks for sending these.,True,True,True,Neutral,SMS
+CONV_00020,CLI_0030,2025-12-24T16:33:51.473660,Council Tax,I don't have a recent payslip,All looks great!,True,True,False,Confused,SMS
+CONV_00021,CLI_0044,2026-01-29T16:33:51.473944,Driving Licence,I've attached my bank statement,I see passport and utility bill. Just need payslip.,True,True,False,Helpful,WhatsApp
+CONV_00022,CLI_0049,2025-11-07T16:33:51.474209,Council Tax,Does the utility bill need to be in my name?,All looks great!,True,True,True,Neutral,SMS
+CONV_00023,CLI_0035,2025-12-29T16:33:51.474472,Mortgage Statement,Does the utility bill need to be in my name?,Use passport plus employer letter for overseas.,True,True,False,Neutral,WhatsApp
+CONV_00024,CLI_0029,2025-12-01T16:33:51.474753,Passport,I've sent everything,Council tax or utility bill works equally well.,True,True,True,Frustrated,SMS
+CONV_00025,CLI_0039,2026-01-27T16:33:51.475019,Council Tax,I'm not sure what documents I need,Perfect! They uploaded successfully.,False,True,False,Confused,Phone
+CONV_00026,CLI_0037,2025-12-15T16:33:51.475282,Investment Statement,I'm not sure what documents I need,Absolutely! WhatsApp is fine.,False,False,False,Confused,WhatsApp
+CONV_00027,CLI_0037,2025-12-20T16:33:51.475543,P60,"I found my P60 from 2023, will that work?",Excellent! Got all documents. Let me review.,True,True,False,Frustrated,Phone
+CONV_00028,CLI_0025,2025-12-11T16:33:51.475827,Bank Statement,"My driving licence is expired, is that ok?",No rush! Whenever suits you.,True,True,False,Frustrated,Phone
+CONV_00029,CLI_0010,2025-12-06T16:33:51.476096,Driving Licence,Can you remind me what you need?,Perfect! They uploaded successfully.,True,True,True,Neutral,SMS
+CONV_00030,CLI_0023,2026-01-23T16:33:51.476384,Passport,I don't have a recent payslip,All set! Ready for advice meeting.,True,False,False,Neutral,Phone
+CONV_00031,CLI_0017,2026-01-29T16:33:51.476661,Pension Statement,I don't have a recent payslip,2023 P60 too old. Need 2024 or 2025.,True,True,False,Confused,Phone
+CONV_00032,CLI_0037,2026-01-21T16:33:51.476926,Driving Licence,Can you remind me what you need?,No problem. P60 from last year works fine if no recent payslip.,False,True,False,Neutral,WhatsApp
+CONV_00033,CLI_0042,2025-11-14T16:33:51.477187,Investment Statement,"Sorry, I've been busy","Perfect, thanks for bank statement.",True,True,False,Neutral,WhatsApp
+CONV_00034,CLI_0005,2026-01-14T16:33:51.477448,Mortgage Statement,"I found my P60 from 2023, will that work?","Perfect, thanks for bank statement.",False,True,False,Frustrated,Phone
+CONV_00035,CLI_0040,2025-12-05T16:33:51.477729,Utility Bill,I don't have a recent payslip,No rush! Whenever suits you.,True,True,False,Neutral,WhatsApp
+CONV_00036,CLI_0019,2025-12-04T16:33:51.477998,Pension Statement,Still need documents?,Happy to clarify! I'll email checklist.,True,True,True,Confused,SMS
+CONV_00037,CLI_0027,2025-12-03T16:33:51.478260,Payslip,Documents requested - I've scanned them,"Perfect, thanks for bank statement.",True,True,False,Helpful,Phone
+CONV_00038,CLI_0010,2026-01-02T16:33:51.478524,P60,Documents requested - I've scanned them,All looks great!,True,True,False,Helpful,Phone
+CONV_00039,CLI_0032,2026-01-15T16:33:51.478804,Passport,"Sorry, I've been busy",Great! I see your passport and utility bill. Still waiting on P60.,True,True,True,Neutral,SMS
+CONV_00040,CLI_0030,2025-11-19T16:33:51.479065,Bank Statement,Can you remind me what you need?,Great! I see your passport and utility bill. Still waiting on P60.,True,True,True,Frustrated,Phone
+CONV_00041,CLI_0004,2025-11-25T16:33:51.479327,Council Tax,How do I prove address?,Utility bill is perfect - within 3 months.,False,True,False,Neutral,WhatsApp
+CONV_00042,CLI_0018,2026-01-18T16:33:51.479591,Driving Licence,Hope this is everything,Utility bill is perfect - within 3 months.,True,False,True,Helpful,Email
+CONV_00043,CLI_0011,2026-01-26T16:33:51.479869,Passport,Hope this is everything,Just send new licence - no need for both.,True,True,False,Neutral,Phone
+CONV_00044,CLI_0034,2025-11-12T16:33:51.480176,Council Tax,I don't have a recent payslip,Use passport plus employer letter for overseas.,True,True,True,Helpful,WhatsApp
+CONV_00045,CLI_0032,2025-12-16T16:33:51.480441,Driving Licence,I've lost some documents,All set! Ready for advice meeting.,True,True,True,Confused,WhatsApp
+CONV_00046,CLI_0028,2025-12-16T16:33:51.480721,P60,Still need documents?,"Perfect, thanks for bank statement.",True,True,False,Helpful,SMS
+CONV_00047,CLI_0001,2025-12-25T16:33:51.480991,Mortgage Statement,Hope this is everything,Great! I see your passport and utility bill. Still waiting on P60.,False,False,False,Confused,Phone
+CONV_00048,CLI_0015,2025-12-03T16:33:51.481255,Pension Statement,I've lost some documents,Perfect! They uploaded successfully.,False,False,False,Neutral,WhatsApp
+CONV_00049,CLI_0007,2025-11-29T16:33:51.481519,Utility Bill,I've sent everything,No problem. P60 from last year works fine if no recent payslip.,False,True,False,Helpful,Email
+CONV_00050,CLI_0044,2026-01-23T16:33:51.481801,Council Tax,"I found my P60 from 2023, will that work?",Council tax or utility bill works equally well.,True,False,False,Frustrated,Phone
+CONV_00051,CLI_0024,2026-01-21T16:33:51.482067,Pension Statement,Does the utility bill need to be in my name?,Perfect! They uploaded successfully.,False,False,False,Neutral,SMS
+CONV_00052,CLI_0031,2025-12-31T16:33:51.482328,Payslip,Is this urgent?,Use passport plus employer letter for overseas.,True,True,True,Helpful,Phone
+CONV_00053,CLI_0024,2026-01-15T16:33:51.482592,Investment Statement,I've sent everything,Absolutely! WhatsApp is fine.,False,True,False,Confused,Email
+CONV_00054,CLI_0010,2025-12-31T16:33:51.482851,Pension Statement,Can I send via WhatsApp?,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,False,False,Frustrated,Email
+CONV_00055,CLI_0026,2025-11-27T16:33:51.483117,Payslip,"I found my P60 from 2023, will that work?",Excellent! Got all documents. Let me review.,False,True,True,Neutral,SMS
+CONV_00056,CLI_0044,2025-11-18T16:33:51.483379,Passport,I don't have a recent payslip,2023 P60 too old. Need 2024 or 2025.,True,True,False,Frustrated,Phone
+CONV_00057,CLI_0012,2025-11-21T16:33:51.483657,Pension Statement,Can I send via WhatsApp?,All set! Ready for advice meeting.,True,True,False,Confused,WhatsApp
+CONV_00058,CLI_0004,2025-12-05T16:33:51.483924,Payslip,I don't have a recent payslip,Happy to clarify! I'll email checklist.,False,True,True,Confused,SMS
+CONV_00059,CLI_0012,2025-12-18T16:33:51.484226,Investment Statement,"Bank won't give statement, what now?",Thanks for sending these.,True,True,False,Helpful,Email
+CONV_00060,CLI_0032,2025-12-19T16:33:51.484493,Utility Bill,Can I send via WhatsApp?,2023 P60 too old. Need 2024 or 2025.,True,True,True,Frustrated,SMS
+CONV_00061,CLI_0003,2025-12-28T16:33:51.484776,Mortgage Statement,Hope this is everything,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,False,True,Neutral,Email
+CONV_00062,CLI_0024,2025-12-26T16:33:51.485043,Council Tax,"My driving licence is expired, is that ok?",Utility bill is perfect - within 3 months.,True,True,False,Helpful,WhatsApp
+CONV_00063,CLI_0041,2025-11-27T16:33:51.485307,Council Tax,Hope this is everything,Great! I see your passport and utility bill. Still waiting on P60.,True,True,True,Neutral,Phone
+CONV_00064,CLI_0012,2026-01-14T16:33:51.485568,Utility Bill,"Sorry, I've been busy",Just send new licence - no need for both.,False,True,False,Neutral,SMS
+CONV_00065,CLI_0042,2025-12-26T16:33:51.485835,Driving Licence,I've attached my bank statement,2023 P60 too old. Need 2024 or 2025.,True,True,True,Helpful,Phone
+CONV_00066,CLI_0039,2025-11-09T16:33:51.486100,Investment Statement,Do you need all of these?,Excellent! Got all documents. Let me review.,False,True,True,Neutral,SMS
+CONV_00067,CLI_0037,2025-11-28T16:33:51.486363,P60,"Sorry, I've been busy",Utility bill is perfect - within 3 months.,False,True,False,Helpful,Phone
+CONV_00068,CLI_0003,2026-01-18T16:33:51.486631,Payslip,Still need documents?,Don't worry - we can request from provider.,True,True,False,Frustrated,WhatsApp
+CONV_00069,CLI_0008,2025-12-06T16:33:51.486918,Passport,I've uploaded documents to portal,I see passport and utility bill. Just need payslip.,True,True,False,Frustrated,WhatsApp
+CONV_00070,CLI_0044,2026-01-04T16:33:51.487180,Pension Statement,Hope this is everything,Just send new licence - no need for both.,True,True,False,Neutral,Phone
+CONV_00071,CLI_0009,2026-01-12T16:33:51.487441,P60,I'm not sure what documents I need,No problem. P60 from last year works fine if no recent payslip.,True,True,False,Frustrated,SMS
+CONV_00072,CLI_0014,2026-01-12T16:33:51.487719,Mortgage Statement,Can I send via WhatsApp?,I see passport and utility bill. Just need payslip.,False,True,True,Helpful,SMS
+CONV_00073,CLI_0047,2026-01-09T16:33:51.487985,Driving Licence,I've sent everything,2023 P60 too old. Need 2024 or 2025.,False,False,False,Confused,Phone
+CONV_00074,CLI_0042,2026-01-24T16:33:51.488285,Bank Statement,Can I send via WhatsApp?,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,False,False,Helpful,Phone
+CONV_00075,CLI_0047,2025-11-28T16:33:51.488472,Driving Licence,Is this urgent?,Don't worry - we can request from provider.,False,True,True,Helpful,WhatsApp
+CONV_00076,CLI_0049,2025-11-04T16:33:51.488574,Pension Statement,I've lost some documents,Expired licence won't work. Can you use your passport?,True,True,False,Frustrated,WhatsApp
+CONV_00077,CLI_0005,2025-12-01T16:33:51.488944,Investment Statement,Do you need all of these?,All looks great!,True,True,True,Frustrated,WhatsApp
+CONV_00078,CLI_0013,2025-11-16T16:33:51.489033,Investment Statement,Can you remind me what you need?,I see passport and utility bill. Just need payslip.,True,True,False,Neutral,SMS
+CONV_00079,CLI_0006,2025-11-11T16:33:51.489111,Driving Licence,Does the utility bill need to be in my name?,Happy to clarify! I'll email checklist.,True,True,False,Neutral,Phone
+CONV_00080,CLI_0007,2025-11-08T16:33:51.489189,Investment Statement,Hope this is everything,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,True,False,Confused,Email
+CONV_00081,CLI_0025,2025-12-14T16:33:51.489269,Passport,How do I prove address?,No problem. P60 from last year works fine if no recent payslip.,False,False,False,Neutral,Phone
+CONV_00082,CLI_0010,2025-12-17T16:33:51.489346,Driving Licence,Can you remind me what you need?,No problem. P60 from last year works fine if no recent payslip.,True,True,True,Confused,Email
+CONV_00083,CLI_0029,2026-01-07T16:33:51.489424,Mortgage Statement,I've sent everything,"Perfect, thanks for bank statement.",True,True,False,Helpful,SMS
+CONV_00084,CLI_0048,2025-11-23T16:33:51.489501,Bank Statement,I've lost some documents,All looks great!,True,True,True,Helpful,SMS
+CONV_00085,CLI_0016,2026-01-17T16:33:51.489579,P60,"My driving licence is expired, is that ok?",I see passport and utility bill. Just need payslip.,True,False,False,Helpful,Phone
+CONV_00086,CLI_0014,2025-12-11T16:33:51.489694,Council Tax,I've lost some documents,Just send new licence - no need for both.,True,True,False,Neutral,Phone
+CONV_00087,CLI_0002,2025-11-16T16:33:51.489779,Passport,"My driving licence is expired, is that ok?",I see passport and utility bill. Just need payslip.,False,True,True,Helpful,SMS
+CONV_00088,CLI_0049,2025-12-02T16:33:51.489857,Mortgage Statement,I can't find my pension statement,Expired licence won't work. Can you use your passport?,True,False,True,Confused,WhatsApp
+CONV_00089,CLI_0045,2025-12-16T16:33:51.489940,Mortgage Statement,Does the utility bill need to be in my name?,Happy to clarify! I'll email checklist.,True,True,False,Frustrated,Email
+CONV_00090,CLI_0042,2026-01-08T16:33:51.490018,Pension Statement,Still need documents?,Perfect! They uploaded successfully.,False,True,False,Helpful,WhatsApp
+CONV_00091,CLI_0039,2025-11-04T16:33:51.490096,Mortgage Statement,Can I send via WhatsApp?,Thanks for sending these.,True,True,False,Helpful,Email
+CONV_00092,CLI_0035,2025-12-30T16:33:51.490172,Driving Licence,How do I prove address?,Council tax or utility bill works equally well.,True,True,False,Helpful,Phone
+CONV_00093,CLI_0009,2026-01-07T16:33:51.490249,Investment Statement,Do you need all of these?,No problem. P60 from last year works fine if no recent payslip.,True,True,False,Frustrated,SMS
+CONV_00094,CLI_0041,2025-11-18T16:33:51.490327,Passport,Documents requested - I've scanned them,Absolutely! WhatsApp is fine.,False,True,False,Helpful,Email
+CONV_00095,CLI_0046,2025-12-27T16:33:51.490408,Council Tax,I don't have a recent payslip,Happy to clarify! I'll email checklist.,True,True,False,Confused,Email
+CONV_00096,CLI_0049,2025-12-03T16:33:51.490485,Driving Licence,I've attached my bank statement,Utility bill is perfect - within 3 months.,False,True,True,Neutral,SMS
+CONV_00097,CLI_0044,2026-01-29T16:33:51.490567,Mortgage Statement,"I found my P60 from 2023, will that work?",Great! I see your passport and utility bill. Still waiting on P60.,True,True,False,Neutral,SMS
+CONV_00098,CLI_0030,2026-01-24T16:33:51.490671,Council Tax,I've sent everything,Expired licence won't work. Can you use your passport?,True,True,True,Helpful,WhatsApp
+CONV_00099,CLI_0042,2025-12-08T16:33:51.490759,Investment Statement,Still need documents?,Utility bill is perfect - within 3 months.,True,True,True,Confused,Phone
+CONV_00100,CLI_0045,2026-01-27T16:33:51.490838,Bank Statement,I've uploaded documents to portal,No rush! Whenever suits you.,True,True,False,Confused,Phone
+CONV_00101,CLI_0022,2025-11-21T16:33:51.490919,Driving Licence,Documents requested - I've scanned them,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,True,False,Frustrated,Phone
+CONV_00102,CLI_0036,2026-01-09T16:33:51.490997,Passport,Can I send via WhatsApp?,Use passport plus employer letter for overseas.,True,False,True,Frustrated,Email
+CONV_00103,CLI_0011,2025-12-11T16:33:51.491077,Utility Bill,"My driving licence is expired, is that ok?",All looks great!,True,True,False,Neutral,WhatsApp
+CONV_00104,CLI_0037,2026-01-20T16:33:51.491154,Council Tax,Hope this is everything,Perfect! They uploaded successfully.,False,True,False,Confused,Phone
+CONV_00105,CLI_0030,2025-11-26T16:33:51.491231,Payslip,Still need documents?,Excellent! Got all documents. Let me review.,True,False,False,Neutral,SMS
+CONV_00106,CLI_0002,2025-11-11T16:33:51.491308,Utility Bill,I've lost some documents,All set! Ready for advice meeting.,True,True,False,Frustrated,Phone
+CONV_00107,CLI_0033,2026-01-18T16:33:51.491386,Council Tax,I'm not sure what documents I need,Absolutely! WhatsApp is fine.,True,True,False,Helpful,Email
+CONV_00108,CLI_0006,2026-01-19T16:33:51.491463,Investment Statement,Do you need all of these?,No rush! Whenever suits you.,True,True,False,Frustrated,WhatsApp
+CONV_00109,CLI_0012,2026-01-14T16:33:51.491541,Council Tax,"I found my P60 from 2023, will that work?",I see passport and utility bill. Just need payslip.,True,True,False,Helpful,Email
+CONV_00110,CLI_0019,2026-01-22T16:33:51.491619,Driving Licence,Do you need all of these?,I see passport and utility bill. Just need payslip.,True,True,False,Helpful,SMS
+CONV_00111,CLI_0009,2026-01-11T16:33:51.491729,Utility Bill,Can you remind me what you need?,Absolutely! WhatsApp is fine.,False,True,False,Confused,WhatsApp
+CONV_00112,CLI_0039,2026-01-15T16:33:51.491813,Pension Statement,I've attached my bank statement,Excellent! Got all documents. Let me review.,False,False,False,Neutral,SMS
+CONV_00113,CLI_0050,2025-11-30T16:33:51.491895,P60,I don't have a recent payslip,Excellent! Got all documents. Let me review.,True,True,False,Frustrated,Phone
+CONV_00114,CLI_0005,2026-01-30T16:33:51.491973,Bank Statement,"I found my P60 from 2023, will that work?",Just send new licence - no need for both.,True,True,False,Frustrated,Email
+CONV_00115,CLI_0013,2025-11-08T16:33:51.492051,P60,Can I send via WhatsApp?,"Perfect, thanks for bank statement.",True,True,False,Confused,SMS
+CONV_00116,CLI_0021,2025-12-08T16:33:51.492178,Council Tax,"My driving licence is expired, is that ok?",Great! I see your passport and utility bill. Still waiting on P60.,True,True,False,Frustrated,Email
+CONV_00117,CLI_0029,2025-12-21T16:33:51.492275,Payslip,I can't find my pension statement,Use passport plus employer letter for overseas.,False,False,False,Frustrated,Email
+CONV_00118,CLI_0002,2026-01-22T16:33:51.492354,Passport,Can I send via WhatsApp?,No rush! Whenever suits you.,True,True,False,Helpful,Phone
+CONV_00119,CLI_0008,2025-11-14T16:33:51.492433,Passport,How do I prove address?,Use passport plus employer letter for overseas.,False,True,False,Frustrated,WhatsApp
+CONV_00120,CLI_0013,2025-11-06T16:33:51.492512,Pension Statement,Is this urgent?,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",False,False,False,Frustrated,WhatsApp
+CONV_00121,CLI_0021,2025-12-05T16:33:51.492590,Pension Statement,I've lost some documents,Expired licence won't work. Can you use your passport?,True,True,False,Confused,SMS
+CONV_00122,CLI_0043,2026-01-27T16:33:51.492701,Mortgage Statement,I've attached my bank statement,No rush! Whenever suits you.,False,False,False,Confused,Email
+CONV_00123,CLI_0031,2026-01-07T16:33:51.492783,Pension Statement,Can you remind me what you need?,Great! I see your passport and utility bill. Still waiting on P60.,True,False,False,Confused,Phone
+CONV_00124,CLI_0041,2025-11-04T16:33:51.492861,Investment Statement,Can I send via WhatsApp?,Don't worry - we can request from provider.,True,True,True,Neutral,Email
+CONV_00125,CLI_0032,2026-01-21T16:33:51.492943,Driving Licence,I can't find my pension statement,Just send new licence - no need for both.,False,True,False,Confused,SMS
+CONV_00126,CLI_0014,2025-11-04T16:33:51.493021,Mortgage Statement,Can I send via WhatsApp?,All set! Ready for advice meeting.,False,False,False,Neutral,Email
+CONV_00127,CLI_0021,2025-12-31T16:33:51.493100,Utility Bill,Documents requested - I've scanned them,Perfect! They uploaded successfully.,False,True,False,Neutral,Email
+CONV_00128,CLI_0008,2026-01-25T16:33:51.493180,Pension Statement,I've sent everything,I see passport and utility bill. Just need payslip.,True,True,False,Confused,Email
+CONV_00129,CLI_0013,2026-01-30T16:33:51.493258,Driving Licence,Hope this is everything,All set! Ready for advice meeting.,True,True,False,Confused,WhatsApp
+CONV_00130,CLI_0013,2025-12-20T16:33:51.493337,Payslip,I've attached my bank statement,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,True,False,Frustrated,Phone
+CONV_00131,CLI_0039,2026-01-24T16:33:51.493413,Investment Statement,I can't find my pension statement,Council tax or utility bill works equally well.,True,True,True,Confused,WhatsApp
+CONV_00132,CLI_0035,2025-11-04T16:33:51.493490,Mortgage Statement,I can't find my pension statement,Absolutely! WhatsApp is fine.,True,False,False,Frustrated,Email
+CONV_00133,CLI_0036,2025-12-05T16:33:51.493566,Payslip,I've sent everything,Perfect! They uploaded successfully.,False,True,True,Confused,SMS
+CONV_00134,CLI_0016,2025-11-23T16:33:51.493665,Utility Bill,"Bank won't give statement, what now?","Perfect, thanks for bank statement.",False,True,False,Neutral,WhatsApp
+CONV_00135,CLI_0035,2025-12-26T16:33:51.493753,Mortgage Statement,"I found my P60 from 2023, will that work?",No rush! Whenever suits you.,False,False,False,Confused,Email
+CONV_00136,CLI_0045,2026-01-15T16:33:51.493831,Council Tax,Documents requested - I've scanned them,Expired licence won't work. Can you use your passport?,True,True,False,Neutral,SMS
+CONV_00137,CLI_0004,2026-01-08T16:33:51.493921,Pension Statement,Do you need all of these?,All looks great!,True,False,False,Helpful,Phone
+CONV_00138,CLI_0019,2026-01-08T16:33:51.493999,Payslip,Does the utility bill need to be in my name?,Utility bill is perfect - within 3 months.,True,True,True,Confused,SMS
+CONV_00139,CLI_0048,2025-12-08T16:33:51.494078,Council Tax,How do I prove address?,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",False,True,False,Helpful,SMS
+CONV_00140,CLI_0011,2025-12-18T16:33:51.494156,Investment Statement,I'm not sure what documents I need,Perfect! They uploaded successfully.,True,True,False,Helpful,Phone
+CONV_00141,CLI_0047,2026-01-23T16:33:51.494233,Bank Statement,Still need documents?,"Perfect, thanks for bank statement.",False,True,False,Frustrated,SMS
+CONV_00142,CLI_0049,2025-11-23T16:33:51.494310,Payslip,How do I prove address?,Use passport plus employer letter for overseas.,True,False,True,Neutral,SMS
+CONV_00143,CLI_0005,2025-11-09T16:33:51.494387,P60,How do I prove address?,Don't worry - we can request from provider.,True,True,False,Neutral,SMS
+CONV_00144,CLI_0039,2025-12-28T16:33:51.494463,Driving Licence,I'm not sure what documents I need,Expired licence won't work. Can you use your passport?,True,False,False,Confused,Email
+CONV_00145,CLI_0031,2026-01-08T16:33:51.494542,Council Tax,"My driving licence is expired, is that ok?",Utility bill is perfect - within 3 months.,False,False,False,Helpful,WhatsApp
+CONV_00146,CLI_0014,2026-01-22T16:33:51.494619,Pension Statement,Still need documents?,Council tax or utility bill works equally well.,True,True,True,Confused,Email
+CONV_00147,CLI_0045,2025-12-07T16:33:51.494730,Council Tax,Is this urgent?,All set! Ready for advice meeting.,True,True,False,Neutral,Email
+CONV_00148,CLI_0027,2025-11-23T16:33:51.494811,Bank Statement,Hope this is everything,All looks great!,True,True,False,Confused,SMS
+CONV_00149,CLI_0021,2026-01-06T16:33:51.494894,Mortgage Statement,I've sent everything,Absolutely! WhatsApp is fine.,True,True,False,Helpful,SMS
+CONV_00150,CLI_0026,2025-11-05T16:33:51.494973,P60,How do I prove address?,Thanks for sending these.,True,True,True,Frustrated,Email
+CONV_00151,CLI_0033,2025-11-25T16:33:51.495050,Driving Licence,I can't find my pension statement,Excellent! Got all documents. Let me review.,True,True,True,Frustrated,Phone
+CONV_00152,CLI_0028,2025-12-20T16:33:51.495127,Mortgage Statement,Can you remind me what you need?,Excellent! Got all documents. Let me review.,True,True,False,Neutral,Phone
+CONV_00153,CLI_0001,2025-11-08T16:33:51.495207,Mortgage Statement,I've attached my bank statement,Great! I see your passport and utility bill. Still waiting on P60.,True,True,False,Confused,WhatsApp
+CONV_00154,CLI_0039,2025-11-17T16:33:51.495288,Payslip,Hope this is everything,No rush! Whenever suits you.,False,True,True,Helpful,SMS
+CONV_00155,CLI_0049,2026-01-11T16:33:51.495365,Bank Statement,I've uploaded documents to portal,Expired licence won't work. Can you use your passport?,True,True,False,Frustrated,SMS
+CONV_00156,CLI_0022,2026-01-18T16:33:51.495441,Council Tax,Can you remind me what you need?,No rush! Whenever suits you.,True,True,False,Frustrated,WhatsApp
+CONV_00157,CLI_0003,2025-12-19T16:33:51.495520,Pension Statement,I'm not sure what documents I need,Don't worry - we can request from provider.,True,False,False,Frustrated,SMS
+CONV_00158,CLI_0050,2025-11-24T16:33:51.495598,Utility Bill,"Bank won't give statement, what now?",I see passport and utility bill. Just need payslip.,False,True,False,Confused,Email
+CONV_00159,CLI_0036,2025-11-08T16:33:51.495705,P60,"Sorry, I've been busy",Happy to clarify! I'll email checklist.,True,True,False,Neutral,WhatsApp
+CONV_00160,CLI_0020,2026-01-20T16:33:51.495786,Payslip,Do you need all of these?,Excellent! Got all documents. Let me review.,True,True,True,Helpful,WhatsApp
+CONV_00161,CLI_0038,2026-01-31T16:33:51.495864,Passport,"Sorry, I've been busy","Perfect, thanks for bank statement.",True,True,False,Neutral,Phone
+CONV_00162,CLI_0046,2026-01-13T16:33:51.495950,Payslip,Can you remind me what you need?,Utility bill is perfect - within 3 months.,True,True,True,Frustrated,SMS
+CONV_00163,CLI_0021,2026-01-28T16:33:51.496028,Driving Licence,"I found my P60 from 2023, will that work?","Perfect, thanks for bank statement.",True,True,True,Neutral,Phone
+CONV_00164,CLI_0005,2025-12-02T16:33:51.496105,Utility Bill,Can you remind me what you need?,All set! Ready for advice meeting.,True,False,True,Frustrated,SMS
+CONV_00165,CLI_0002,2025-11-08T16:33:51.496224,Investment Statement,Do you need all of these?,No problem. P60 from last year works fine if no recent payslip.,True,True,False,Confused,WhatsApp
+CONV_00166,CLI_0026,2025-11-08T16:33:51.496305,Passport,I don't have a recent payslip,All set! Ready for advice meeting.,True,True,False,Helpful,Email
+CONV_00167,CLI_0023,2026-01-15T16:33:51.496385,Payslip,I've attached my bank statement,Utility bill is perfect - within 3 months.,True,True,False,Confused,Email
+CONV_00168,CLI_0016,2025-11-27T16:33:51.496462,Driving Licence,I don't have a recent payslip,No rush! Whenever suits you.,False,True,False,Confused,WhatsApp
+CONV_00169,CLI_0001,2025-11-06T16:33:51.496542,Pension Statement,I don't have a recent payslip,Expired licence won't work. Can you use your passport?,True,True,False,Frustrated,SMS
+CONV_00170,CLI_0046,2026-01-18T16:33:51.496620,Council Tax,"My driving licence is expired, is that ok?",Utility bill is perfect - within 3 months.,False,True,False,Helpful,Phone
+CONV_00171,CLI_0033,2026-01-09T16:33:51.496731,Payslip,Do you need all of these?,Absolutely! WhatsApp is fine.,True,True,False,Helpful,SMS
+CONV_00172,CLI_0030,2026-01-07T16:33:51.496813,Council Tax,"Sorry, I've been busy",Absolutely! WhatsApp is fine.,True,True,True,Helpful,Phone
+CONV_00173,CLI_0003,2026-01-13T16:33:51.496896,Mortgage Statement,Can you remind me what you need?,All set! Ready for advice meeting.,True,True,False,Confused,SMS
+CONV_00174,CLI_0019,2026-01-18T16:33:51.496974,Council Tax,"I found my P60 from 2023, will that work?",Expired licence won't work. Can you use your passport?,False,True,False,Confused,WhatsApp
+CONV_00175,CLI_0025,2025-12-04T16:33:51.497052,P60,I've lost some documents,Happy to clarify! I'll email checklist.,False,True,True,Frustrated,Email
+CONV_00176,CLI_0046,2025-12-22T16:33:51.497129,Payslip,Still need documents?,Perfect! They uploaded successfully.,False,True,False,Neutral,Phone
+CONV_00177,CLI_0021,2025-11-24T16:33:51.497209,P60,Still need documents?,All set! Ready for advice meeting.,False,True,True,Frustrated,Email
+CONV_00178,CLI_0009,2025-12-28T16:33:51.497286,Council Tax,How do I prove address?,Great! I see your passport and utility bill. Still waiting on P60.,True,True,False,Helpful,WhatsApp
+CONV_00179,CLI_0012,2025-11-17T16:33:51.497366,Payslip,I've lost some documents,Just send new licence - no need for both.,False,True,False,Neutral,WhatsApp
+CONV_00180,CLI_0021,2025-12-25T16:33:51.497443,Utility Bill,I've uploaded documents to portal,Thanks for sending these.,False,True,False,Neutral,WhatsApp
+CONV_00181,CLI_0045,2025-11-07T16:33:51.497520,Utility Bill,I've sent everything,Great! I see your passport and utility bill. Still waiting on P60.,False,True,True,Confused,SMS
+CONV_00182,CLI_0038,2025-11-07T16:33:51.497597,Payslip,Can I send via WhatsApp?,Perfect! They uploaded successfully.,False,True,True,Helpful,WhatsApp
+CONV_00183,CLI_0042,2025-12-06T16:33:51.497704,Passport,Does the utility bill need to be in my name?,Perfect! They uploaded successfully.,True,True,False,Confused,WhatsApp
+CONV_00184,CLI_0049,2025-12-14T16:33:51.497786,Payslip,I've lost some documents,Perfect! They uploaded successfully.,False,False,False,Neutral,SMS
+CONV_00185,CLI_0021,2025-12-14T16:33:51.497864,P60,I can't find my pension statement,I see passport and utility bill. Just need payslip.,False,True,True,Frustrated,Email
+CONV_00186,CLI_0017,2026-01-11T16:33:51.497947,Pension Statement,"Bank won't give statement, what now?",Excellent! Got all documents. Let me review.,True,False,False,Neutral,SMS
+CONV_00187,CLI_0011,2025-12-23T16:33:51.498030,Passport,I've sent everything,Thanks for sending these.,True,True,True,Confused,Email
+CONV_00188,CLI_0048,2025-12-18T16:33:51.498108,Passport,Documents requested - I've scanned them,"Perfect, thanks for bank statement.",False,True,False,Frustrated,SMS
+CONV_00189,CLI_0023,2025-12-16T16:33:51.498189,Passport,I've uploaded documents to portal,All looks great!,False,True,True,Confused,Phone
+CONV_00190,CLI_0037,2026-01-04T16:33:51.498267,Utility Bill,"Sorry, I've been busy",All set! Ready for advice meeting.,True,True,False,Frustrated,SMS
+CONV_00191,CLI_0002,2025-11-19T16:33:51.498345,Investment Statement,Do you need all of these?,Thanks for sending these.,True,False,False,Neutral,Email
+CONV_00192,CLI_0039,2025-11-09T16:33:51.498422,Utility Bill,"I found my P60 from 2023, will that work?",Great! I see your passport and utility bill. Still waiting on P60.,True,True,True,Neutral,Email
+CONV_00193,CLI_0041,2025-11-28T16:33:51.498500,Utility Bill,Does the utility bill need to be in my name?,Just send new licence - no need for both.,False,False,False,Helpful,Email
+CONV_00194,CLI_0023,2025-12-25T16:33:51.498578,Pension Statement,Is this urgent?,All looks great!,True,False,False,Neutral,Phone
+CONV_00195,CLI_0030,2025-12-31T16:33:51.498684,Driving Licence,I don't have a recent payslip,No problem. P60 from last year works fine if no recent payslip.,True,True,False,Confused,SMS
+CONV_00196,CLI_0048,2025-12-06T16:33:51.498770,Mortgage Statement,"My driving licence is expired, is that ok?","Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,True,False,Helpful,WhatsApp
+CONV_00197,CLI_0037,2025-11-28T16:33:51.498850,Pension Statement,I'm not sure what documents I need,Just send new licence - no need for both.,False,False,False,Confused,SMS
+CONV_00198,CLI_0043,2025-12-25T16:33:51.498935,Passport,I've attached my bank statement,No rush! Whenever suits you.,True,True,True,Frustrated,SMS
+CONV_00199,CLI_0004,2025-12-13T16:33:51.499012,Passport,I've attached my bank statement,No problem. P60 from last year works fine if no recent payslip.,True,True,False,Neutral,SMS
+CONV_00200,CLI_0027,2025-12-12T16:33:51.499089,Mortgage Statement,Can I send via WhatsApp?,2023 P60 too old. Need 2024 or 2025.,True,True,False,Frustrated,Phone
+CONV_00201,CLI_0037,2025-12-28T16:33:51.499166,Mortgage Statement,"I found my P60 from 2023, will that work?",Expired licence won't work. Can you use your passport?,True,True,False,Helpful,SMS
+CONV_00202,CLI_0017,2025-11-25T16:33:51.499243,Payslip,I've attached my bank statement,"Perfect, thanks for bank statement.",True,True,False,Frustrated,SMS
+CONV_00203,CLI_0023,2026-01-29T16:33:51.499320,Utility Bill,I can't find my pension statement,Great! I see your passport and utility bill. Still waiting on P60.,False,False,False,Neutral,SMS
+CONV_00204,CLI_0044,2025-12-19T16:33:51.499399,P60,Is this urgent?,Excellent! Got all documents. Let me review.,True,False,False,Frustrated,SMS
+CONV_00205,CLI_0013,2026-01-21T16:33:51.499476,Driving Licence,"My driving licence is expired, is that ok?",Thanks for sending these.,True,True,False,Neutral,Email
+CONV_00206,CLI_0024,2026-01-13T16:33:51.499553,Mortgage Statement,I've attached my bank statement,Excellent! Got all documents. Let me review.,True,False,False,Confused,Phone
+CONV_00207,CLI_0019,2026-01-21T16:33:51.499632,P60,Does the utility bill need to be in my name?,Just send new licence - no need for both.,True,False,True,Confused,Email
+CONV_00208,CLI_0017,2026-01-12T16:33:51.499742,Pension Statement,Can you remind me what you need?,Absolutely! WhatsApp is fine.,False,True,True,Neutral,WhatsApp
+CONV_00209,CLI_0044,2025-11-23T16:33:51.499822,Council Tax,"My driving licence is expired, is that ok?",2023 P60 too old. Need 2024 or 2025.,True,True,False,Helpful,SMS
+CONV_00210,CLI_0050,2025-12-12T16:33:51.499906,Passport,I've lost some documents,All looks great!,True,True,False,Helpful,Email
+CONV_00211,CLI_0035,2025-11-21T16:33:51.499984,Investment Statement,I've uploaded documents to portal,Use passport plus employer letter for overseas.,True,True,True,Helpful,SMS
+CONV_00212,CLI_0038,2025-12-04T16:33:51.500064,Utility Bill,I've attached my bank statement,Use passport plus employer letter for overseas.,True,True,True,Neutral,WhatsApp
+CONV_00213,CLI_0022,2025-12-20T16:33:51.500180,Payslip,I don't have a recent payslip,Don't worry - we can request from provider.,False,True,False,Neutral,Email
+CONV_00214,CLI_0024,2025-12-07T16:33:51.500263,Utility Bill,Hope this is everything,No problem. P60 from last year works fine if no recent payslip.,True,True,True,Helpful,Phone
+CONV_00215,CLI_0007,2025-11-28T16:33:51.500341,Utility Bill,"My driving licence is expired, is that ok?","Perfect, thanks for bank statement.",True,False,True,Frustrated,WhatsApp
+CONV_00216,CLI_0009,2025-12-27T16:33:51.500418,Passport,I don't have a recent payslip,Great! I see your passport and utility bill. Still waiting on P60.,False,True,True,Neutral,WhatsApp
+CONV_00217,CLI_0004,2025-11-18T16:33:51.500499,Payslip,I don't have a recent payslip,No rush! Whenever suits you.,False,True,True,Neutral,Email
+CONV_00218,CLI_0019,2026-01-16T16:33:51.500576,Payslip,Do you need all of these?,No rush! Whenever suits you.,False,True,False,Neutral,WhatsApp
+CONV_00219,CLI_0002,2026-01-19T16:33:51.500684,Driving Licence,Hope this is everything,Great! I see your passport and utility bill. Still waiting on P60.,False,True,True,Neutral,SMS
+CONV_00220,CLI_0027,2025-12-10T16:33:51.500767,Payslip,Documents requested - I've scanned them,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",True,True,False,Helpful,Email
+CONV_00221,CLI_0019,2026-01-07T16:33:51.500848,Investment Statement,How do I prove address?,Don't worry - we can request from provider.,True,True,False,Confused,Phone
+CONV_00222,CLI_0014,2026-01-04T16:33:51.500932,Driving Licence,I've lost some documents,All set! Ready for advice meeting.,True,True,False,Confused,Email
+CONV_00223,CLI_0023,2025-11-11T16:33:51.501010,Pension Statement,I've sent everything,Absolutely! WhatsApp is fine.,True,True,True,Frustrated,WhatsApp
+CONV_00224,CLI_0049,2026-01-06T16:33:51.501088,Investment Statement,Can I send via WhatsApp?,2023 P60 too old. Need 2024 or 2025.,True,True,False,Neutral,Email
+CONV_00225,CLI_0044,2025-11-29T16:33:51.501165,Investment Statement,Is this urgent?,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",False,True,True,Confused,WhatsApp
+CONV_00226,CLI_0018,2026-01-19T16:33:51.501243,Utility Bill,"Bank won't give statement, what now?",Perfect! They uploaded successfully.,True,True,False,Frustrated,Phone
+CONV_00227,CLI_0023,2026-01-03T16:33:51.501322,Mortgage Statement,I'm not sure what documents I need,Don't worry - we can request from provider.,False,True,True,Frustrated,Email
+CONV_00228,CLI_0024,2025-11-25T16:33:51.501399,Passport,Hope this is everything,Happy to clarify! I'll email checklist.,False,True,False,Neutral,Email
+CONV_00229,CLI_0037,2025-12-15T16:33:51.501482,Payslip,Documents requested - I've scanned them,Happy to clarify! I'll email checklist.,True,False,False,Helpful,WhatsApp
+CONV_00230,CLI_0041,2026-01-19T16:33:51.501560,Bank Statement,Can I send via WhatsApp?,"Perfect, thanks for bank statement.",True,True,False,Frustrated,Phone
+CONV_00231,CLI_0011,2025-12-07T16:33:51.501637,Payslip,I'm not sure what documents I need,Expired licence won't work. Can you use your passport?,True,True,False,Confused,WhatsApp
+CONV_00232,CLI_0007,2026-01-14T16:33:51.501747,Council Tax,I don't have a recent payslip,2023 P60 too old. Need 2024 or 2025.,True,True,True,Neutral,Email
+CONV_00233,CLI_0036,2026-01-19T16:33:51.501827,P60,How do I prove address?,Don't worry - we can request from provider.,True,False,False,Frustrated,Email
+CONV_00234,CLI_0038,2026-01-30T16:33:51.501911,Pension Statement,How do I prove address?,Expired licence won't work. Can you use your passport?,True,False,True,Neutral,Email
+CONV_00235,CLI_0012,2026-01-08T16:33:51.501989,Payslip,Is this urgent?,Expired licence won't work. Can you use your passport?,False,True,True,Helpful,WhatsApp
+CONV_00236,CLI_0016,2025-12-05T16:33:51.502067,Passport,I've sent everything,Don't worry - we can request from provider.,True,True,False,Neutral,SMS
+CONV_00237,CLI_0032,2026-01-07T16:33:51.502148,P60,I'm not sure what documents I need,Excellent! Got all documents. Let me review.,True,True,False,Helpful,Email
+CONV_00238,CLI_0036,2025-12-12T16:33:51.502229,Bank Statement,Can you remind me what you need?,I see passport and utility bill. Just need payslip.,True,True,False,Frustrated,Phone
+CONV_00239,CLI_0004,2025-11-26T16:33:51.502307,Pension Statement,Can you remind me what you need?,Great! I see your passport and utility bill. Still waiting on P60.,True,True,False,Confused,Phone
+CONV_00240,CLI_0004,2026-01-23T16:33:51.502384,Mortgage Statement,I've attached my bank statement,All set! Ready for advice meeting.,True,True,False,Frustrated,Email
+CONV_00241,CLI_0026,2025-12-06T16:33:51.502462,Bank Statement,I can't find my pension statement,Use passport plus employer letter for overseas.,False,True,False,Confused,SMS
+CONV_00242,CLI_0031,2025-12-14T16:33:51.502539,Passport,Hope this is everything,All set! Ready for advice meeting.,True,True,False,Helpful,Email
+CONV_00243,CLI_0046,2026-01-06T16:33:51.502617,Driving Licence,How do I prove address?,All looks great!,False,True,False,Neutral,Email
+CONV_00244,CLI_0050,2026-01-05T16:33:51.502725,Payslip,Do you need all of these?,Just send new licence - no need for both.,True,True,True,Neutral,Phone
+CONV_00245,CLI_0022,2025-11-15T16:33:51.502806,Driving Licence,I can't find my pension statement,Absolutely! WhatsApp is fine.,True,False,False,Frustrated,WhatsApp
+CONV_00246,CLI_0044,2025-11-12T16:33:51.502892,Passport,Still need documents?,I see passport and utility bill. Just need payslip.,True,True,False,Neutral,Email
+CONV_00247,CLI_0016,2025-12-15T16:33:51.502974,Council Tax,I've sent everything,I see passport and utility bill. Just need payslip.,True,True,False,Neutral,Phone
+CONV_00248,CLI_0018,2026-01-26T16:33:51.503052,Mortgage Statement,"My driving licence is expired, is that ok?",Utility bill is perfect - within 3 months.,True,True,True,Helpful,SMS
+CONV_00249,CLI_0016,2025-12-29T16:33:51.503130,Driving Licence,"Sorry, I've been busy",Use passport plus employer letter for overseas.,True,True,False,Neutral,Email
+CONV_00250,CLI_0043,2025-11-12T16:33:51.503208,Bank Statement,I've uploaded documents to portal,All looks great!,True,True,False,Neutral,WhatsApp
+CONV_00251,CLI_0037,2025-12-20T16:33:51.503285,Mortgage Statement,I can't find my pension statement,No rush! Whenever suits you.,True,True,False,Frustrated,SMS
+CONV_00252,CLI_0029,2026-01-19T16:33:51.503362,Utility Bill,Does the utility bill need to be in my name?,Don't worry - we can request from provider.,True,False,True,Neutral,SMS
+CONV_00253,CLI_0001,2025-11-22T16:33:51.503440,Investment Statement,How do I prove address?,No problem. P60 from last year works fine if no recent payslip.,True,True,True,Frustrated,SMS
+CONV_00254,CLI_0027,2025-11-15T16:33:51.503519,Mortgage Statement,How do I prove address?,All looks great!,True,True,False,Neutral,WhatsApp
+CONV_00255,CLI_0001,2026-01-31T16:33:51.503596,Driving Licence,Does the utility bill need to be in my name?,All set! Ready for advice meeting.,False,True,False,Frustrated,Email
+CONV_00256,CLI_0001,2026-01-10T16:33:51.503703,Passport,Do you need all of these?,Use passport plus employer letter for overseas.,False,True,True,Confused,SMS
+CONV_00257,CLI_0021,2025-11-17T16:33:51.503790,Utility Bill,"Bank won't give statement, what now?",Thanks for sending these.,False,True,True,Neutral,WhatsApp
+CONV_00258,CLI_0005,2025-11-15T16:33:51.503869,P60,"My driving licence is expired, is that ok?",Don't worry - we can request from provider.,True,True,False,Confused,Email
+CONV_00259,CLI_0048,2025-12-17T16:33:51.503952,Utility Bill,I've lost some documents,Expired licence won't work. Can you use your passport?,False,True,False,Helpful,WhatsApp
+CONV_00260,CLI_0027,2025-11-30T16:33:51.504030,Pension Statement,"My driving licence is expired, is that ok?",Great! I see your passport and utility bill. Still waiting on P60.,True,True,True,Neutral,Email
+CONV_00261,CLI_0049,2025-12-10T16:33:51.504107,Bank Statement,I've uploaded documents to portal,Use passport plus employer letter for overseas.,False,False,True,Frustrated,Email
+CONV_00262,CLI_0006,2025-12-06T16:33:51.504241,P60,I can't find my pension statement,No rush! Whenever suits you.,False,True,False,Helpful,WhatsApp
+CONV_00263,CLI_0022,2025-11-17T16:33:51.504326,Council Tax,"I found my P60 from 2023, will that work?",Thanks for sending these.,True,True,True,Helpful,Phone
+CONV_00264,CLI_0050,2026-01-07T16:33:51.504404,P60,Still need documents?,Thanks for sending these.,False,True,True,Neutral,WhatsApp
+CONV_00265,CLI_0039,2026-01-10T16:33:51.504482,Pension Statement,"Sorry, I've been busy",Perfect! They uploaded successfully.,True,True,True,Confused,SMS
+CONV_00266,CLI_0034,2025-11-12T16:33:51.504559,Investment Statement,Is this urgent?,Don't worry - we can request from provider.,True,True,True,Helpful,Email
+CONV_00267,CLI_0021,2025-11-28T16:33:51.504656,P60,"Bank won't give statement, what now?",Expired licence won't work. Can you use your passport?,True,True,False,Helpful,WhatsApp
+CONV_00268,CLI_0039,2026-01-31T16:33:51.504752,Payslip,Hope this is everything,Excellent! Got all documents. Let me review.,True,True,False,Frustrated,Email
+CONV_00269,CLI_0009,2026-01-26T16:33:51.504831,Payslip,I've uploaded documents to portal,All set! Ready for advice meeting.,False,False,True,Confused,SMS
+CONV_00270,CLI_0045,2025-11-29T16:33:51.504920,Bank Statement,I'm not sure what documents I need,Perfect! They uploaded successfully.,True,False,True,Confused,WhatsApp
+CONV_00271,CLI_0018,2025-11-10T16:33:51.505071,Passport,Is this urgent?,All set! Ready for advice meeting.,False,True,False,Neutral,Email
+CONV_00272,CLI_0004,2025-12-04T16:33:51.505153,Pension Statement,"Bank won't give statement, what now?",2023 P60 too old. Need 2024 or 2025.,True,True,False,Frustrated,Email
+CONV_00273,CLI_0027,2026-01-19T16:33:51.505236,Payslip,Still need documents?,No problem. P60 from last year works fine if no recent payslip.,True,True,True,Frustrated,WhatsApp
+CONV_00274,CLI_0031,2025-12-19T16:33:51.505314,Council Tax,Do you need all of these?,Thanks for sending these.,True,False,False,Helpful,SMS
+CONV_00275,CLI_0050,2025-11-10T16:33:51.505391,Bank Statement,"Bank won't give statement, what now?",All looks great!,False,False,False,Confused,Phone
+CONV_00276,CLI_0011,2026-01-05T16:33:51.505468,P60,I've sent everything,Perfect! They uploaded successfully.,True,True,True,Frustrated,Phone
+CONV_00277,CLI_0033,2026-01-13T16:33:51.505548,Driving Licence,I've attached my bank statement,Great! I see your passport and utility bill. Still waiting on P60.,False,True,True,Confused,Phone
+CONV_00278,CLI_0007,2026-01-18T16:33:51.505626,Bank Statement,"Bank won't give statement, what now?",All set! Ready for advice meeting.,False,True,False,Frustrated,WhatsApp
+CONV_00279,CLI_0026,2026-01-15T16:33:51.505742,Mortgage Statement,Do you need all of these?,2023 P60 too old. Need 2024 or 2025.,True,True,False,Neutral,Phone
+CONV_00280,CLI_0020,2025-12-14T16:33:51.505828,Investment Statement,How do I prove address?,Utility bill is perfect - within 3 months.,False,True,False,Helpful,WhatsApp
+CONV_00281,CLI_0002,2025-11-19T16:33:51.505914,Pension Statement,"I found my P60 from 2023, will that work?",I see passport and utility bill. Just need payslip.,True,False,True,Confused,SMS
+CONV_00282,CLI_0041,2026-01-12T16:33:51.505992,Payslip,I've sent everything,Thanks for sending these.,True,True,False,Neutral,Phone
+CONV_00283,CLI_0003,2025-11-14T16:33:51.506079,Payslip,I can't find my pension statement,Happy to clarify! I'll email checklist.,True,True,False,Confused,SMS
+CONV_00284,CLI_0002,2025-11-28T16:33:51.506225,Council Tax,"Bank won't give statement, what now?",Don't worry - we can request from provider.,True,True,True,Frustrated,SMS
+CONV_00285,CLI_0022,2026-01-02T16:33:51.506306,Council Tax,Does the utility bill need to be in my name?,"Thanks! For fact-find we need: (1) Proof of ID, (2) Proof of address, (3) Recent payslip or P60",False,True,False,Confused,SMS
+CONV_00286,CLI_0001,2025-12-27T16:33:51.506384,Mortgage Statement,Can you remind me what you need?,Use passport plus employer letter for overseas.,True,True,False,Neutral,Email
+CONV_00287,CLI_0010,2026-01-05T16:33:51.506467,Driving Licence,Can I send via WhatsApp?,No problem. P60 from last year works fine if no recent payslip.,True,False,True,Helpful,SMS
+CONV_00288,CLI_0004,2026-01-05T16:33:51.506560,Investment Statement,"Bank won't give statement, what now?",Perfect! They uploaded successfully.,True,True,True,Frustrated,WhatsApp
+CONV_00289,CLI_0039,2026-01-09T16:33:51.506667,Passport,Hope this is everything,All set! Ready for advice meeting.,False,True,False,Frustrated,SMS
+CONV_00290,CLI_0048,2025-12-23T16:33:51.506764,Driving Licence,Is this urgent?,All looks great!,True,True,False,Neutral,Phone
+CONV_00291,CLI_0048,2026-01-22T16:33:51.506843,Bank Statement,Can I send via WhatsApp?,2023 P60 too old. Need 2024 or 2025.,True,True,False,Confused,Phone
+CONV_00292,CLI_0003,2025-11-28T16:33:51.506926,Mortgage Statement,I've lost some documents,No rush! Whenever suits you.,False,True,True,Neutral,SMS
+CONV_00293,CLI_0025,2025-12-03T16:33:51.507003,Bank Statement,I'm not sure what documents I need,"Perfect, thanks for bank statement.",True,True,False,Frustrated,Phone
+CONV_00294,CLI_0043,2025-12-23T16:33:51.507080,Payslip,"My driving licence is expired, is that ok?",All looks great!,True,True,False,Neutral,SMS
+CONV_00295,CLI_0022,2025-12-06T16:33:51.507157,Mortgage Statement,Does the utility bill need to be in my name?,Expired licence won't work. Can you use your passport?,True,True,False,Confused,WhatsApp
+CONV_00296,CLI_0028,2025-12-08T16:33:51.507234,Passport,I don't have a recent payslip,Absolutely! WhatsApp is fine.,False,True,True,Frustrated,WhatsApp
+CONV_00297,CLI_0029,2025-11-19T16:33:51.507318,P60,Can I send via WhatsApp?,Excellent! Got all documents. Let me review.,True,True,False,Confused,Email
+CONV_00298,CLI_0001,2026-01-20T16:33:51.507395,Council Tax,I can't find my pension statement,All set! Ready for advice meeting.,True,True,False,Helpful,WhatsApp
+CONV_00299,CLI_0005,2025-12-14T16:33:51.507471,Council Tax,I can't find my pension statement,Excellent! Got all documents. Let me review.,False,True,True,Neutral,SMS
+CONV_00300,CLI_0045,2025-12-24T16:33:51.507549,Utility Bill,Can you remind me what you need?,"Perfect, thanks for bank statement.",True,True,True,Helpful,Phone
