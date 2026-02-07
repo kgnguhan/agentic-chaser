@@ -14,8 +14,8 @@ services:
     plan: free
 
     buildCommand: pip install -r requirements.txt
-    startCommand: streamlit run dashboard/streamlit_app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless true
-    preDeployCommand: python main.py init-db
+    # Free tier does not support preDeployCommand; run init-db on start (idempotent)
+    startCommand: python main.py init-db && streamlit run dashboard/streamlit_app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless true
 
     envVars:
       - key: DATABASE_URL

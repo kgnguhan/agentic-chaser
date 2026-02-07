@@ -220,7 +220,7 @@ You can host the dashboard and database on [Render](https://render.com) using th
 4. Render will create:
    - A **PostgreSQL** database (`agentic-chaser-db`, free tier).
    - A **Web Service** (`agentic-chaser`) that runs the Streamlit app.
-5. The app will get `DATABASE_URL` from the linked database. On each deploy, `python main.py init-db` runs before the app starts (so tables exist).
+5. The app will get `DATABASE_URL` from the linked database. On the free tier, `python main.py init-db` runs at startup (in the start command), since pre-deploy commands are not supported.
 6. After the first deploy, open the service URL (e.g. `https://agentic-chaser-xxxx.onrender.com`).
 
 ### Manual setup (without Blueprint)
@@ -228,10 +228,10 @@ You can host the dashboard and database on [Render](https://render.com) using th
 1. In Render, create a **PostgreSQL** database (free tier). Note the **Internal Database URL** (or External if you need it).
 2. Create a **Web Service**. Connect the same GitHub repo, branch `main`.
 3. **Build command:** `pip install -r requirements.txt`
-4. **Start command:** `streamlit run dashboard/streamlit_app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless true`
-5. **Pre-deploy command (optional but recommended):** `python main.py init-db`
-6. **Environment:** Add `DATABASE_URL` and set it to the Postgres connection string from step 1.
-7. Deploy. The app will be available at the service’s `.onrender.com` URL.
+4. **Start command:** `python main.py init-db && streamlit run dashboard/streamlit_app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless true`  
+   (Free tier does not support pre-deploy commands; init-db runs at startup and is idempotent.)
+5. **Environment:** Add `DATABASE_URL` and set it to the Postgres connection string from step 1.
+6. Deploy. The app will be available at the service’s `.onrender.com` URL.
 
 ### Notes for Render
 
