@@ -1,14 +1,28 @@
+# Database
 sqlalchemy
 psycopg2-binary
+
+# Config & env
 python-dotenv
+
+# ML (models/ml_models.py, agents using priority/sentiment)
+numpy
+pandas
+scikit-learn
 joblib
-altair
-langgraph
+
+# LangChain & LLM (utils/llm_helpers.py, agents, orchestration)
 langchain-core
 langchain-ollama
+langchain-community
 langchain-text-splitters
+langgraph
+
+# Dashboard
 streamlit
-pandas
-pytesseract
+altair
+
+# Document processing (OCR, images)
 Pillow
-# Optional: pdf2image (and poppler) for OCR on PDFs; otherwise only images are supported
+pytesseract
+# Optional: pdf2image (and poppler) for OCR on PDFs; otherwise only images
