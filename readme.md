@@ -205,3 +205,36 @@ The application loads `.env` from the **project root**. Missing optional variabl
 
 - **Ollama model not found (404)**  
   If using Ollama, pull the model: `ollama pull <model>` (e.g. `ollama pull llama3.2:1b`). Set `OLLAMA_MODEL` in `.env` to a model from `ollama list`.
+
+---
+
+## Deploy on Render
+
+You can host the dashboard and database on [Render](https://render.com) using the included Blueprint.
+
+### One-click from Blueprint (recommended)
+
+1. Sign in at [dashboard.render.com](https://dashboard.render.com) and connect your **GitHub** account.
+2. Click **New** → **Blueprint**.
+3. Connect the **agentic-chaser** repo and confirm the `render.yaml` in the root.
+4. Render will create:
+   - A **PostgreSQL** database (`agentic-chaser-db`, free tier).
+   - A **Web Service** (`agentic-chaser`) that runs the Streamlit app.
+5. The app will get `DATABASE_URL` from the linked database. On each deploy, `python main.py init-db` runs before the app starts (so tables exist).
+6. After the first deploy, open the service URL (e.g. `https://agentic-chaser-xxxx.onrender.com`).
+
+### Manual setup (without Blueprint)
+
+1. In Render, create a **PostgreSQL** database (free tier). Note the **Internal Database URL** (or External if you need it).
+2. Create a **Web Service**. Connect the same GitHub repo, branch `main`.
+3. **Build command:** `pip install -r requirements.txt`
+4. **Start command:** `streamlit run dashboard/streamlit_app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless true`
+5. **Pre-deploy command (optional but recommended):** `python main.py init-db`
+6. **Environment:** Add `DATABASE_URL` and set it to the Postgres connection string from step 1.
+7. Deploy. The app will be available at the service’s `.onrender.com` URL.
+
+### Notes for Render
+
+- **Free tier:** The web service may spin down after inactivity; the first request can be slow to wake.
+- **OCR:** The free Python environment does not include Tesseract. Document OCR will show as “OCR engine not available” unless you switch to a [Docker-based deploy](https://render.com/docs/docker) with a custom image that installs Tesseract.
+- **Ollama:** Not available on Render. Leave `OLLAMA_*` unset or point to an external LLM API if you add one later.
