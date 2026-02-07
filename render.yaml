@@ -13,9 +13,10 @@ services:
     runtime: python
     plan: free
 
-    buildCommand: pip install -r requirements.txt
+    # Use a venv so the start command sees the same Python and packages (Render run env can differ from build)
+    buildCommand: python -m venv venv && venv/bin/pip install --upgrade pip && venv/bin/pip install -r requirements.txt
     # Free tier does not support preDeployCommand; run init-db on start (idempotent)
-    startCommand: python main.py init-db && streamlit run dashboard/streamlit_app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless true
+    startCommand: venv/bin/python main.py init-db && venv/bin/streamlit run dashboard/streamlit_app.py --server.port=$PORT --server.address=0.0.0.0 --server.headless true
 
     envVars:
       - key: DATABASE_URL
